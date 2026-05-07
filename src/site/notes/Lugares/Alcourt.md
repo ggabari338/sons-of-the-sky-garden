@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lugares/alcourt/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/lugares/alcourt/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
