@@ -11,5 +11,5 @@ Víctimas confirmadas:
 - [[Personajes/Celestiales/Agent Beetle\|Agent Beetle]]
 
 Víctimas posibles:
-- [[Personajes/Eviternos/Stardust\|Stardust]]
+- [[Personajes/Celestiales/Stardust\|Stardust]]
 

@@ -5,8 +5,8 @@
 Principal grupo de vigilantes de [[Lugares/Elsbourg\|Elsbourg]] y del distrito de [[Lugares/Villeneuve\|Villeneuve]], con sede en la Torre de la Unidad.
 
 Historial de miembros:
-- [[Personajes/Eviternos/Legión\|Legión]] (1977-2002)
-- [[Personajes/Eviternos/Stardust\|Stardust]] (fundadora, 1977-2002)
+- [[Personajes/Celestiales/Legión\|Legión]] (1977-2002)
+- [[Personajes/Celestiales/Stardust\|Stardust]] (fundadora, 1977-2002)
 - [[Personajes/Celestiales/Ultratumba\|Ultratumba]] (1985-1990, re retiró para formar el [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]])
 - [[Personajes/Celestiales/Refraction\|Refraction]] (2011-, C-1)
 - [[Personajes/Celestiales/Oracle\|Oracle]] (1979-1992, fallecida en St. Clair)

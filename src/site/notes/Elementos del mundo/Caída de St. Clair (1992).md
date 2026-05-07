@@ -32,8 +32,8 @@ Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciu
 - [[Personajes/Celestiales/Polyhedron\|Polyhedron]]
 - [[Personajes/Celestiales/Vindicatus\|Vindicatus]] (caído en combate)
 - [[Personajes/Celestiales/Hawkheart\|Hawkheart]]
-- [[Personajes/Eviternos/Stardust\|Stardust]]
-- [[Personajes/Eviternos/Legión\|Legión]]
+- [[Personajes/Celestiales/Stardust\|Stardust]]
+- [[Personajes/Celestiales/Legión\|Legión]]
 - [[Personajes/Celestiales/Oracle\|Oracle]] (caída en combate)
 - [[Personajes/Celestiales/Manor\|Manor]]
 - [[Personajes/Celestiales/Ágata\|Ágata]] (caída en combate)

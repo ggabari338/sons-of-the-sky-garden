@@ -7,7 +7,7 @@ Es un barrio de clase media situado en la desembocadura del río, con dos grande
 Valor de Activos: 100.000 (+0 / 10%)
 
 - Academia Claude Vernier: una academia de idiomas con buena reputación. Los jugadores pueden ir ahí y aprender un idioma.
-- Boutique Julie Maret: la célebre Julie Maret tiene su propia tienda de ropa única, pero es conocida entre los vigilantes por ser la más famosa de sus costureras, responsable del diseño de los trajes de Stardust, [[Personajes/Celestiales/Centinela\|Centinela]], [[Personajes/Celestiales/Ultratumba\|Ultratumba]], [[Personajes/Eviternos/Legión\|Legión]] y [[Personajes/Eviternos/Kymandros\|Kymandros]], entre otros.
+- Boutique Julie Maret: la célebre Julie Maret tiene su propia tienda de ropa única, pero es conocida entre los vigilantes por ser la más famosa de sus costureras, responsable del diseño de los trajes de Stardust, [[Personajes/Celestiales/Centinela\|Centinela]], [[Personajes/Celestiales/Ultratumba\|Ultratumba]], [[Personajes/Celestiales/Legión\|Legión]] y [[Personajes/Eviternos/Kymandros\|Kymandros]], entre otros.
 
 
 Facción Principal: [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]]

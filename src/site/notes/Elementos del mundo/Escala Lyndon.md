@@ -17,7 +17,7 @@ Aunque se han confirmado las posiciones en la escala de algunos individuos, la m
 	- **Magnitud 4+:** 400 individuos, entre ellos [[Personajes/Celestiales/Phalanx\|Phalanx]], [[Personajes/Celestiales/Zealot\|Zealot]]
 	- **Magnitud 5+:** 180 individuos, entre ellos [[Personajes/Celestiales/Ultratumba\|Ultratumba]], [[Personajes/Celestiales/Fable\|Fable]], [[Personajes/Celestiales/Fuego Fatuo\|Fuego Fatuo]], [[Personajes/Celestiales/Plague\|Plague]]
 	- **Magnitud 6+:** 70 individuos, entre ellos [[Personajes/Celestiales/Ironside\|Ironside]], [[Personajes/Celestiales/Black Attila\|Black Attila]], [[Personajes/Eviternos/Malastair\|Malastair]]
-	- **Magnitud 7+:** 20 individuos, entre ellos [[Personajes/Eviternos/Stardust\|Stardust]], [[Personajes/Eviternos/Marais\|Marais]]
-	- **Magnitud 8+:** tan solo [[Personajes/Eviternos/Legión\|Legión]], [[Personajes/Celestiales/Centinela\|Centinela]] y [[Personajes/Celestiales/Mind Thief\|Mind Thief]]
+	- **Magnitud 7+:** 20 individuos, entre ellos [[Personajes/Celestiales/Stardust\|Stardust]], [[Personajes/Eviternos/Marais\|Marais]]
+	- **Magnitud 8+:** tan solo [[Personajes/Celestiales/Legión\|Legión]], [[Personajes/Celestiales/Centinela\|Centinela]] y [[Personajes/Celestiales/Mind Thief\|Mind Thief]]
 
 
