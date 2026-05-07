@@ -6,7 +6,7 @@
 
 { .block-language-dataview}
 
-:::gm
+::: gm
 Esto esta escondido
 
 :::
