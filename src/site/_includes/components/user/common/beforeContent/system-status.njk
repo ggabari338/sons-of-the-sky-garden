@@ -1,1 +1,29 @@
+<div id="system-status" style="margin-bottom: 30px; padding: 10px; border: 1px double #ff9800; background: rgba(255, 152, 0, 0.05); font-family: monospace; font-size: 0.85em; display: inline-block;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <span id="status-light" style="width: 8px; height: 8px; background: #ff9800; border-radius: 50%; box-shadow: 0 0 5px #ff9800; animation: blink 2s infinite;"></span>
+        <span style="color: #ff9800; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+            Estado del Archivo: <span style="color: #fff;">CONECTADO</span>
+        </span>
+    </div>
+    <div style="margin-top: 5px; color: #888;">
+        ID de Sesión: <span id="session-id" style="color: #666;">---</span> |
+        Sincronización: <span style="color: #aaa;">{% dayjs "now", "DD/MM/YYYY HH:mm" %}</span>
+    </div>
+</div>
 
+<style>
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+}
+</style>
+
+<script>
+    // Genera un ID de sesión persistente por visita
+    if (!window.sessionStorage.getItem('archive-sid')) {
+        const sid = 'SK-2026' + Math.floor(Math.random() * 9000 + 1000);
+        window.sessionStorage.setItem('archive-sid', sid);
+    }
+    document.getElementById('session-id').innerText = window.sessionStorage.getItem('archive-sid');
+</script>
