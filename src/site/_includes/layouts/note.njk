@@ -68,15 +68,24 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       {{ content | hideDataview | taggify | link | safe}}
-      {% for imp in dynamics.common.afterContent %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.notes.afterContent %}
-        {% include imp %}
-      {% endfor %}
-      {% include "components/user/notes/beforeContent/system-status.njk" ignore missing %}
+{% for imp in dynamics.notes.beforeContent %}
+  {% include imp %}
+{% endfor %}
+
+{% include "components/user/notes/beforeContent/system-status.njk" ignore missing %}
+
+{{ content | hideDataview | taggify | link | safe}}
+
+{% include "components/user/notes/afterContent/public-notes.njk" ignore missing %}
+
+{% for imp in dynamics.common.afterContent %}
+  {% include imp %}
+{% endfor %}
    
    {{ content | hideDataview | taggify | link | safe}}
+   {% include "components/user/notes/afterContent/public-notes.njk" ignore missing %}
+   
+   {% for imp in dynamics.common.afterContent %}
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true or dynamics.sidebar.top.length > 0 or dynamics.sidebar.bottom.length > 0%}
