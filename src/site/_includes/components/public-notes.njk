@@ -1,0 +1,115 @@
+
+    1 <div id="public-notes-container" style="margin-top: 50px; padding: 20px; border-top: 1px solid #333; font-family:
+      inherit;">
+    2     <h3 style="color: #e91e63; border-bottom: 1px solid #e91e63; display: inline-block; margin-bottom: 20px;">Notas
+      Públicas</h3>
+    3     <div id="notes-list" style="margin-bottom: 20px;">Cargando notas...</div>
+    4
+    5     <hr style="border: 0; border-top: 1px solid #222; margin: 20px 0;">
+    6
+    7     <form id="note-form" style="display: flex; flex-direction: column; gap: 10px; max-width: 500px;">
+    8         <input type="text" id="note-author" placeholder="Tu nombre (opcional)" style="padding: 10px; background:
+      #0a0a0a; color: white; border: 1px solid #333; border-radius: 4px;">
+    9         <textarea id="note-content" placeholder="Escribe una nota pública..." required style="padding: 10px;
+      background: #0a0a0a; color: white; border: 1px solid #333; border-radius: 4px; min-height: 80px; font-family:
+      inherit;"></textarea>
+   10
+   11         <div style="font-size: 0.9em; color: #888; display: flex; align-items: center; gap: 10px;">
+   12             <span>Anti-spam: ¿Cuánto es 2 + 2?</span>
+   13             <input type="number" id="spam-check" required style="width: 60px; background: #0a0a0a; color: white;
+      border: 1px solid #333; border-radius: 4px; padding: 5px;">
+   14         </div>
+   15
+   16         <button type="submit" style="padding: 12px; background: #e91e63; color: white; border: none; border-radius:
+      4px; cursor: pointer; font-weight: bold; transition: opacity 0.2s;">Publicar Nota</button>
+   17     </form>
+   18 </div>
+   19
+   20 <script>
+   21     const SUPABASE_URL = 'https://sywzhcqkdploazcvqfev.supabase.co';
+   22     const SUPABASE_KEY =
+      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN5d3poY3FrZHBsb2F6Y3ZxZmV2Iiwicm9sZSI6ImFub24i
+      LCJpYXQiOjE3NzgxNjc4MjEsImV4cCI6MjA5Mzc0MzgyMX0.hiNuqMqz5yQNBT8RdizRFru3VpY6C5e5AVdi-2FQH0U';
+   23     const PAGE_SLUG = window.location.pathname;
+   24
+   25     async function loadNotes() {
+   26         try {
+   27             const response = await
+      fetch(`${SUPABASE_URL}/rest/v1/public_notes?page_slug=eq.${encodeURIComponent(PAGE_SLUG)}&select=*&order=created_at.de
+      sc`, {
+   28                 headers: { 'apikey': SUPABASE_KEY, 'Authorization': `Bearer ${SUPABASE_KEY}` }
+   29             });
+   30             const notes = await response.json();
+   31             const list = document.getElementById('notes-list');
+   32
+   33             if (!notes || notes.length === 0) {
+   34                 list.innerHTML = '<p style="color: #666; font-style: italic;">No hay notas aún. ¡Sé el primero!</p>';
+   35                 return;
+   36             }
+   37
+   38             list.innerHTML = notes.map(n => `
+   39                 <div style="margin-bottom: 15px; padding: 15px; background: #111; border-left: 4px solid #e91e63;
+      border-radius: 0 4px 4px 0;">
+   40                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom:
+      8px;">
+   41                         <strong style="color: #e91e63;">${n.author || 'Anónimo'}</strong>
+   42                         <span style="font-size: 0.75em; color: #555;">${new
+      Date(n.created_at).toLocaleDateString()}</span>
+   43                     </div>
+   44                     <p style="margin: 0; color: #ccc; line-height: 1.4;">${n.content.replace(/</g,
+      "&lt;").replace(/>/g, "&gt;")}</p>
+   45                 </div>
+   46             `).join('');
+   47         } catch (err) {
+   48             console.error(err);
+   49         }
+   50     }
+   51
+   52     document.getElementById('note-form').addEventListener('submit', async (e) => {
+   53         e.preventDefault();
+   54         const btn = e.target.querySelector('button');
+   55         const author = document.getElementById('note-author').value;
+   56         const content = document.getElementById('note-content').value;
+   57         const spam = document.getElementById('spam-check').value;
+   58
+   59         if (spam !== "4") {
+   60             alert("Respuesta anti-spam incorrecta.");
+   61             return;
+   62         }
+   63
+   64         btn.disabled = true;
+   65         btn.innerText = 'Publicando...';
+   66
+   67         try {
+   68             const res = await fetch(`${SUPABASE_URL}/rest/v1/public_notes`, {
+   69                 method: 'POST',
+   70                 headers: {
+   71                     'apikey': SUPABASE_KEY,
+   72                     'Authorization': `Bearer ${SUPABASE_KEY}`,
+   73                     'Content-Type': 'application/json',
+   74                     'Prefer': 'return=representation'
+   75                 },
+   76                 body: JSON.stringify({
+   77                     page_slug: PAGE_SLUG,
+   78                     author: author.trim() || 'Anónimo',
+   79                     content: content.trim()
+   80                 })
+   81             });
+   82
+   83             if (res.ok) {
+   84                 document.getElementById('note-content').value = '';
+   85                 document.getElementById('spam-check').value = '';
+   86                 loadNotes();
+   87             } else {
+   88                 alert("Error al guardar la nota. Asegúrate de haber ejecutado el SQL en Supabase.");
+   89             }
+   90         } catch (err) {
+   91             alert("Error de conexión.");
+   92         } finally {
+   93             btn.disabled = false;
+   94             btn.innerText = 'Publicar Nota';
+   95         }
+   96     });
+   97
+   98     loadNotes();
+   99 </script>
