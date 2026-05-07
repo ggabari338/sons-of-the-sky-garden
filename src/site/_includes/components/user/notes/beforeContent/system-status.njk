@@ -7,7 +7,7 @@
     </div>
     <div style="margin-top: 5px; color: #888;">
         ID de Sesión: <span id="session-id" style="color: #666;">---</span> |
-        Sincronización: <span style="color: #aaa;">{% dayjs "now", "DD/MM/YYYY HH:mm" %}</span>
+        Sincronización: <span id="sync-time" style="color: #aaa;">Cargando...</span>
     </div>
 </div>
 
@@ -26,4 +26,14 @@
         window.sessionStorage.setItem('archive-sid', sid);
     }
     document.getElementById('session-id').innerText = window.sessionStorage.getItem('archive-sid');
+
+    // Pone la fecha y hora actual del sistema del usuario
+    const now = new Date();
+    document.getElementById('sync-time').innerText = now.toLocaleString('es-ES', {
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+    });
 </script>
