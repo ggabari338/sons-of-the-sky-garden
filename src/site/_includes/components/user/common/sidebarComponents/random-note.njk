@@ -1,13 +1,13 @@
-<div class="random-note-sidebar" style="margin-top: 20px; padding: 10px; border: 1px solid #333; background: #050505; border-radius: 4px; text-align: center;">
-    <div style="color: #ff9800; font-family: monospace; font-size: 0.65em; margin-bottom: 8px; letter-spacing: 1px; opacity: 0.8;">
-        RECURSOS ALEATORIOS
+<div class="random-note-sidebar" style="box-sizing: border-box; width: 100%; padding: 10px; border: 1px solid #ff9800; background: #0a0a0a; margin-bottom: 20px; border-radius: 2px;">
+    <div style="color: #ff9800; font-family: monospace; font-size: 10px; margin-bottom: 8px; text-align: center; letter-spacing: 1px;">
+        [ RECUPERACIÓN ALEATORIA ]
     </div>
 
-    <button id="sidebar-random-btn" style="width: 100%; background: #ff9800; color: black; border: none; padding: 8px; font-family: monospace; font-weight: bold; cursor: pointer; font-size: 0.75em; transition: 0.2s; text-transform: uppercase;">
-        [ INICIAR ]
+    <button id="sidebar-random-btn" style="width: 100%; background: #ff9800; color: black; border: none; padding: 10px 5px; font-family: monospace; font-weight: bold; cursor: pointer; font-size: 11px; transition: 0.2s; display: block; box-sizing: border-box;">
+        EJECUTAR ACCESO
     </button>
 
-    <div id="sidebar-random-status" style="font-size: 0.6em; color: #444; margin-top: 5px; font-family: monospace; height: 1em;"></div>
+    <div id="sidebar-random-status" style="font-size: 9px; color: #666; margin-top: 6px; font-family: monospace; text-align: center; min-height: 12px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"></div>
 </div>
 
 <script>
@@ -17,28 +17,39 @@
 
         btn.innerText = "BUSCANDO...";
         btn.disabled = true;
-        status.innerText = "ACCEDIENDO AL ÍNDICE...";
+        status.innerText = "ACCEDIENDO AL NÚCLEO...";
 
         try {
-            const response = await fetch('/search-index.json');
-            const data = await response.json();
+            // Intentamos con los dos nombres posibles del índice
+            let response = await fetch('/search-index.json');
+            if (!response.ok) {
+                response = await fetch('/searchData.json');
+            }
 
-            // Filtramos para obtener solo páginas válidas (que no sean la actual ni la home)
+            if (!response.ok) throw new Error("No index found");
+
+            const data = await response.json();
             const currentPath = window.location.pathname;
-            const pages = data.filter(p => p.url && p.url !== currentPath && p.url !== '/' && p.title);
+
+            // Filtramos páginas válidas
+            const pages = data.filter(p => p.url && p.url !== currentPath && p.url !== '/' && (p.title || p.label));
 
             if (pages.length > 0) {
                 const randomPage = pages[Math.floor(Math.random() * pages.length)];
                 status.innerText = "REDIRECCIONANDO...";
                 window.location.href = randomPage.url;
             } else {
-                btn.innerText = "ERROR";
-                setTimeout(() => { btn.innerText = "[ INICIAR ]"; btn.disabled = false; }, 2000);
+                throw new Error("No pages");
             }
         } catch (e) {
+            console.error(e);
             btn.innerText = "ERROR";
-            status.innerText = "FALLO DE CONEXIÓN";
-            setTimeout(() => { btn.innerText = "[ INICIAR ]"; btn.disabled = false; status.innerText = ""; }, 2000);
+            status.innerText = "ÍNDICE NO DISPONIBLE";
+            setTimeout(() => {
+                btn.innerText = "EJECUTAR ACCESO";
+                btn.disabled = false;
+                status.innerText = "";
+            }, 3000);
         }
     };
 </script>
