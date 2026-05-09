@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/personajes/humanos-y-otros/csatar-kovacs/","dg-note-properties":{}}
+---
+
+Csatár Kristóf Kovács era ya uno de los lugartenientes más influyentes de la [[Facciones y grupos/Mundo Criminal/Ligne Rouge\|Ligne Rouge]] a principios de los 90. Cuando su hijo Adám hizo prueba de su poder, Csatár lo usó como matón, dándole la conocida identidad de [[Personajes/Celestiales/Black Attila\|Black Attila]]. Pronto ascendió en la cadena de mando, y con el final de los nacimientos celestiales y la caída de la Ligne Rouge en 1994, Csatár tomó gran parte de sus hombres y se lanzó a combatir por los restos. 
+Entre mediados de los 90 y principios de los 2000, Csatár se centró en establecer su dominio en diversos distritos del sur de la ciudad, enfrentándose a otras facciones criminales emergentes como [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]], [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]] o Los [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]. Más en adelante, su expansión al oeste de la ciudad le llevó a hacer frente a la [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]], La [[Facciones y grupos/Mundo Criminal/Hermandad del Pez Plateado\|Hermandad del Pez Plateado]] y los [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]]. 
+Csatár fue asesinado en 2011, y su imperio se desmoronó casi al completo, a excepción de dos fragmentos controlados por [[Personajes/Celestiales/Krishan El Impuro\|Krishan El Impuro]] y [[Personajes/Celestiales/Ariane Ryo\|Ariane Ryo]] respectivamente, ambos en Kunst.
+
