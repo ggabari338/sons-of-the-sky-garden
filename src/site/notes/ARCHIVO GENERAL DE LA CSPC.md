@@ -5,10 +5,10 @@
 
 El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de archivos accesible por el personal administrativo de la Comisión y los vigilantes certificados. El acceso está abierto a todos los miembros con acceso C-1, C-2 y C-3. Los registros de niveles superiores no son accesibles sin las credenciales correspondientes.
 
-## CREDENCIAL DE ACCESO ACTIVA: C-1
-
+< CREDENCIAL DE ACCESO ACTIVA: C-1 >
 
 ##### **Documentos actualizados recientemente:**
+- [[ARCHIVO GENERAL DE LA CSPC\|ARCHIVO GENERAL DE LA CSPC]]
 - [[Personajes/Humanos y otros/Valentino Carrel\|Valentino Carrel]]
 - [[Personajes/Humanos y otros/Renée Alison\|Renée Alison]]
 - [[Personajes/Humanos y otros/Meng Jinchi\|Meng Jinchi]]
@@ -23,7 +23,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personajes/Humanos y otros/Csatár Kovács\|Csatár Kovács]]
 - [[Personajes/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]]
 - [[Personajes/Humanos y otros/Arminio Cresto\|Arminio Cresto]]
-- [[Personajes/Humanos y otros/Abraham Wolf\|Abraham Wolf]]
 
 { .block-language-dataview}
 
