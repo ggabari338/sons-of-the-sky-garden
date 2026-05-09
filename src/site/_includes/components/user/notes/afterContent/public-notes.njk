@@ -13,7 +13,7 @@
         <textarea id="note-content" placeholder="Escribe el reporte aquí..." required style="padding: 10px; background: #0a0a0a; color: white; border: 1px solid #333; border-radius: 4px; min-height: 80px; font-family: inherit;"></textarea>
 
         <div style="font-size: 0.9em; color: #ff9800; display: flex; align-items: center; gap: 10px; font-weight: bold;">
-            <span>⚠️ Clave de envío (369):</span>
+            <span>Clave de envío:</span>
             <input type="password" id="spam-check" required placeholder="???" style="width: 80px; background: #0a0a0a; color: #ff9800; border: 1px solid #ff9800; border-radius: 4px; padding: 5px; text-align: center;">
         </div>
 
@@ -26,27 +26,39 @@
     const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN5d3poY3FrZHBsb2F6Y3ZxZmV2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgxNjc4MjEsImV4cCI6MjA5Mzc0MzgyMX0.hiNuqMqz5yQNBT8RdizRFru3VpY6C5e5AVdi-2FQH0U';
     const PAGE_SLUG = window.location.pathname;
 
+    // FUNCIÓN DE ELIMINAR
     async function deleteNote(id) {
-        const code = prompt("AUTORIZACIÓN REQUERIDA: Ingrese código de Nivel C-3 para eliminar:");
+        const code = prompt("AUTORIZACIÓN REQUERIDA: Ingrese código de Administrador para completar la operación:");
         if (code !== "C-3") {
-            alert("ACCESO DENEGADO. Intento registrado.");
+            alert("ACCESO DENEGADO.");
             return;
         }
 
-        if (confirm("¿Confirmar eliminación permanente del registro?")) {
+        if (confirm("¿Confirmar eliminación del registro?")) {
             try {
                 const res = await fetch(`${SUPABASE_URL}/rest/v1/public_notes?id=eq.${id}`, {
                     method: 'DELETE',
-                    headers: { 'apikey': SUPABASE_KEY, 'Authorization': `Bearer ${SUPABASE_KEY}` }
+                    headers: {
+                        'apikey': SUPABASE_KEY,
+                        'Authorization': `Bearer ${SUPABASE_KEY}`,
+                        'Content-Type': 'application/json'
+                    }
                 });
-                if (res.ok) { loadNotes(); }
-            } catch (err) { alert("Error en el borrado."); }
+                if (res.ok) {
+                    loadNotes();
+                } else {
+                    const err = await res.json();
+                    console.error("Error Supabase:", err);
+                    alert("Error al borrar: Asegúrate de haber ejecutado el SQL del Paso 1.");
+                }
+            } catch (err) { alert("Error de conexión."); }
         }
     }
 
     async function loadNotes() {
         try {
-            const response = await fetch(`${SUPABASE_URL}/rest/v1/public_notes?page_slug=eq.${encodeURIComponent(PAGE_SLUG)}&select=*&order=created_at.desc`, {
+            // Buscamos notas que empiecen por el slug de esta página (para incluir conceptos)
+            const response = await fetch(`${SUPABASE_URL}/rest/v1/public_notes?page_slug=ilike.${encodeURIComponent(PAGE_SLUG)}*&select=*&order=created_at.desc`, {
                 headers: { 'apikey': SUPABASE_KEY, 'Authorization': `Bearer ${SUPABASE_KEY}` }
             });
             const notes = await response.json();
@@ -57,20 +69,22 @@
                 return;
             }
 
-            list.innerHTML = notes.map(n => `
+            list.innerHTML = notes.map(n => {
+                const concept = n.page_slug.includes('concept:') ? n.page_slug.split('concept:')[1] : 'General';
+                return `
                 <div style="margin-bottom: 15px; padding: 15px; background: #111; border-left: 4px solid #ff9800; border-radius: 0 4px 4px 0; position: relative;">
                     <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px;">
                         <div>
                             <strong style="color: #ff9800;">${(n.author || 'Anónimo').replace(/</g, "&lt;")}</strong>
                             <span style="color: #555; margin: 0 5px;">|</span>
-                            <span style="color: #888; font-size: 0.9em;">Concepto: ${((n.page_slug.includes('concept:') ? n.page_slug.split('concept:')[1] : 'General')).replace(/</g, "&lt;")}</span>
+                            <span style="color: #888; font-size: 0.9em;">Concepto: ${concept.replace(/</g, "&lt;")}</span>
                         </div>
-                        <button onclick="deleteNote('${n.id}')" style="background: none; border: none; color: #444; cursor: pointer; font-size: 1.2em;" title="Eliminar (C-3)">×</button>
+                        <button onclick="deleteNote('${n.id}')" style="background: none; border: none; color: #444; cursor: pointer; font-size: 1.5em; line-height: 1; padding: 0 5px;" title="Eliminar (C-3)">×</button>
                     </div>
                     <p style="margin: 0; color: #ccc; line-height: 1.4; white-space: pre-wrap;">${n.content.replace(/</g, "&lt;")}</p>
                     <div style="font-size: 0.7em; color: #444; margin-top: 10px;">REC: ${new Date(n.created_at).toLocaleString()}</div>
                 </div>
-            `).join('');
+                `}).join('');
         } catch (err) { console.error(err); }
     }
 
@@ -91,7 +105,7 @@
         btn.innerText = 'ENVIANDO...';
 
         try {
-            await fetch(`${SUPABASE_URL}/rest/v1/public_notes`, {
+            const res = await fetch(`${SUPABASE_URL}/rest/v1/public_notes`, {
                 method: 'POST',
                 headers: {
                     'apikey': SUPABASE_KEY,
@@ -105,8 +119,10 @@
                 })
             });
 
-            document.getElementById('note-form').reset();
-            loadNotes();
+            if (res.ok) {
+                document.getElementById('note-form').reset();
+                loadNotes();
+            }
         } catch (err) { alert("Error de sistema."); }
         finally {
             btn.disabled = false;
