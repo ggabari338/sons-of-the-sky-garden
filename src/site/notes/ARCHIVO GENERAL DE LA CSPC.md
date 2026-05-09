@@ -7,7 +7,12 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 < CREDENCIAL DE ACCESO ACTIVA: C-1 >
 
+
 ##### **Documentos actualizados recientemente:**
+- [[Personajes/Jugadores/Operativo Tango Bravo Delta/Jillian\|Jillian]]
+- [[Personajes/Jugadores/Operativo Tango Bravo Delta/Jeanclim\|Jeanclim]]
+- [[Personajes/Jugadores/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
+- [[Personajes/Jugadores/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
 - [[ARCHIVO GENERAL DE LA CSPC\|ARCHIVO GENERAL DE LA CSPC]]
 - [[Personajes/Humanos y otros/Valentino Carrel\|Valentino Carrel]]
 - [[Personajes/Humanos y otros/Renée Alison\|Renée Alison]]
@@ -19,10 +24,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personajes/Humanos y otros/Jessica Niel\|Jessica Niel]]
 - [[Personajes/Humanos y otros/Isidora Nasca\|Isidora Nasca]]
 - [[Personajes/Humanos y otros/Dra. Kanwal Sharma\|Dra. Kanwal Sharma]]
-- [[Personajes/Humanos y otros/Dr. Alabaster\|Dr. Alabaster]]
-- [[Personajes/Humanos y otros/Csatár Kovács\|Csatár Kovács]]
-- [[Personajes/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]]
-- [[Personajes/Humanos y otros/Arminio Cresto\|Arminio Cresto]]
 
 { .block-language-dataview}
 
