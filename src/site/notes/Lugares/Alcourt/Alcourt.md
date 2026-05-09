@@ -13,7 +13,7 @@ Es la zona univeristaria de la ciudad.
 - [[Lugares/Alcourt/Instituto Arcadia\|Instituto Arcadia]]
 ### Rêverie
 El barrio sur de Alcourt, caracterizado por su animada vida nocturna, casinos y prostíbulos. Por el día, sigue siendo la zona más comercial del distrito, llena de actividades y eventos.
-- Quasar Palace: controlado por el [[Facciones y grupos/Mundo Criminal/Clan Fauvel\|Clan Fauvel]], es su principal base de operaciones.
+- [[Lugares/Alcourt/Quasar Palace\|Quasar Palace]]
 
 Valor de Activos: 100.000 (+0 / 10%)
 

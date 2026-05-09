@@ -7,7 +7,7 @@ Se trata de un distrito antiguo situado al norte de la isla de la lágrima. Su i
 Valor de Activos: 75.000 (+1 / 11%)
 
 - Iglesia de St Michel: se trata de una iglesia de gran tamaño y estilo barroco.
-- Orfanato Nuevo Amanecer: un orfanato religioso de subvención privada que permitía el cuidado de niños celestiales. Ahora es un centro religioso.
+- [[Lugares/Artisans/Orfanato Nuevo Amanecer\|Orfanato Nuevo Amanecer]] 
 - Sinagoga del Artesano: la única sinagoga de la ciudad.
 - Sede del [[Facciones y grupos/Operativos de Vigilantes/Operativo Paradox\|Operativo Paradox]]: es la sede del principal grupo de vigilantes del barrio.
 - La Plaza de los Artesanos: El corazón del barrio, una plaza vibrante rodeada de talleres y tiendas donde los artesanos locales exponen y venden sus productos. Es un lugar lleno de historia y tradición.

@@ -6,12 +6,12 @@ Después de la [[Elementos del mundo/Catástrofe de Étoile (2001)\|Catástrofe 
 
 ### Fleurette
 Es un barrio que conservó su aspecto previo a la catástrofe de étoile.
--  Cámara de Comercio de Elsbourg: El centro de operaciones para todas las grandes transacciones y acuerdos comerciales de la ciudad. Su edificio de vidrio y acero refleja el espíritu de modernidad que caracteriza a Étoile.
+- Cámara de Comercio de Elsbourg: El centro de operaciones para todas las grandes transacciones y acuerdos comerciales de la ciudad. Su edificio de vidrio y acero refleja el espíritu de modernidad que caracteriza a Étoile.
 - Silex Motor: un taller para vehículos
 ### Solstice
 Es el barrio central de étoile, el más afectado por la catástrofe y aquel que más tarde fue reconstruido para convertirse en en la ciudad futurista posterior. Ya antes de la catástrofe era el barrio financiero de Elsbourg, motivo por el cual la reconstrucción se tomó con tanta prisa.
-- Torre Vortex: con noventa plantas y más de 400 metros de altura, es el edificio más alto de la ciudad, reconocible por su aspecto de cuchillo y sus cristales con tonos azules y verdosos. Es la sede mundial de [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]].
-- Plaza de la singularidad: Una amplia plaza pública situada frente a la Torre Vortex, con fuentes modernas y esculturas interactivas que representan el poder y el progreso de la tecnología. Es el epicentro financiero y un lugar frecuentado por ejecutivos.
+- [[Lugares/Étoile/Crystal Edge Center\|Crystal Edge Center]]
+- Plaza de la singularidad: Una amplia plaza pública situada frente a la Torre Crystal Edge, con fuentes modernas y esculturas interactivas que representan el poder y el progreso de la tecnología. Es el epicentro financiero y un lugar frecuentado por ejecutivos.
 ### La Garenne
 Es el barrio del norte de étoile, no fue muy afectado por la catástrofe.
 - Estadio de Elsbourg: …
