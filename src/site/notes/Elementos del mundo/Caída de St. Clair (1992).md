@@ -37,7 +37,7 @@ Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciu
 - [[Personajes/Celestiales/Oracle\|Oracle]] (caída en combate)
 - [[Personajes/Celestiales/Manor\|Manor]]
 - [[Personajes/Celestiales/Ágata\|Ágata]] (caída en combate)
-- Ningaumaniq ([[Personajes/Jugadores/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])
+- Ningaumaniq ([[Personajes/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])
 - Chamán (caído en combate)
 - [[Personajes/Celestiales/Cicada\|Cicada]]
 - Soleile (caída en combate)

@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/personajes/usuarios/operativo-tango-bravo-delta/hugh-hands/","dg-note-properties":{}}
+---
+
+Hugh Hands fue un célebre boxeador celestial y celebridad de la televisión estadounidense. Fue medalla de bronce en el [[Elementos del mundo/Watcher Championship\|Watcher Championship]] de 1994. Llegó a promocionar la serie de [[Elementos del mundo/Autómatas AR\|Autómatas AR]] de [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]] diseñados a su imagen que estaban destinados para el entrenamiento con celestiales. Tiempo después, cuando ya se sabía que su adicción a las perlas le había perjudicado mucho y ese era el motivo de que ya no hiciera más apariciones públicas, se le planteó la idea de que el autómata que tanto había promocionado había acabado siendo más exitoso que él como boxeador. Motivado por demostrar su valía, Hugh se enfrentó a uno de estos autómatas en directo, y fue derrotado. Jamás volvió a aparecer en la televisión.

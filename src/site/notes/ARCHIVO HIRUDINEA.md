@@ -10,11 +10,12 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[REGISTRO DE ACTIVIDAD\|REGISTRO DE ACTIVIDAD]]
 - [[ARCHIVO HIRUDINEA\|ARCHIVO HIRUDINEA]]
-- [[Personajes/Jugadores/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
-- [[Personajes/Jugadores/Operativo Tango Bravo Delta/Jillian\|Jillian]]
-- [[Personajes/Jugadores/Operativo Tango Bravo Delta/Jeanclim\|Jeanclim]]
-- [[Personajes/Jugadores/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
+- [[Personajes/USUARIOS/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
+- [[Personajes/USUARIOS/Operativo Tango Bravo Delta/Jillian\|Jillian]]
+- [[Personajes/USUARIOS/Operativo Tango Bravo Delta/Jeanclim\|Jeanclim]]
+- [[Personajes/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
 - [[Personajes/Humanos y otros/Valentino Carrel\|Valentino Carrel]]
 - [[Personajes/Humanos y otros/Renée Alison\|Renée Alison]]
 - [[Personajes/Humanos y otros/Meng Jinchi\|Meng Jinchi]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personajes/Humanos y otros/Jesús Villareal\|Jesús Villareal]]
 - [[Personajes/Humanos y otros/Jessica Niel\|Jessica Niel]]
 - [[Personajes/Humanos y otros/Isidora Nasca\|Isidora Nasca]]
-- [[Personajes/Humanos y otros/Dra. Kanwal Sharma\|Dra. Kanwal Sharma]]
 
 { .block-language-dataview}
 
