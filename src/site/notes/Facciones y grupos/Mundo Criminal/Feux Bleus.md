@@ -6,7 +6,7 @@ Una banda formada que fue fundada en los años 80 por jóvenes indignados ante l
 
 - Líderes: Consejo de los Grandes, [[Personajes/Humanos y otros/Clovis L'Arlequin\|Clovis L'Arlequin]]
 - Centros de Poder: Conseil des Grands, El Limbo
-- Territorios: [[Lugares/Cité Bleue\|Cité Bleue]]
+- Territorios: [[Lugares/Cité Bleue/Cité Bleue\|Cité Bleue]]
 
 **
 

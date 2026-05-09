@@ -6,6 +6,6 @@ Legión, cuya identidad real aún permanece en secreto, es uno de los primeros v
 
 Pese a su clasificación como el celestial más peligroso del mundo, Legión es conocido por haber sido la mano derecha de [[Personajes/Celestiales/Stardust\|Stardust]]. Combatió contra la [[Elementos del mundo/Aureocracia Megalesa (1968-1977)\|Aureocracia Megalesa (1968-1977)]] hasta su caída y se unió al [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] desde su formación en 1977. 
 
-A nivel personal, se sabe muy poco de él. Es un hombre solitario, que vive en su templo metálico de arquitectura clásica en el [[Lugares/Bosque de Lacan\|Bosque de Lacan]], donde ha sido avistado ciudando de unos viñedos personales cercanos a su dominio.
+A nivel personal, se sabe muy poco de él. Es un hombre solitario, que vive en su templo metálico de arquitectura clásica en el [[Lugares/Fuera de Elsbourg/Bosque de Lacan\|Bosque de Lacan]], donde ha sido avistado ciudando de unos viñedos personales cercanos a su dominio.
 
 Legión abandonó el Eclipse en 2002 tras la desaparición de Stardust, y se retiró para vivir en soledad en su mansión, donde sigue hoy en día.

@@ -6,6 +6,6 @@ Fue un escuadrón de vigilantes veteranos que custodiaban el barrio de los artes
 
 - Líder: [[Personajes/Celestiales/Hawkheart\|Hawkheart]]
 - Otros miembros: [[Personajes/Celestiales/Yokai\|Yokai]], [[Personajes/Celestiales/Agent Beetle\|Agent Beetle]]
-- Centro de Poder: Sede del Paradox crew, [[Lugares/Artisans\|Artisans]]
+- Centro de Poder: Sede del Paradox crew, [[Lugares/Artisans/Artisans\|Artisans]]
 
 

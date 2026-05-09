@@ -6,6 +6,6 @@ De los clanes urbanos, el Clan Fauvel es aquel que mantiene la mejor relación c
 
 - Líderes: [[Personajes/Humanos y otros/Laurie Lys\|Laurie Lys]]
 - Otros personajes: X
-- Centro de Poder: [[Quasar Palace\|Quasar Palace]]
+- Centro de Poder: [[Lugares/Alcourt/Quasar Palace\|Quasar Palace]]
 - Territorios: X
 

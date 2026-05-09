@@ -9,5 +9,5 @@ El líder, un hombre de raíces nobles españolas, el Conde Helios Santana, es u
 - Líder: [[Personajes/Humanos y otros/Conde Helios Santana\|Conde Helios Santana]]
 - Otros personajes: [[Personajes/Humanos y otros/Enzo Duque\|Enzo Duque]]
 - Centro de Poder: 
-- Territorios: [[Lugares/Petite Espagne\|Petite Espagne]]
+- Territorios: [[Lugares/Petite Espagne/Petite Espagne\|Petite Espagne]]
 
