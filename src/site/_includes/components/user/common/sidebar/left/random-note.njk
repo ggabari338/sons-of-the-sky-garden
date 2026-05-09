@@ -1,0 +1,55 @@
+<div class="random-note-sidebar" style="box-sizing: border-box; width: 100%; padding: 10px; border: 1px solid #ff9800; background: #0a0a0a; margin-bottom: 20px; border-radius: 2px;">
+    <div style="color: #ff9800; font-family: monospace; font-size: 10px; margin-bottom: 8px; text-align: center; letter-spacing: 1px;">
+        [ RECUPERACIÓN ALEATORIA ]
+    </div>
+
+    <button id="sidebar-random-btn" style="width: 100%; background: #ff9800; color: black; border: none; padding: 10px 5px; font-family: monospace; font-weight: bold; cursor: pointer; font-size: 11px; transition: 0.2s; display: block; box-sizing: border-box;">
+        EJECUTAR ACCESO
+    </button>
+
+    <div id="sidebar-random-status" style="font-size: 9px; color: #666; margin-top: 6px; font-family: monospace; text-align: center; min-height: 12px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"></div>
+</div>
+
+<script>
+    document.getElementById('sidebar-random-btn').onclick = async function() {
+        const btn = this;
+        const status = document.getElementById('sidebar-random-status');
+
+        btn.innerText = "BUSCANDO...";
+        btn.disabled = true;
+        status.innerText = "ACCEDIENDO AL NÚCLEO...";
+
+        try {
+            // Intentamos con los dos nombres posibles del índice
+            let response = await fetch('/search-index.json');
+            if (!response.ok) {
+                response = await fetch('/searchData.json');
+            }
+
+            if (!response.ok) throw new Error("No index found");
+
+            const data = await response.json();
+            const currentPath = window.location.pathname;
+
+            // Filtramos páginas válidas
+            const pages = data.filter(p => p.url && p.url !== currentPath && p.url !== '/' && (p.title || p.label));
+
+            if (pages.length > 0) {
+                const randomPage = pages[Math.floor(Math.random() * pages.length)];
+                status.innerText = "REDIRECCIONANDO...";
+                window.location.href = randomPage.url;
+            } else {
+                throw new Error("No pages");
+            }
+        } catch (e) {
+            console.error(e);
+            btn.innerText = "ERROR";
+            status.innerText = "ÍNDICE NO DISPONIBLE";
+            setTimeout(() => {
+                btn.innerText = "EJECUTAR ACCESO";
+                btn.disabled = false;
+                status.innerText = "";
+            }, 3000);
+        }
+    };
+</script>
