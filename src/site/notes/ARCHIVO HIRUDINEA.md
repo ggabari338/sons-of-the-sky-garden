@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Elementos del mundo/Caída de St. Clair (1992)\|Caída de St. Clair (1992)]]
-- [[Personajes/Celestiales/Polyhedron\|Polyhedron]]
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]]
-- [[Personajes/Celestiales/Nihil\|Nihil]]
-- [[Soleile\|Soleile]]
-- [[Chamán\|Chamán]]
-- [[Personajes/Celestiales/Cicada\|Cicada]]
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Trounoir\|Operativo Trounoir]]
-- [[Personajes/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
-- [[REGISTRO DE ACTIVIDAD\|REGISTRO DE ACTIVIDAD]]
-- [[ARCHIVO HIRUDINEA\|ARCHIVO HIRUDINEA]]
-- [[Personajes/USUARIOS/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
-- [[Personajes/USUARIOS/Operativo Tango Bravo Delta/Jillian\|Jillian]]
-- [[Personajes/USUARIOS/Operativo Tango Bravo Delta/Jeanclim\|Jeanclim]]
+- [[Personajes/Humanos y otros/Saul Carrel\|Saul Carrel]]
+- [[Personajes/Humanos y otros/El Carnicero de Trinité\|El Carnicero de Trinité]]
+- [[Personajes/Humanos y otros/Comisario Jorge Herrera\|Comisario Jorge Herrera]]
+- [[Personajes/Humanos y otros/Clovis L'Arlequin\|Clovis L'Arlequin]]
+- [[Personajes/Humanos y otros/Armel\|Armel]]
+- [[Personajes/Celestiales/Ember\|Ember]]
+- [[Personajes/Celestiales/Dragonborn\|Dragonborn]]
+- [[Personajes/Celestiales/Permafrost\|Permafrost]]
+- [[Personajes/Celestiales/Nightveil\|Nightveil]]
+- [[Personajes/Celestiales/Maniac\|Maniac]]
+- [[Personajes/Celestiales/Labyrinth\|Labyrinth]]
+- [[Personajes/Celestiales/Hexafist\|Hexafist]]
+- [[Personajes/Celestiales/Green Knight\|Green Knight]]
+- [[Personajes/Celestiales/Gaol\|Gaol]]
+- [[Personajes/Celestiales/Furnace\|Furnace]]
 
 { .block-language-dataview}
 
