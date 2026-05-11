@@ -6,7 +6,7 @@ El Operativo Trounoir fue un escuadrón de vigilantes que operó entre finales d
 
 Miembros:
 - [[Personajes/Celestiales/Nihil\|Nihil]]
-- [[Soleile\|Soleile]]
-- [[Chamán\|Chamán]]
+- [[Personajes/Celestiales/Soleile\|Soleile]]
+- [[Personajes/Celestiales/Chamán\|Chamán]]
 - [[Personajes/Celestiales/Cicada\|Cicada]]
 - Ningaumaniq ([[Personajes/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])

@@ -48,8 +48,8 @@ Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciu
 
 **Operativo Trounoir**
 - [[Personajes/Celestiales/Nihil\|Nihil]] - *oficial al mando*
-- [[Soleile\|Soleile]] (caída en combate)
-- [[Chamán\|Chamán]] (caído en combate)
+- [[Personajes/Celestiales/Soleile\|Soleile]] (caída en combate)
+- [[Personajes/Celestiales/Chamán\|Chamán]] (caído en combate)
 - [[Personajes/Celestiales/Cicada\|Cicada]]
 - Ningaumaniq ([[Personajes/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])
 
