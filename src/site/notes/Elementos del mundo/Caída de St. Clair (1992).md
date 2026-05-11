@@ -26,28 +26,44 @@ La batalla culminó con un siniestro total de la ciudad. Los datos oficiales arr
 ## Legado
 Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciudad quedó bajo el control total de los Indeseables. Este evento es considerado como la primera de las tres grandes crisis de Megalia, junto con la [[Elementos del mundo/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]] y los [[Elementos del mundo/Asesinatos Celestiales (2011-2012)\|Asesinatos Celestiales (2011-2012)]]
 
-**Vigilantes cuya participación ha sido confirmada:**
+**Operativos y sus vigilantes por orden de llegada a la zona de combate:**
+
+**Operativo Aurora**
+- [[Personajes/Celestiales/Ultratumba\|Ultratumba]] - *oficial al mando*
+- [[Personajes/Celestiales/Cauris\|Cauris]]
+- [[Personajes/Celestiales/Crest\|Crest]] (caído en combate)
+- [[Personajes/Celestiales/Alamo\|Alamo]] (caído en combate)
+- [[Personajes/Celestiales/Commodore\|Commodore]] (caído en combate)
+- [[Personajes/Celestiales/Shadow Citizen\|Shadow Citizen]] 
+
+**Operativo Hiena**
+- [[Personajes/Celestiales/Capitán Chacal\|Capitán Chacal]] - *oficial al mando*
+- [[Personajes/Celestiales/Ágata\|Ágata]] (caída en combate)
 - Viper ([[Personajes/Celestiales/Caravello\|Caravello]])
-- [[Personajes/Celestiales/Capitán Chacal\|Capitán Chacal]]
-- [[Personajes/Celestiales/Polyhedron\|Polyhedron]]
-- [[Personajes/Celestiales/Vindicatus\|Vindicatus]] (caído en combate)
 - [[Personajes/Celestiales/Hawkheart\|Hawkheart]]
-- [[Personajes/Celestiales/Stardust\|Stardust]]
+- [[Personajes/Celestiales/Absolution\|Absolution]] (caído en combate)
+
+**Operativo Lithium**
+- *miembros clasificados, todos fallecidos*
+
+**Operativo Trounoir**
+- [[Personajes/Celestiales/Nihil\|Nihil]] - *oficial al mando*
+- [[Soleile\|Soleile]] (caída en combate)
+- [[Chamán\|Chamán]] (caído en combate)
+- [[Personajes/Celestiales/Cicada\|Cicada]]
+- Ningaumaniq ([[Personajes/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])
+
+**Operativo Reliquia**
+- [[Personajes/Celestiales/Vindicatus\|Vindicatus]] - *oficial al mando* (caído en combate)
+- [[Personajes/Celestiales/Polyhedron\|Polyhedron]]
+- [[Personajes/Celestiales/Terminus\|Terminus]]
+- [[Personajes/Celestiales/Etcetera\|Etcetera]]
+- [[Personajes/Celestiales/Akasha\|Akasha]]
+
+**Operativo Eclipse**
+- [[Personajes/Celestiales/Stardust\|Stardust]] - *oficial al mando*
 - [[Personajes/Celestiales/Legión\|Legión]]
 - [[Personajes/Celestiales/Oracle\|Oracle]] (caída en combate)
 - [[Personajes/Celestiales/Manor\|Manor]]
-- [[Personajes/Celestiales/Ágata\|Ágata]] (caída en combate)
-- Ningaumaniq ([[Personajes/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])
-- Chamán (caído en combate)
-- [[Personajes/Celestiales/Cicada\|Cicada]]
-- Soleile (caída en combate)
-- Nihil
-- [[Personajes/Celestiales/Terminus\|Terminus]]
-- [[Personajes/Celestiales/Etcetera\|Etcetera]]
-- [[Personajes/Celestiales/Absolution\|Absolution]] (caído en combate)
-- [[Personajes/Celestiales/Ultratumba\|Ultratumba]]
-- [[Personajes/Celestiales/Nightveil\|Nightveil]] 
-- [[Personajes/Celestiales/Crest\|Crest]] (caído en combate)
-- [[Personajes/Celestiales/Shadow Citizen\|Shadow Citizen]]
-- [[Personajes/Celestiales/Cauris\|Cauris]]
 
+*25 de los 43 vigilantes que estuvieron presentes han sido confirmados, pero muchos archivos siguen clasificados.*
