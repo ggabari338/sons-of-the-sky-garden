@@ -13,6 +13,6 @@ Aunque originalmente alcanzó notoriedad en el sector de la robótica avanzada, 
 - **Singularity Network (Infraestructura de Red):** Vortex posee y opera la constelación de satélites que proporciona internet de baja latencia y comunicaciones encriptadas en todo el globo. Al controlar el canal por el que viaja la información, Vortex tiene acceso a metadatos globales que utiliza para su división de inteligencia comercial.
 
 - Líderes: [[Personajes/Celestiales/Joël Sérra\|Joël Sérra]]
-- Otros personajes: [[Personajes/Entes de la Disolución/Nyoka\|Nyoka]]
+- Otros personajes: [[Personajes/Celestiales/Nyoka\|Nyoka]]
 - Centro de Poder: Torre Vortex
 
