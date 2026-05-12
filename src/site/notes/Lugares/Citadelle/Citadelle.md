@@ -9,7 +9,7 @@ Las calles suelen estar plagadas de turistas, haciendo que cada vez sea más asf
 Valor de Activos: 250.000 (+3 / 13%)
 
 - [[Lugares/Citadelle/Ciudadela de Gaumont\|Ciudadela de Gaumont]]
-- Plaza de la ciudadela: La gran plaza situada en el corazón del casco antiguo de la ciudad, rodeada por restaurantes, antaño locales, ahora son la mayoría marcas célebres. En su centro, luce una estatua de bronce de Maximilian Lindenbaum, el Centinela, marcada por impactos de bala y derribada de su base. Se dejó así como recuerdo cpor la victoria contra la [[Elementos del mundo/Aureocracia Megalesa (1968-1977)\|Aureocracia Megalesa (1968-1977)]].
+- Plaza de la ciudadela: La gran plaza situada en el corazón del casco antiguo de la ciudad, rodeada por restaurantes, antaño locales, ahora son la mayoría marcas célebres. En su centro, luce una estatua de bronce de Maximilian Lindenbaum, el Centinela, marcada por impactos de bala y derribada de su base. Se dejó así como recuerdo cpor la victoria contra la [[Elementos del mundo/Eventos históricos/Aureocracia Megalesa (1968-1977)\|Aureocracia Megalesa (1968-1977)]].
 - [[Lugares/Citadelle/Hotel Sainte Élise\|Hotel Sainte Élise]]
 - Comisaría Central de policía: la comisaria se ha convertido en un verdadero bastión, compartido por la policía metropolitana y los comandos de contención.
 - Ayuntamiento de Elsbourg: el viejo ayuntamiento y sus oficinas sirven como apoyo a los administrativos de la ciudadela, y el alcalde sigue presente, subordinado al árbitro.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/facciones-y-grupos/mundo-criminal/ligne-rouge/","dg-note-properties":{}}
 ---
 
-La Ligne Rouge fue una de las organizaciones criminales más poderosas de [[Lugares/Elsbourg\|Elsbourg]] entre las décadas de 1950 y 1990. Su auge se vinculó estrechamente a dos factores: el [[Elementos del mundo/Programa Harvey\|Programa Harvey]], que incentivaba la emigración de familias con hijos celestiales a Estados Unidos, y el tráfico de [[Elementos del mundo/Perla(s) Escarlata\|Perla(s) Escarlata]], un recurso sobrenatural surgido de los partos fatales de mujeres embarazadas de celestiales.
+La Ligne Rouge fue una de las organizaciones criminales más poderosas de [[Lugares/Elsbourg\|Elsbourg]] entre las décadas de 1950 y 1990. Su auge se vinculó estrechamente a dos factores: el [[Elementos del mundo/Conceptos del mundo/Programa Harvey\|Programa Harvey]], que incentivaba la emigración de familias con hijos celestiales a Estados Unidos, y el tráfico de [[Elementos del mundo/Conceptos del mundo/Perla(s) Escarlata\|Perla(s) Escarlata]], un recurso sobrenatural surgido de los partos fatales de mujeres embarazadas de celestiales.
 ### En relación con el Programa Harvey
 La organización se benefició del Programa Harvey no solo gestionando traslados de familias, sino también secuestrando y entregando niños celestiales al gobierno estadounidense a cambio de sumas millonarias. Estos menores serían posteriormente adoctrinados y convertidos en supersoldados, algunos de los cuales llegarían a figurar entre los vigilantes más destacados de su generación, como [[Personajes/Celestiales/Ironside\|Ironside]], [[Personajes/Celestiales/Bulwark\|Bulwark]] o [[Personajes/Celestiales/Monk\|Monk]].
 ### Refinerías de Perlas Escarlata

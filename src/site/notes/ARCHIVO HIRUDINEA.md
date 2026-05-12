@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Personajes/Humanos y otros/Saul Carrel\|Saul Carrel]]
-- [[Personajes/Humanos y otros/El Carnicero de Trinité\|El Carnicero de Trinité]]
-- [[Personajes/Humanos y otros/Comisario Jorge Herrera\|Comisario Jorge Herrera]]
-- [[Personajes/Humanos y otros/Clovis L'Arlequin\|Clovis L'Arlequin]]
-- [[Personajes/Humanos y otros/Armel\|Armel]]
-- [[Personajes/Celestiales/Ember\|Ember]]
-- [[Personajes/Celestiales/Dragonborn\|Dragonborn]]
-- [[Personajes/Celestiales/Permafrost\|Permafrost]]
-- [[Personajes/Celestiales/Nightveil\|Nightveil]]
-- [[Personajes/Celestiales/Maniac\|Maniac]]
-- [[Personajes/Celestiales/Labyrinth\|Labyrinth]]
-- [[Personajes/Celestiales/Hexafist\|Hexafist]]
-- [[Personajes/Celestiales/Green Knight\|Green Knight]]
-- [[Personajes/Celestiales/Gaol\|Gaol]]
-- [[Personajes/Celestiales/Furnace\|Furnace]]
+- [[Personajes/Celestiales/Joël Sérra\|Joël Sérra]]
+- [[Elementos del mundo/Eventos históricos/Guerra Civil Norteamericana (2007-2011)\|Guerra Civil Norteamericana (2007-2011)]]
+- [[Facciones y grupos/Operativos de Vigilantes/Shockwave Unit\|Shockwave Unit]]
+- [[Facciones y grupos/Gobierno e Instituciones/Gobierno de los Estados Unidos de América\|Gobierno de los Estados Unidos de América]]
+- [[Facciones y grupos/Gobierno e Instituciones/Aureocracia Americana\|Aureocracia Americana]]
+- [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]]
+- [[Elementos del mundo/Conceptos del mundo/Programa Harvey\|Programa Harvey]]
+- [[Lugares/Étoile/Étoile\|Étoile]]
+- [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
+- [[Facciones y grupos/Gobierno e Instituciones/Partido Reformista Megalés\|Partido Reformista Megalés]]
+- [[Personajes/Humanos y otros/Iván Vasilievich\|Iván Vasilievich]]
+- [[Personajes/Humanos y otros/Enzo Duque\|Enzo Duque]]
+- [[Personajes/Celestiales/Fable\|Fable]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Legacy\|Operativo Legacy]]
+- [[Personajes/Humanos y otros/Loriana De Angelis\|Loriana De Angelis]]
 
 { .block-language-dataview}
 

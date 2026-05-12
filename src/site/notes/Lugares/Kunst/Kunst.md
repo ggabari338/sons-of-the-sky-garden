@@ -10,7 +10,7 @@ Es el barrio donde emergieron los ángeles de Kunst, al norte.
 ### Laurens
 Es el barrio
 - [[Lugares/Kunst/Hospital Central Saint Étienne\|Hospital Central Saint Étienne]]
-- Plaza de los Caídos: Un monumento en honor a los vigilantes que murieron protegiendo la ciudad cuando la [[Elementos del mundo/Caída de St. Clair (1992)\|Caída de St. Clair (1992)]]. Aunque ahora está descuidado, es un punto de reunión para la comunidad.
+- Plaza de los Caídos: Un monumento en honor a los vigilantes que murieron protegiendo la ciudad cuando la [[Elementos del mundo/Eventos históricos/Caída de St. Clair (1992)\|Caída de St. Clair (1992)]]. Aunque ahora está descuidado, es un punto de reunión para la comunidad.
 - [[Lugares/Kunst/Cementerio de Laurens\|Cementerio de Laurens]]
 ### Lancombre
 Es el barrio sur de la ciudad.
