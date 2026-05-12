@@ -12,7 +12,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 ##### **Documentos actualizados recientemente:**
 - [[Personajes/Celestiales/Nyoka\|Nyoka]]
 - [[Personajes/Celestiales/Gridlock\|Gridlock]]
-- [[Personajes/Celestiales/Gridlock (notas)\|Gridlock (notas)]]
 - [[Personajes/Celestiales/Joël Sérra\|Joël Sérra]]
 - [[Elementos del mundo/Eventos históricos/Guerra Civil Norteamericana (2007-2011)\|Guerra Civil Norteamericana (2007-2011)]]
 - [[Facciones y grupos/Operativos de Vigilantes/Shockwave Unit\|Shockwave Unit]]
@@ -25,6 +24,7 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Facciones y grupos/Gobierno e Instituciones/Partido Reformista Megalés\|Partido Reformista Megalés]]
 - [[Personajes/Humanos y otros/Iván Vasilievich\|Iván Vasilievich]]
 - [[Personajes/Humanos y otros/Enzo Duque\|Enzo Duque]]
+- [[Personajes/Celestiales/Fable\|Fable]]
 
 { .block-language-dataview}
 
