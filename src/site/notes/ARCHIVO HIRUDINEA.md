@@ -13,7 +13,7 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Celestiales/Vigilantes/Activos/Plague\|Plague]]
 - [[Personas/Celestiales/Vigilantes/Activos/Manor\|Manor]]
 - [[Personas/Celestiales/Vigilantes/Activos/Fuego Fatuo\|Fuego Fatuo]]
-- [[Torre de la Unidad\|Torre de la Unidad]]
+- [[Lugares/Villeneuve/Torre de la Unidad\|Torre de la Unidad]]
 - [[Lugares/Villeneuve/Villeneuve\|Villeneuve]]
 - [[Personas/Celestiales/Vigilantes/Activos/Cauris\|Cauris]]
 - [[Personas/Celestiales/Criminales/Mind Thief\|Mind Thief]]
