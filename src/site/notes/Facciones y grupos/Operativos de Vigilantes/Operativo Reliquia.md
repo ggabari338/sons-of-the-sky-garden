@@ -7,7 +7,7 @@ El Operativo Reliquia fue un escuadrón de vigilantes que operó en los distrito
 Historial de miembros:
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Polyhedron\|Polyhedron]] (1985-2009, líder desde 1992)
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Vindicatus\|Vindicatus]] (1985-1992, fundador y líder inicial, fallecido en St. Clair)
-- [[Personas/Celestiales/Otros/Terminus\|Terminus]] (1985-2010)
-- [[Personas/Celestiales/Otros/Etcetera\|Etcetera]] (1985-2010, líder entre 2009 y 2010)
-- [[Personas/Celestiales/Otros/Akasha\|Akasha]] (2005-2010)
+- [[Personas/Celestiales/Mercenarios/Terminus\|Terminus]] (1985-2010)
+- [[Personas/Celestiales/Mercenarios/Etcetera\|Etcetera]] (1985-2010, líder entre 2009 y 2010)
+- [[Personas/Celestiales/Mercenarios/Akasha\|Akasha]] (2005-2010)
 

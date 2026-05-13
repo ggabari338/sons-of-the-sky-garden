@@ -10,6 +10,7 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Otros/Blasphemous\|Blasphemous]]
 - [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
 - [[Personas/Celestiales/Vigilantes/Activos/Gridlock\|Gridlock]]
 - [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Facciones y grupos/Gobierno e Instituciones/Partido Reformista Megalés\|Partido Reformista Megalés]]
 - [[Personas/Humanos y otros/Iván Vasilievich\|Iván Vasilievich]]
 - [[Personas/Humanos y otros/Enzo Duque\|Enzo Duque]]
-- [[Personas/Celestiales/Vigilantes/Activos/Fable\|Fable]]
 
 { .block-language-dataview}
 

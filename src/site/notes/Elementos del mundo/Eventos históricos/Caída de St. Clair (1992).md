@@ -39,7 +39,7 @@ Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciu
 **Operativo Hiena**
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Capitán Chacal\|Capitán Chacal]] - *oficial al mando*
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Ágata\|Ágata]] (caída en combate)
-- Viper ([[Personas/Celestiales/Otros/Caravello\|Caravello]])
+- Viper ([[Personas/Celestiales/Gobierno/Caravello\|Caravello]])
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Hawkheart\|Hawkheart]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Absolution\|Absolution]] (caído en combate)
 
@@ -56,9 +56,9 @@ Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciu
 **Operativo Reliquia**
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Vindicatus\|Vindicatus]] - *oficial al mando* (caído en combate)
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Polyhedron\|Polyhedron]]
-- [[Personas/Celestiales/Otros/Terminus\|Terminus]]
-- [[Personas/Celestiales/Otros/Etcetera\|Etcetera]]
-- [[Personas/Celestiales/Otros/Akasha\|Akasha]]
+- [[Personas/Celestiales/Mercenarios/Terminus\|Terminus]]
+- [[Personas/Celestiales/Mercenarios/Etcetera\|Etcetera]]
+- [[Personas/Celestiales/Mercenarios/Akasha\|Akasha]]
 
 **Operativo Eclipse**
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]] - *oficial al mando*
