@@ -4,7 +4,7 @@
 
 Los afligidos son personas que activamente están haciendo uso de [[Elementos del mundo/Conceptos del mundo/Perla(s) Escarlata\|Perla(s) Escarlata]] o lo hicieron en el pasado. Aquellos que abusaron de ellas son aberraciones vivientes con cuerpos deformes de color amarronado, pieles quebradas y arrugadas, calvicie y una fisionomía anómala notable, desde extremidades demasiado largas, varias cabezas y múltiples brazos hasta cuatro ojos, uno o ninguno. 
 
-Según la Taxonomía de los Afligidos redactada por [[Personajes/Humanos y otros/Loriana De Angelis\|Loriana De Angelis]], pueden dividirse en tres tipos:
+Según la Taxonomía de los Afligidos redactada por [[Personas/Humanos y otros/Loriana De Angelis\|Loriana De Angelis]], pueden dividirse en tres tipos:
 - **Tipo 1:** son humanos comunes.
 	- **Tipo 1A:** Afligidos que han hecho uso reciente de las perlas y aún manifiestan su poder.
 	- **Tipo 1B:** Afligidos que hicieron uso de las perlas en el pasado pero ya no manifiestan sus poderes y en general demuestran malformaciones dérmicas y fisionómicas notables.

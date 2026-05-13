@@ -12,7 +12,7 @@ Aunque originalmente alcanzó notoriedad en el sector de la robótica avanzada, 
 - **Sistemas Autónomos y Defensa:** Lo que el público general conoce como "Vortex Robotics" es la división que produce desde drones de reparto domésticos hasta la [[Elementos del mundo/Conceptos del mundo/Serie de Autómatas AM\|Serie de Autómatas AM]]. 
 - **Singularity Network (Infraestructura de Red):** Vortex posee y opera la constelación de satélites que proporciona internet de baja latencia y comunicaciones encriptadas en todo el globo. Al controlar el canal por el que viaja la información, Vortex tiene acceso a metadatos globales que utiliza para su división de inteligencia comercial.
 
-- Líderes: [[Personajes/Celestiales/Joël Sérra\|Joël Sérra]]
-- Otros personajes: [[Personajes/Celestiales/Nyoka\|Nyoka]]
+- Líderes: [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
+- Otros personajes: [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
 - Centro de Poder: Torre Vortex
 

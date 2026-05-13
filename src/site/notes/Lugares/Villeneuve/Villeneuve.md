@@ -6,7 +6,7 @@ Villeneuve es un distrito de clase alta renovado a mediados del siglo XIX, de pl
 
 ### Éden
 El barrio norte.
-- Museo Arqueológico de Elsbourg: De cara al público, Jesús Villareal es el director, pero en realidad es Blasphemous, el primero de todos los celestiales, un gato callejero con una inteligencia desmesurada y funcionalmente perpetuo. En el subsótano del museo, [[Personajes/Entes de la Disolución/Blasphemous\|Blasphemous]] tiene una enorme guarida donde lleva a cabo su investigaciones, centradas en objetos antiguos y su poder. Tiene conceptos de la posibilidad de que existan mundos paralelos basado en piezas arqueológicas que ha encontrado. 
+- Museo Arqueológico de Elsbourg: De cara al público, Jesús Villareal es el director, pero en realidad es Blasphemous, el primero de todos los celestiales, un gato callejero con una inteligencia desmesurada y funcionalmente perpetuo. En el subsótano del museo, [[Personas/Entes de la Disolución/Blasphemous\|Blasphemous]] tiene una enorme guarida donde lleva a cabo su investigaciones, centradas en objetos antiguos y su poder. Tiene conceptos de la posibilidad de que existan mundos paralelos basado en piezas arqueológicas que ha encontrado. 
 - Torre del Éden: Una torre de viviendas con un rooftop de acceso público que ofrece una vista espectacular de toda la ciudad.
 ### Boulevard
 El barrio sur.

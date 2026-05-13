@@ -7,7 +7,7 @@
 ## Primeros Avistamientos
 A principios de octubre de 1992, la ciudad de St. Clair reportó una serie de anomalías atmosféricas y biológicas. En un periodo de apenas 12 horas, una masa migratoria de Indeseables se manifestó en el núcleo urbano.
 
-Ante la magnitud del fenómeno, [[Personajes/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]], quien ejercía en aquel entonces como Árbitro de la CSPC, dictaminó una orden de movilización inmediata que incluyó la evacuación total del casco antiguo de St. Clair y el despliegue preventivo de 3 operativos de vigilantes: [[Facciones y grupos/Operativos de Vigilantes/Operativo Hiena\|Operativo Hiena]], [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]] y [[Facciones y grupos/Operativos de Vigilantes/Operativo Lithium\|Operativo Lithium]]. 
+Ante la magnitud del fenómeno, [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]], quien ejercía en aquel entonces como Árbitro de la CSPC, dictaminó una orden de movilización inmediata que incluyó la evacuación total del casco antiguo de St. Clair y el despliegue preventivo de 3 operativos de vigilantes: [[Facciones y grupos/Operativos de Vigilantes/Operativo Hiena\|Operativo Hiena]], [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]] y [[Facciones y grupos/Operativos de Vigilantes/Operativo Lithium\|Operativo Lithium]]. 
 
 Poco antes de que las comunicaciones se vieran interrumpidas, estas unidades confirmaron que la cifra de amenazas activas superaba con creces las estimaciones iniciales, identificando al menos tres docenas de especímenes en las avenidas principales antes del estallido de las hostilidades abiertas.
 
@@ -29,41 +29,41 @@ Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciu
 **Operativos y sus vigilantes por orden de llegada a la zona de combate:**
 
 **Operativo Aurora**
-- [[Personajes/Celestiales/Ultratumba\|Ultratumba]] - *oficial al mando*
-- [[Personajes/Celestiales/Cauris\|Cauris]]
-- [[Personajes/Celestiales/Crest\|Crest]] (caído en combate)
-- [[Personajes/Celestiales/Alamo\|Alamo]] (caído en combate)
-- [[Personajes/Celestiales/Commodore\|Commodore]] (caído en combate)
-- [[Personajes/Celestiales/Shadow Citizen\|Shadow Citizen]] 
+- [[Personas/Celestiales/Vigilantes/Activos/Ultratumba\|Ultratumba]] - *oficial al mando*
+- [[Personas/Celestiales/Vigilantes/Activos/Cauris\|Cauris]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crest\|Crest]] (caído en combate)
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Alamo\|Alamo]] (caído en combate)
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Commodore\|Commodore]] (caído en combate)
+- [[Personas/Celestiales/Vigilantes/Activos/Shadow Citizen\|Shadow Citizen]] 
 
 **Operativo Hiena**
-- [[Personajes/Celestiales/Capitán Chacal\|Capitán Chacal]] - *oficial al mando*
-- [[Personajes/Celestiales/Ágata\|Ágata]] (caída en combate)
-- Viper ([[Personajes/Celestiales/Caravello\|Caravello]])
-- [[Personajes/Celestiales/Hawkheart\|Hawkheart]]
-- [[Personajes/Celestiales/Absolution\|Absolution]] (caído en combate)
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Capitán Chacal\|Capitán Chacal]] - *oficial al mando*
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Ágata\|Ágata]] (caída en combate)
+- Viper ([[Personas/Celestiales/Otros/Caravello\|Caravello]])
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Hawkheart\|Hawkheart]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Absolution\|Absolution]] (caído en combate)
 
 **Operativo Lithium**
 - *miembros clasificados, todos fallecidos*
 
 **Operativo Trounoir**
-- [[Personajes/Celestiales/Nihil\|Nihil]] - *oficial al mando*
-- [[Personajes/Celestiales/Soleile\|Soleile]] (caída en combate)
-- [[Personajes/Celestiales/Chamán\|Chamán]] (caído en combate)
-- [[Personajes/Celestiales/Cicada\|Cicada]]
-- Ningaumaniq ([[Personajes/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Nihil\|Nihil]] - *oficial al mando*
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Soleile\|Soleile]] (caída en combate)
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Chamán\|Chamán]] (caído en combate)
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Cicada\|Cicada]]
+- Ningaumaniq ([[Personas/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])
 
 **Operativo Reliquia**
-- [[Personajes/Celestiales/Vindicatus\|Vindicatus]] - *oficial al mando* (caído en combate)
-- [[Personajes/Celestiales/Polyhedron\|Polyhedron]]
-- [[Personajes/Celestiales/Terminus\|Terminus]]
-- [[Personajes/Celestiales/Etcetera\|Etcetera]]
-- [[Personajes/Celestiales/Akasha\|Akasha]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Vindicatus\|Vindicatus]] - *oficial al mando* (caído en combate)
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Polyhedron\|Polyhedron]]
+- [[Personas/Celestiales/Otros/Terminus\|Terminus]]
+- [[Personas/Celestiales/Otros/Etcetera\|Etcetera]]
+- [[Personas/Celestiales/Otros/Akasha\|Akasha]]
 
 **Operativo Eclipse**
-- [[Personajes/Celestiales/Stardust\|Stardust]] - *oficial al mando*
-- [[Personajes/Celestiales/Legión\|Legión]]
-- [[Personajes/Celestiales/Oracle\|Oracle]] (caída en combate)
-- [[Personajes/Celestiales/Manor\|Manor]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]] - *oficial al mando*
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Oracle\|Oracle]] (caída en combate)
+- [[Personas/Celestiales/Vigilantes/Activos/Manor\|Manor]]
 
 *25 de los 43 vigilantes que estuvieron presentes han sido confirmados, pero muchos archivos siguen clasificados.*

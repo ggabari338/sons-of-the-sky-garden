@@ -7,7 +7,7 @@ Petite Espagne es un distrito costero de clase media situado al suroeste de Elsb
 Valor de Activos: 100.000 (+1 / 11%)
 
 - Casa de los Blasones: Un palacete donde residen los principales miembros de la “familia” de los Blasones.
-- La Taberna del Galeón: Un bar y restaurante ubicado en un edificio histórico de la costa, frecuentado por los Blasones porque sirven la comida favorita de la infancia del [[Personajes/Humanos y otros/Conde Helios Santana\|Conde Helios Santana]].
+- La Taberna del Galeón: Un bar y restaurante ubicado en un edificio histórico de la costa, frecuentado por los Blasones porque sirven la comida favorita de la infancia del [[Personas/Humanos y otros/Conde Helios Santana\|Conde Helios Santana]].
 
 Facción principal: [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
 

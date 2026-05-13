@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/elementos-del-mundo/sociedad/escala-lyndon/","dg-note-properties":{}}
 ---
 
-La escala catastrófica superhumana de Lyndon, también conocida como escala de magnitud celestial es una escala logarítmica empleada por la [[Facciones y grupos/Gobierno e Instituciones/Comisión de Seguridad Pan-Ciudadana\|Comisión de Seguridad Pan-Ciudadana]] desde 1983, que asigna un número para cuantificar la energía potencial asociada a un individuo celestial, denominada así por su creador, [[Personajes/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]].
+La escala catastrófica superhumana de Lyndon, también conocida como escala de magnitud celestial es una escala logarítmica empleada por la [[Facciones y grupos/Gobierno e Instituciones/Comisión de Seguridad Pan-Ciudadana\|Comisión de Seguridad Pan-Ciudadana]] desde 1983, que asigna un número para cuantificar la energía potencial asociada a un individuo celestial, denominada así por su creador, [[Personas/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]].
 
 Se usa esta escala para determinar las capacidad destructiva de un individuo celestial, con el objetivo de categorizarlos y priorizar la atención de la CSPC. Al ser una escala logarítmica, un individuo marcado con una cifra de 6 es 10 veces más poderoso que uno marcado con un 5.
 
@@ -14,10 +14,10 @@ Aunque se han confirmado las posiciones en la escala de algunos individuos, la m
 	- **Magnitud 1+:** 3.400 individuos
 	- **Magnitud 2+:** 3.500 individuos
 	- **Magnitud 3+:** 2.200 individuos
-	- **Magnitud 4+:** 400 individuos, entre ellos [[Personajes/Celestiales/Phalanx\|Phalanx]], [[Personajes/Celestiales/Zealot\|Zealot]]
-	- **Magnitud 5+:** 180 individuos, entre ellos [[Personajes/Celestiales/Ultratumba\|Ultratumba]], [[Personajes/Celestiales/Fable\|Fable]], [[Personajes/Celestiales/Fuego Fatuo\|Fuego Fatuo]], [[Personajes/Celestiales/Plague\|Plague]]
-	- **Magnitud 6+:** 70 individuos, entre ellos [[Personajes/Celestiales/Ironside\|Ironside]], [[Personajes/Celestiales/Black Attila\|Black Attila]], [[Personajes/Celestiales/Malastair\|Malastair]]
-	- **Magnitud 7+:** 20 individuos, entre ellos [[Personajes/Celestiales/Stardust\|Stardust]], [[Personajes/Eviternos/Marais\|Marais]]
-	- **Magnitud 8+:** tan solo [[Personajes/Celestiales/Legión\|Legión]], [[Personajes/Celestiales/Centinela\|Centinela]] y [[Personajes/Celestiales/Mind Thief\|Mind Thief]]
+	- **Magnitud 4+:** 400 individuos, entre ellos [[Personas/Celestiales/Otros/Phalanx\|Phalanx]], [[Personas/Celestiales/Otros/Zealot\|Zealot]]
+	- **Magnitud 5+:** 180 individuos, entre ellos [[Personas/Celestiales/Vigilantes/Activos/Ultratumba\|Ultratumba]], [[Personas/Celestiales/Vigilantes/Activos/Fable\|Fable]], [[Personas/Celestiales/Vigilantes/Activos/Fuego Fatuo\|Fuego Fatuo]], [[Personas/Celestiales/Vigilantes/Activos/Plague\|Plague]]
+	- **Magnitud 6+:** 70 individuos, entre ellos [[Personas/Celestiales/Vigilantes/Activos/Ironside\|Ironside]], [[Personas/Celestiales/Otros/Black Attila\|Black Attila]], [[Personas/Celestiales/Otros/Malastair\|Malastair]]
+	- **Magnitud 7+:** 20 individuos, entre ellos [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]], [[Personas/Eviternos/Marais\|Marais]]
+	- **Magnitud 8+:** tan solo [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]], [[Personas/Celestiales/Otros/Centinela\|Centinela]] y [[Personas/Celestiales/Otros/Mind Thief\|Mind Thief]]
 
 

@@ -4,8 +4,8 @@
 
 Fue un escuadrón de vigilantes veteranos que custodiaban el barrio de los artesanos en Elsbourg.
 
-- Líder: [[Personajes/Celestiales/Hawkheart\|Hawkheart]]
-- Otros miembros: [[Personajes/Celestiales/Yokai\|Yokai]], [[Personajes/Celestiales/Agent Beetle\|Agent Beetle]]
+- Líder: [[Personas/Celestiales/Vigilantes/Fuera de servicio/Hawkheart\|Hawkheart]]
+- Otros miembros: [[Personas/Celestiales/Vigilantes/Fuera de servicio/Yokai\|Yokai]], [[Personas/Celestiales/Vigilantes/Fuera de servicio/Agent Beetle\|Agent Beetle]]
 - Centro de Poder: Sede del Paradox crew, [[Lugares/Artisans/Artisans\|Artisans]]
 
 

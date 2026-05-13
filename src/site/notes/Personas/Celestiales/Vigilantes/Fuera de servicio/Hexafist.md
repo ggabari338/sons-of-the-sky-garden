@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/fuera-de-servicio/hexafist/","dg-note-properties":{}}
+---
+
+1968-1993
+Hexafist fue un joven mutante de complexión alta y esbelta, con la capacidad de transformarse en un golem metálico dotado de brazos en forma de dodecahedros. Integró el grupo de celestiales activos en Estados Unidos a comienzos de la década de 1990, junto a [[Personas/Celestiales/Vigilantes/Activos/Gridlock\|Gridlock]], [[Personas/Celestiales/Vigilantes/Fuera de servicio/Moonveil\|Moonveil]] y [[Personas/Celestiales/Vigilantes/Fuera de servicio/Green Knight\|Green Knight]]. 
+Durante una investigación sobre presunta actividad terrorista, Hexafist y Green Knight acataron la orden de retirarse cuando agentes vinculados al gobierno les bloquearon la investigación, en contraste con la decisión de Gridlock y Moonveil de continuar en secreto. La conspiración desvelada llevó a la masacre contra el grupo en su base, en la que Hexafist fue asesinado por un escuadrón oficial de vigilantes formado por [[Personas/Celestiales/Vigilantes/Activos/Bulwark\|Bulwark]], [[Personas/Celestiales/Vigilantes/Activos/Ironside\|Ironside]] y [[Personas/Celestiales/Vigilantes/Activos/Plague\|Plague]], siendo una de las víctimas de aquel ataque que acabó con casi todos los miembros del equipo.
+### Categorías
+#Celestial 
+
