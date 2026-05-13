@@ -10,7 +10,7 @@ El barrio norte.
 - Torre del Éden: Una torre de viviendas con un rooftop de acceso público que ofrece una vista espectacular de toda la ciudad.
 ### Boulevard
 El barrio sur.
-- Torre de la Unidad: una torre cristalina cilíndrica de 240m de altura que sirve como centro de coordinación de las operaciones de todos los grupos de vigilantes de la ciudad. Actualmente el [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] es la unidad de vigilantes principal de Megalia.
+- [[Torre de la Unidad\|Torre de la Unidad]]
 - El Paseo de los Vigilantes: Una ancha avenida de cuatro carriles en doble sentido cuya zona intermedia es un bucólico paseo empedrado que conecta la Plaza de la Ciudadela con el Parque del Edén, flanqueada por estatuas de vigilantes icónicos de Elsbourg. Es un lugar de referencia para visitantes y un punto de encuentro para ceremonias y conmemoraciones.
 
 Valor de Activos: 200.000 (+3 / 13%)

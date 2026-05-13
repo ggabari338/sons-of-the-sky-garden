@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Personas/Celestiales/Otros/Blasphemous\|Blasphemous]]
-- [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
-- [[Personas/Celestiales/Vigilantes/Activos/Gridlock\|Gridlock]]
-- [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
-- [[Elementos del mundo/Eventos históricos/Guerra Civil Norteamericana (2007-2011)\|Guerra Civil Norteamericana (2007-2011)]]
-- [[Facciones y grupos/Operativos de Vigilantes/Shockwave Unit\|Shockwave Unit]]
-- [[Facciones y grupos/Gobierno e Instituciones/Gobierno de los Estados Unidos de América\|Gobierno de los Estados Unidos de América]]
-- [[Facciones y grupos/Gobierno e Instituciones/Aureocracia Americana\|Aureocracia Americana]]
-- [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]]
-- [[Elementos del mundo/Conceptos del mundo/Programa Harvey\|Programa Harvey]]
-- [[Lugares/Étoile/Étoile\|Étoile]]
-- [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
-- [[Facciones y grupos/Gobierno e Instituciones/Partido Reformista Megalés\|Partido Reformista Megalés]]
-- [[Personas/Humanos y otros/Iván Vasilievich\|Iván Vasilievich]]
-- [[Personas/Humanos y otros/Enzo Duque\|Enzo Duque]]
+- [[Personas/Celestiales/Vigilantes/Activos/Plague\|Plague]]
+- [[Personas/Celestiales/Vigilantes/Activos/Manor\|Manor]]
+- [[Personas/Celestiales/Vigilantes/Activos/Fuego Fatuo\|Fuego Fatuo]]
+- [[Torre de la Unidad\|Torre de la Unidad]]
+- [[Lugares/Villeneuve/Villeneuve\|Villeneuve]]
+- [[Personas/Celestiales/Vigilantes/Activos/Cauris\|Cauris]]
+- [[Personas/Celestiales/Criminales/Mind Thief\|Mind Thief]]
+- [[Personas/Celestiales/Criminales/Keep\|Keep]]
+- [[Personas/Celestiales/Criminales/Zealot\|Zealot]]
+- [[Personas/Celestiales/Criminales/Refraction\|Refraction]]
+- [[Personas/Celestiales/Criminales/Profane\|Profane]]
+- [[Personas/Celestiales/Criminales/Lucky Six\|Lucky Six]]
+- [[Personas/Celestiales/Criminales/Malamuerte\|Malamuerte]]
+- [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]]
+- [[Personas/Celestiales/Criminales/Astarté\|Astarté]]
 
 { .block-language-dataview}
 

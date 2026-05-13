@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/criminales/astarte/","dg-note-properties":{}}
 ---
 
-Chloë Thévenet, 1987 (25)
+Chloë Thévenet, 1987
 
 ![IMG_2860.png](/img/user/IMG_2860.png)
 Astarté comenzó su carrera como vigilante de manera independiente, impulsada por un deseo genuino de hacer el bien y proteger a los desamparados de Elsbourg. Su estilo era enérgico y audaz, sin la paciencia que requería la técnica pulida y formal que otros vigilantes admiraban. Fue en una de sus primeras misiones en las zonas más peligrosas de la periferia donde cruzó caminos con [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]], el mítico héroe de Elsbourg, quien, pese a su fama de ermitaño, comenzó a notar la determinación inquebrantable y el potencial de la joven. Aunque al principio él se mostró distante y reticente, no pasó mucho tiempo antes de que Astarté demostrara su valía, ganándose su respeto y, finalmente, aceptando la oferta de recibir su instrucción.
