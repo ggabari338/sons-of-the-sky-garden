@@ -10,6 +10,7 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
 - [[Lugares/Citadelle/Citadelle\|Citadelle]]
 - [[Lugares/Citadelle/Hotel St. Élise\|Hotel St. Élise]]
 - [[Personas/Celestiales/Vigilantes/Activos/Plague\|Plague]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Celestiales/Criminales/Refraction\|Refraction]]
 - [[Personas/Celestiales/Criminales/Profane\|Profane]]
 - [[Personas/Celestiales/Criminales/Lucky Six\|Lucky Six]]
-- [[Personas/Celestiales/Criminales/Malamuerte\|Malamuerte]]
 
 { .block-language-dataview}
 
