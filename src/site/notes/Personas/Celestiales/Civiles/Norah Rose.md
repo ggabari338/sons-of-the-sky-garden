@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/civiles/norah-rose/","dg-note-properties":{}}
 ---
 
+![IMG_3309.png\|250](/img/user/IMG_3309.png)
 Eleonora Rose, 1992 (20)
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXez-3D9fNcTFb7VZM7aioZWBtGFUtlP5pDK7-6dvEiC4wuG7iDa8i8nclWtzY1gNjPJRWGOgJ1VljYNUVBHGLuR8h6H0uuZHt10ff7ohLfWkDB9VoS3BO-qdmC6odTTGdJMJcR4jQ?key=N5Y0sg_9KygqLFVDM3Icjg)
-### GENERAL
 
 Norah es la hija biológica de [[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]], criada en Londres por su padre y llegada a Elsbourg en 2008 para estudiar un doble grado de historia y derecho orientado a la CSPC en la [[Lugares/Alcourt/Universidad Bourdieu\|Universidad Bourdieu]].
 #### Las Orfeidas

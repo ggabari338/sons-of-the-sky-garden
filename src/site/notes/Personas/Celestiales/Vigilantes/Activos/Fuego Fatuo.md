@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/activos/fuego-fatuo/","dg-note-properties":{}}
 ---
 
+![IMG_3299.png\|220](/img/user/IMG_3299.png)
 Iker Naouri, 1989
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc974zAku9ztH2YtvBcR6G7kCkmRhhSpnfoMMoHoVTWabh0sfZctJbBsfKq43XAd3AQTXiHbO0jFV9uIt8bh-gbUnVmbDeIaqD_xwkZIO7BTCmpooE3oS8IOALF23o2VRXre8_0?key=N5Y0sg_9KygqLFVDM3Icjg)
 
 Fuego Fatuo es un celestial integrado en el [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] desde 2009. Su perfil combina una capacidad cinética devastadora con una inteligencia autodidacta excepcional, lo que lo convierte en uno de los activos más polifacéticos de la unidad.
 

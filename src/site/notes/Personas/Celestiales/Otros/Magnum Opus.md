@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/otros/magnum-opus/","dg-note-properties":{}}
 ---
 
-![Magnum Opus (F2) (1).png](/img/user/Magnum%20Opus%20(F2)%20(1).png)
+![IMG_3317.png\|220](/img/user/IMG_3317.png)
+
 El Magnum Opus es la forma final de los experimentos llevados a cabo por [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]], [[Personas/Celestiales/Gobierno/Caravello\|Caravello]] y [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]] sobre cuerpos celestiales. El objetivo original era producir celestiales sintéticos, pero esa línea resultó ser inviable. Finalmente, esta criatura se construyó con los órganos extirpados de varios celestiales y el cuerpo del propio Crescent como huésped principal. Otros órganos confirmados son el brazo del [[Personas/Celestiales/Vigilantes/Fuera de servicio/Capitán Chacal\|Capitán Chacal]] y una de las alas de [[Personas/Celestiales/Vigilantes/Fuera de servicio/Hawkheart\|Hawkheart]].
 
 **"MAGNUM OPUS" - Escrito de Thomas Chapelle**

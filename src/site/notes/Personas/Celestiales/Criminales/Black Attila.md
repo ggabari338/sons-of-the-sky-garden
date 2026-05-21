@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/criminales/black-attila/","dg-note-properties":{}}
 ---
 
-Adám Kovács, 1966 (46)
+![IMG_3313.png\|249](/img/user/IMG_3313.png)
+Adám Kovács, 1966
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXctyrQFUkcm_93R-LmjZ8bvqyI7WgG_LfDEs2KFvlr0rVOmqRZsNxgBZ7yqpDKGr24CZRTfwOQaw4KDPS_5i50-grNliVhe118dxzGB0GLPCZzMu5JpzObDm7YxxKi2CvI39L6B?key=N5Y0sg_9KygqLFVDM3Icjg)
-
-### GENERAL
 **Adám** **Kovács**, conocido en los círculos criminales como _Black Attila_, es una figura controvertida que acumula numerosas denuncias por asesinato y ha generado una amplia lista de enemigos entre los clanes delictivos, lo que ha puesto precio a su cabeza. Su apodo proviene de la figura del legendario Attila, combinado con el efecto de sus venas cuando activa sus poderes, que se tornan negras como el alquitrán. Sus ojos se convierten en un pozo sin fondo, oscuro como la noche. Sus habilidades le otorgan una dexteridad inigualable.
 ### Black Attila como arma de disuasión
 Su padre,  [[Personas/Humanos y otros/Csatár Kovács\|Csatár Kovács]], fue un hombre poderoso y ambicioso que, durante la década de 1990, consolidó su imperio sobre las ruinas de la organización [[Facciones y grupos/Mundo Criminal/Ligne Rouge\|Ligne Rouge]]. Este proceso le granjeó múltiples adversarios, aunque logró mantenerlos a raya gracias al papel de su hijo, convertido en su ejecutor y protector bajo el sobrenombre de Black Attila. Csatár, que buscaba explotar al máximo el potencial de su hijo, le encomendó su formación marcial a [[Personas/Celestiales/Criminales/Krishan El Impuro\|Krishan El Impuro]]. Adám era un joven dominado por la furia y el odio, y destacó en el combate con una ferocidad animal, lo que lo llevó a ser moldeado como un instrumento de violencia al servicio del poder paterno.

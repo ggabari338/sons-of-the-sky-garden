@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
-- [[Lugares/Citadelle/Citadelle\|Citadelle]]
-- [[Lugares/Citadelle/Hotel St. Élise\|Hotel St. Élise]]
-- [[Personas/Celestiales/Vigilantes/Activos/Plague\|Plague]]
-- [[Personas/Celestiales/Vigilantes/Activos/Manor\|Manor]]
-- [[Personas/Celestiales/Vigilantes/Activos/Fuego Fatuo\|Fuego Fatuo]]
-- [[Lugares/Villeneuve/Torre de la Unidad\|Torre de la Unidad]]
-- [[Lugares/Villeneuve/Villeneuve\|Villeneuve]]
-- [[Personas/Celestiales/Vigilantes/Activos/Cauris\|Cauris]]
-- [[Personas/Celestiales/Criminales/Mind Thief\|Mind Thief]]
-- [[Personas/Celestiales/Criminales/Keep\|Keep]]
-- [[Personas/Celestiales/Criminales/Zealot\|Zealot]]
-- [[Personas/Celestiales/Criminales/Refraction\|Refraction]]
-- [[Personas/Celestiales/Criminales/Profane\|Profane]]
-- [[Personas/Celestiales/Criminales/Lucky Six\|Lucky Six]]
+- [[Personas/Celestiales/Vigilantes/Activos/Fable\|Fable]]
+- [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]]
+- [[Personas/Celestiales/Otros/Magnum Opus\|Magnum Opus]]
+- [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]]
+- [[Personas/Celestiales/Civiles/Malastair\|Malastair]]
+- [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
+- [[Personas/Celestiales/Criminales/Black Attila\|Black Attila]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]]
+- [[Personas/Celestiales/Criminales/Astarté\|Astarté]]
+- [[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]]
+- [[Personas/Celestiales/Civiles/Norah Rose\|Norah Rose]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Permafrost\|Permafrost]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Dragonborn\|Dragonborn]]
+- [[Personas/Celestiales/Otros/Envo, Quimera Cicatrizada\|Envo, Quimera Cicatrizada]]
+- [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
 
 { .block-language-dataview}
 
