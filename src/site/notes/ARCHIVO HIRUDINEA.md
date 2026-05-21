@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Lugares/La Rose/Clinique 404\|Clinique 404]]
+- [[Lugares/Kunst/Hospital Central Saint Étienne\|Hospital Central Saint Étienne]]
+- [[Lugares/Fuera de Elsbourg/St. Clair\|St. Clair]]
+- [[Lugares/Deux Rois/Tribunal Supremo de Megalia\|Tribunal Supremo de Megalia]]
+- [[Lugares/Deux Rois/Torre de Mármol\|Torre de Mármol]]
+- [[Lugares/Deux Rois/Escuela Extraordinaria Superior\|Escuela Extraordinaria Superior]]
+- [[Lugares/Cité Bleue/Torre San Pedro\|Torre San Pedro]]
+- [[Lugares/Cité Bleue/Sala Vautour\|Sala Vautour]]
+- [[Lugares/Cité Bleue/La Dance du Cigne\|La Dance du Cigne]]
+- [[Lugares/Cité Bleue/Hospital de la Pitié\|Hospital de la Pitié]]
+- [[Lugares/Bellevue/Cueva del Pez plateado\|Cueva del Pez plateado]]
+- [[Lugares/Artisans/Orfanato Nuevo Amanecer\|Orfanato Nuevo Amanecer]]
+- [[Lugares/Arc-en-ciel/Marché du Silex\|Marché du Silex]]
+- [[Lugares/Alcourt/Quasar Palace\|Quasar Palace]]
 - [[Personas/Celestiales/Criminales/Wildcard\|Wildcard]]
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]]
-- [[Lugares/Limbo\|Limbo]]
-- [[Personas/Celestiales/Vigilantes/Activos/Fable\|Fable]]
-- [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]]
-- [[Personas/Celestiales/Otros/Magnum Opus\|Magnum Opus]]
-- [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]]
-- [[Personas/Celestiales/Civiles/Malastair\|Malastair]]
-- [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
-- [[Personas/Celestiales/Criminales/Black Attila\|Black Attila]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]]
-- [[Personas/Celestiales/Criminales/Astarté\|Astarté]]
-- [[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]]
-- [[Personas/Celestiales/Civiles/Norah Rose\|Norah Rose]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Permafrost\|Permafrost]]
 
 { .block-language-dataview}
 
