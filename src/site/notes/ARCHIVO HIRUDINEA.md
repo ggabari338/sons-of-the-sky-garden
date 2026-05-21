@@ -10,6 +10,9 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Criminales/Wildcard\|Wildcard]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]]
+- [[Lugares/Limbo\|Limbo]]
 - [[Personas/Celestiales/Vigilantes/Activos/Fable\|Fable]]
 - [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]]
 - [[Personas/Celestiales/Otros/Magnum Opus\|Magnum Opus]]
@@ -22,9 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]]
 - [[Personas/Celestiales/Civiles/Norah Rose\|Norah Rose]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Permafrost\|Permafrost]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Dragonborn\|Dragonborn]]
-- [[Personas/Celestiales/Otros/Envo, Quimera Cicatrizada\|Envo, Quimera Cicatrizada]]
-- [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
 
 { .block-language-dataview}
 
