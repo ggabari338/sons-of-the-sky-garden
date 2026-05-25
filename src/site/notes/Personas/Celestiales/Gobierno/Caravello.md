@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/gobierno/caravello/","dg-note-properties":{}}
 ---
 
-![IMG_3314.png\|249](/img/user/IMG_3314.png)
+![IMG_3314.png\|249](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3314.png)
 
 Tarquinia Clara Caravello, 1970 (42)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/fuera-de-servicio/dragonborn/","dg-note-properties":{}}
 ---
 
-![IMG_3307.png\|259](/img/user/IMG_3307.png)
+![IMG_3307.png\|259](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3307.png)
 Richard “Rex” Lestapis, 1985
 
 Dragonborn fue un vigilante que sirvió en el [[Facciones y grupos/Operativos de Vigilantes/Operativo Legacy\|Operativo Legacy]] con su hermana [[Personas/Celestiales/Vigilantes/Fuera de servicio/Permafrost\|Permafrost]]. Tiene una capacidad de transmutación que le permite adoptar una forma dracónica compuesta de fuego incandescente y magma. Junto a su hermana gemela, [[Personas/Celestiales/Vigilantes/Fuera de servicio/Permafrost\|Permafrost]], formó parte del [[Facciones y grupos/Operativos de Vigilantes/Operativo Legacy\|Operativo Legacy]], un dúo de vigilantes que operó sobre el distrito de Trinité. Aunque el sector se presentaba bajo una fachada de orden, Trinité existía bajo los intereses de la [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]], con el Operativo Legacy actuando como el brazo armado y ejecutor de la organización.

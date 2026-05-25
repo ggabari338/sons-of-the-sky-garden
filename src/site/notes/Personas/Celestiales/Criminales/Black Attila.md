@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/criminales/black-attila/","dg-note-properties":{}}
 ---
 
-![IMG_3313.png\|249](/img/user/IMG_3313.png)
+![IMG_3313.png\|249](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3313.png)
 Adám Kovács, 1966
 
 **Adám** **Kovács**, conocido en los círculos criminales como _Black Attila_, es una figura controvertida que acumula numerosas denuncias por asesinato y ha generado una amplia lista de enemigos entre los clanes delictivos, lo que ha puesto precio a su cabeza. Su apodo proviene de la figura del legendario Attila, combinado con el efecto de sus venas cuando activa sus poderes, que se tornan negras como el alquitrán. Sus ojos se convierten en un pozo sin fondo, oscuro como la noche. Sus habilidades le otorgan una dexteridad inigualable.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/civiles/malastair/","dg-note-properties":{}}
 ---
 
-![IMG_3315.png\|241](/img/user/IMG_3315.png)
+![IMG_3315.png\|241](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3315.png)
 
 Edad Desconocida
 

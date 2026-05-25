@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/fuera-de-servicio/permafrost/","dg-note-properties":{}}
 ---
 
-![IMG_3308.png\|240](/img/user/IMG_3308.png)
+![IMG_3308.png\|240](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3308.png)
 
 Lydia Lestapis, 1985
 

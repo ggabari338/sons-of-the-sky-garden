@@ -3,7 +3,7 @@
 ---
 
 
-![IMG_3304.png\|267](/img/user/IMG_3304.png)
+![IMG_3304.png\|267](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3304.png)
 
 La Quimera es uno de los [[Elementos del mundo/Conceptos del mundo/Celadores\|Celadores]] capturados para usarse en la arena de combate ilegal conocida como el [[Lugares/Limbo\|Limbo]]. Aunque él se refería a sí mismo con Envo, su nombre de combatiente era la Quimera, la más mortífera de las criaturas que se exhibieron en combate.
 

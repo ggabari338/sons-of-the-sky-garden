@@ -26,5 +26,5 @@ Para acceder al Cónclave, no basta con tener dinero o influencias; se requiere 
 ## Baluarte del Amanecer
 Mientras que la sede de Londres es histórica y social, el Baluarte en [[Lugares/St. Jerôme/St. Jêrome\|St. Jêrome]], Elsbourg es el centro operativo en la ciudad. 
 ## Trasfondo
-Véase [[Facciones y grupos/Gobierno e Instituciones/Orden Hermética de los Statuarios\|Orden Hermética de los Statuarios]]
+Véase [[Facciones y grupos/otros grupos/Orden Hermética de los Statuarios\|Orden Hermética de los Statuarios]]
 

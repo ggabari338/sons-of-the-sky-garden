@@ -6,8 +6,9 @@ Villeneuve es un distrito de clase alta renovado a mediados del siglo XIX, de pl
 
 ### Éden
 El barrio norte.
-- Museo Arqueológico de Elsbourg: De cara al público, Jesús Villareal es el director, pero en realidad es Blasphemous, el primero de todos los celestiales, un gato callejero con una inteligencia desmesurada y funcionalmente perpetuo. En el subsótano del museo, [[Personas/Celestiales/Otros/Blasphemous\|Blasphemous]] tiene una enorme guarida donde lleva a cabo su investigaciones, centradas en objetos antiguos y su poder. Tiene conceptos de la posibilidad de que existan mundos paralelos basado en piezas arqueológicas que ha encontrado. 
+- [[Lugares/Villeneuve/Museo Arqueológico de Elsbourg\|Museo Arqueológico de Elsbourg]]
 - Torre del Éden: Una torre de viviendas con un rooftop de acceso público que ofrece una vista espectacular de toda la ciudad.
+- [[Lugares/Villeneuve/Centro Médico Especializado De Angelis\|Centro Médico Especializado De Angelis]]
 ### Boulevard
 El barrio sur.
 - [[Lugares/Villeneuve/Torre de la Unidad\|Torre de la Unidad]]

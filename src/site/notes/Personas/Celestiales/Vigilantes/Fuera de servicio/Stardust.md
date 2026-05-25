@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/fuera-de-servicio/stardust/","dg-note-properties":{}}
 ---
 
-![IMG_3312.png\|228](/img/user/IMG_3312.png)
+![IMG_3312.png\|228](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3312.png)
 
 Identidad desconocida
 ## Orígenes: La fille en feu
