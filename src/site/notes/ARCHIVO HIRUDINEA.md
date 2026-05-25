@@ -10,6 +10,7 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
 - [[Lugares/Villeneuve/Museo Arqueológico de Elsbourg\|Museo Arqueológico de Elsbourg]]
 - [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
 - [[Facciones y grupos/otros grupos/Círculo del Museo arqueológico\|Círculo del Museo arqueológico]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Celestiales/Criminales/Raptor\|Raptor]]
 - [[Personas/Celestiales/Mercenarios/Terminus\|Terminus]]
 - [[Personas/Celestiales/Vigilantes/Activos/Echo\|Echo]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Green Knight\|Green Knight]]
 
 { .block-language-dataview}
 
