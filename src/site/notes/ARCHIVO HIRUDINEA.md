@@ -10,6 +10,13 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Moonveil\|Moonveil]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Oracle\|Oracle]]
+- [[Personas/Celestiales/Criminales/Raptor\|Raptor]]
+- [[Personas/Celestiales/Mercenarios/Terminus\|Terminus]]
+- [[Personas/Celestiales/Vigilantes/Activos/Echo\|Echo]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Green Knight\|Green Knight]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Hexafist\|Hexafist]]
 - [[Lugares/La Rose/Clinique 404\|Clinique 404]]
 - [[Lugares/Kunst/Hospital Central Saint Étienne\|Hospital Central Saint Étienne]]
 - [[Lugares/Fuera de Elsbourg/St. Clair\|St. Clair]]
@@ -18,13 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Lugares/Deux Rois/Escuela Extraordinaria Superior\|Escuela Extraordinaria Superior]]
 - [[Lugares/Cité Bleue/Torre San Pedro\|Torre San Pedro]]
 - [[Lugares/Cité Bleue/Sala Vautour\|Sala Vautour]]
-- [[Lugares/Cité Bleue/La Dance du Cigne\|La Dance du Cigne]]
-- [[Lugares/Cité Bleue/Hospital de la Pitié\|Hospital de la Pitié]]
-- [[Lugares/Bellevue/Cueva del Pez plateado\|Cueva del Pez plateado]]
-- [[Lugares/Artisans/Orfanato Nuevo Amanecer\|Orfanato Nuevo Amanecer]]
-- [[Lugares/Arc-en-ciel/Marché du Silex\|Marché du Silex]]
-- [[Lugares/Alcourt/Quasar Palace\|Quasar Palace]]
-- [[Personas/Celestiales/Criminales/Wildcard\|Wildcard]]
 
 { .block-language-dataview}
 

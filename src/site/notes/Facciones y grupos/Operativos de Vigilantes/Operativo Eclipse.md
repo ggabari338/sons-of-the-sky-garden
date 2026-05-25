@@ -8,7 +8,7 @@ Historial de miembros:
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]] (1977-2002)
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]] (fundadora, 1977-2002)
 - [[Personas/Celestiales/Vigilantes/Activos/Ultratumba\|Ultratumba]] (1985-1990, re retiró para formar el [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]])
-- [[Personas/Celestiales/Criminales/Wildcard\|Wildcard]] (2011-, C-1)
+- [[Personas/Celestiales/Vigilantes/Activos/Wildcard\|Wildcard]] (2011-, C-1)
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Oracle\|Oracle]] (1979-1992, fallecida en St. Clair)
 - [[Personas/Celestiales/Vigilantes/Activos/Fuego Fatuo\|Fuego Fatuo]] (2009-, C-2)
 - [[Personas/Celestiales/Vigilantes/Activos/Manor\|Manor]] (1979-, Capitán actual, C-3)
