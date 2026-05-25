@@ -10,7 +10,7 @@ El barrio sur de la Cité Bleue, caracterizado por sus edificios de ladrillo ant
 Valor de Activos: 25.000  (-2 / 8%)
 
 - [[Lugares/Cité Bleue/Sala Vautour\|Sala Vautour]]
-- El [[Lugares/Limbo\|Limbo]]
+- El [[Lugares/Cité Bleue/Limbo\|Limbo]]
 - [[Lugares/Cité Bleue/Hospital de la Pitié\|Hospital de la Pitié]]
 - [[Lugares/Cité Bleue/La Dance du Cigne\|La Dance du Cigne]]
 - El Sendero del Gato: Un laberinto de callejones estrechos y oscuros, famoso por ser un punto de intercambio entre traficantes y donde siempre se escuchan susurros sobre los Feux Bleus. allí se pueden comprar objetos especiales, desde consumibles hasta artefactos antiguos. también puede pagarse por información.
