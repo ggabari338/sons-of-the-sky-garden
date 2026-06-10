@@ -69,7 +69,7 @@
 - Mientras tienen a Adam en custodia, Black Attila mata de nuevo. Hay dos?
 - Con las pruebas de la seccion echo, se organiza un ataque masivo con el gobierno de  Megalia, Vortex y varios vigilantes contra Caravello, celestiales lobotomizados y sus comandos, atrincherados en Neuhausser.
 - En el combate, logran derrotar a Caravello por los pelos.
-- Encuentran la zona subterránea y Fudrex snipea a Alabaster. Combate contra el Magnum Opus y fin de la batalla.
+- Encuentran la zona subterránea y Fudrex snipea a Chapelle Sr. Combate contra el Magnum Opus y fin de la batalla.
 - Al atardecer, es evidente que Iris no crece de forma normal. Aparenta 10-11 años. Vero se va con ella en bus de vuelta a la ciudad.
 - Fuego Fatuo habla con Nuna, Jillian y Fudrex y les ofrece ser vigilantes oficiales de nuevo, con la posibilidad de formar parte del [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]].
 

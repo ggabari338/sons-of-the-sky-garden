@@ -5,7 +5,7 @@
 ![IMG_3337.png\|210](/img/user/IMG_3337.png)
 Thomas Chapelle, 1978
 
-Thomas Chapelle fue adoptado desde su nacimiento por [[Personas/Humanos y otros/Dr. Alabaster\|Dr. Alabaster]], CEO de [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]. Desde su niñez, su salud siempre fue extraordinaria, con un metabolismo capaz de curar heridas rápidamente. Sin embargo, fue en su adolescencia cuando descubrió que su poder iba mucho más allá de una simple regeneración: podía controlar la sangre en su cuerpo, dándole forma para crear armas y defensas. 
+Thomas Chapelle fue adoptado desde su nacimiento por [[Personas/Humanos y otros/Dr. Jean-Luc Chapelle\|Dr. Jean-Luc Chapelle]], CEO de [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]. Desde su niñez, su salud siempre fue extraordinaria, con un metabolismo capaz de curar heridas rápidamente. Sin embargo, fue en su adolescencia cuando descubrió que su poder iba mucho más allá de una simple regeneración: podía controlar la sangre en su cuerpo, dándole forma para crear armas y defensas. 
 
 Mientras estudiaba medicina, empezó su carrera como vigilante bajo el apodo de "Cescent". Esto hizo que su carrera se alargara más de lo necesario, pero la combinación de sus estudios y el desarrollo práctico de sus habilidades resultó en un control excelente de su poder. 
 
@@ -18,4 +18,4 @@ El dominio de la hematomancia hizo de Crescent el candidato perfecto para dirigi
 ### Secreto: Iris
 Fue el principal impulsor del secuestro de [[Personas/Eviternos/Iris\|Iris]] durante el parto de [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]], creyendo que la niña podía aportar información clave para alcanzar el nacimiento sintético de celestiales.
 ### Secreto: Magnum Opus
-Al morir, el cuerpo de Crescent fue llevado al [[Lugares/Alcourt/Instituto Arcadia\|Instituto Arcadia]], y fue utilizado como huésped para construir el [[Personas/Celestiales/Otros/Magnum Opus\|Magnum Opus]].
+Al morir, el cuerpo de Crescent fue llevado al [[Lugares/Alcourt/Instituto Arcadia\|Instituto Arcadia]], y fue utilizado como base para dar vida al [[Personas/Celestiales/Otros/Magnum Opus\|Magnum Opus]].

@@ -10,7 +10,13 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
+- [[Mr. Alabaster\|Mr. Alabaster]]
+- [[Lugares/Cité Bleue/Limbo\|Limbo]]
+- [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
+- [[Objetos/Acuerdo de Confidencialidad\|Acuerdo de Confidencialidad]]
+- [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]
 - [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
 - [[Lugares/Fuera de Elsbourg/Complejo penitenciario de Neuhäusser\|Complejo penitenciario de Neuhäusser]]
 - [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]]
@@ -19,12 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Elementos del mundo/Conceptos del mundo/Autómatas AR\|Autómatas AR]]
 - [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
 - [[Lugares/Villeneuve/Museo Arqueológico de Elsbourg\|Museo Arqueológico de Elsbourg]]
-- [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
-- [[Facciones y grupos/otros grupos/Círculo del Museo arqueológico\|Círculo del Museo arqueológico]]
-- [[Lugares/Villeneuve/Villeneuve\|Villeneuve]]
-- [[Objetos/Libro Circular\|Libro Circular]]
-- [[Objetos/Partida de Nacimiento y Defunción\|Partida de Nacimiento y Defunción]]
-- [[Objetos/Informes Deus Project\|Informes Deus Project]]
 
 { .block-language-dataview}
 
