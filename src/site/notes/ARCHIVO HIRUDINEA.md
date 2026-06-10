@@ -10,6 +10,7 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
 - [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
 - [[Lugares/Fuera de Elsbourg/Complejo penitenciario de Neuhäusser\|Complejo penitenciario de Neuhäusser]]
 - [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Objetos/Libro Circular\|Libro Circular]]
 - [[Objetos/Partida de Nacimiento y Defunción\|Partida de Nacimiento y Defunción]]
 - [[Objetos/Informes Deus Project\|Informes Deus Project]]
-- [[Objetos/Grabadora personal de Thomas Chapelle\|Grabadora personal de Thomas Chapelle]]
 
 { .block-language-dataview}
 
