@@ -10,6 +10,13 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Criminales/Glitch\|Glitch]]
+- [[Personas/Celestiales/Criminales/Gaol\|Gaol]]
+- [[Personas/Celestiales/Criminales/Furnace\|Furnace]]
+- [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Capitán Chacal\|Capitán Chacal]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Absolution\|Absolution]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Ágata\|Ágata]]
 - [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
 - [[Mr. Alabaster\|Mr. Alabaster]]
@@ -18,13 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Objetos/Acuerdo de Confidencialidad\|Acuerdo de Confidencialidad]]
 - [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]
 - [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
-- [[Lugares/Fuera de Elsbourg/Complejo penitenciario de Neuhäusser\|Complejo penitenciario de Neuhäusser]]
-- [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]]
-- [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]]
-- [[Elementos del mundo/Conceptos del mundo/Autómatas AM-1\|Autómatas AM-1]]
-- [[Elementos del mundo/Conceptos del mundo/Autómatas AR\|Autómatas AR]]
-- [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
-- [[Lugares/Villeneuve/Museo Arqueológico de Elsbourg\|Museo Arqueológico de Elsbourg]]
 
 { .block-language-dataview}
 
