@@ -10,6 +10,11 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Criminales/Cortex\|Cortex]]
+- [[Personas/Celestiales/Criminales/Raptor\|Raptor]]
+- [[Personas/Celestiales/Criminales/Profane\|Profane]]
+- [[Personas/Celestiales/Criminales/Malamuerte\|Malamuerte]]
+- [[Personas/Celestiales/Criminales/Keep\|Keep]]
 - [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]]
 - [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]]
 - [[Personas/Celestiales/Criminales/Glitch\|Glitch]]
@@ -20,11 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Absolution\|Absolution]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Ágata\|Ágata]]
 - [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
-- [[Mr. Alabaster\|Mr. Alabaster]]
-- [[Lugares/Cité Bleue/Limbo\|Limbo]]
-- [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
-- [[Objetos/Acuerdo de Confidencialidad\|Acuerdo de Confidencialidad]]
 
 { .block-language-dataview}
 
