@@ -2,8 +2,15 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/criminales/phalanx/","dg-note-properties":{}}
 ---
 
-![IMG_3316.png\|228](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3316.png)
-Jean-Luc Benech, 1949
+
+| ![IMG_3316.png\|187](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3316.png) |                                    |
+| ---------------------: | ---------------------------------- |
+|                 Nombre | Jean-Luc Benech                    |
+|                  Alias | Phalanx                            |
+|                 Origen | Trinité, 1949                      |
+|             Afiliación | [[Facciones y grupos/otros grupos/Círculo del Museo arqueológico\|Círculo del Museo arqueológico]] |
+|              Ocupación | Vigilante (Irregular)              |
+|                Familia | -                                  |
 
 Phalanx fue uno de los primeros vigilantes enmascarados que se lanzaron a las calles de Elsbourg en la década de los 60. Tenía un talento para el combate, y lo practicaba como un arte. Podía desviar proyectiles al vuelo usando su espada, bloquear ataques que venían de su espalda e incluso podía transmutar los objetos que empuñaba para convertir su filo en energía atómica capaz de cortar cualquier elemento. 
 

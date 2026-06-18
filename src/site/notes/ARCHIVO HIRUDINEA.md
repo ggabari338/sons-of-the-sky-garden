@@ -10,6 +10,8 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]]
+- [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]]
 - [[Personas/Celestiales/Criminales/Glitch\|Glitch]]
 - [[Personas/Celestiales/Criminales/Gaol\|Gaol]]
 - [[Personas/Celestiales/Criminales/Furnace\|Furnace]]
@@ -23,8 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Lugares/Cité Bleue/Limbo\|Limbo]]
 - [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
 - [[Objetos/Acuerdo de Confidencialidad\|Acuerdo de Confidencialidad]]
-- [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]
-- [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
 
 { .block-language-dataview}
 
