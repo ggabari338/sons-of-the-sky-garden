@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/elementos-del-mundo/eventos-historicos/regimen-de-lacroix-1933-1968/","dg-note-properties":{}}
+---
+
+El Régimen de Lacroix se instauró en [[Lugares/Megalia\|Megalia]] en 1933, tras el  golpe de estado del [[Personas/Humanos y otros/General Ferdinand Lacroix\|General Ferdinand Lacroix]] contra la República Megalesa. Su ascenso coincidió cronológicamente con la eclosión de los grandes movimientos totalitarios europeos de la década de 1930. Mediante un estricto control militar y social, Lacroix logró consolidar su poder y adoptó una postura de estricta neutralidad durante la Segunda Guerra Mundial, evitando el desgaste bélico y blindando las fronteras del archipiélago frente a las potencias del Eje y de los Aliados.
+
+A diferencia de los regímenes fascistas del eje europeo que colapsaron tras 1945, la dictadura de Lacroix logró prolongar su existencia durante más de dos décadas en el orden internacional de la posguerra. Este fenómeno de supervivencia política se debió, en gran medida, al impacto de los primeros [[Elementos del mundo/Ciencia/Nacimientos celestiales\|nacimientos celestiales]] registrados a partir de 1949 y la aparición de [[Elementos del mundo/Ciencia/La Marca\|La Marca]]. El descubrimiento de estas capacidades anómalas alteró las prioridades estratégicas de las potencias extranjeras y dotó al régimen de un nuevo factor de disuasión interna y externa.
+
+#### La Corte Celestial y el Adoctrinamiento de Estado
+El General Lacroix integró el fenómeno sobrenatural en la estructura ideológica del régimen. Para ello, el dictador constituyó una corte privada compuesta exclusivamente por jóvenes celestiales bajo su tutela directa. Este grupo selecto fue sometido a un riguroso programa de adoctrinamiento militar y místico, fundamentado en la gloria histórica de Megalia y en la naturaleza divina de sus habilidades. El objetivo era moldear una vanguardia armada e ideológica leal a la figura de Lacroix.
+
+#### Transición y Fundación de la Aureocracia (1968)
+La dictadura personal del militar concluyó con su deceso en 1968. Sin embargo, las estructuras de control no regresaron a la normalidad civil. Un celestial de su corte de confianza, conocido en los registros operativos como El [[Personas/Celestiales/Gobierno/Centinela\|Centinela]], aprovechó el vacío de poder y la formación ideológica recibida para tomar el control absoluto del gobierno. Tras deponer a los elementos leales a la vieja guardia militar, refundó el Estado bajo las tesis de la [[Elementos del mundo/Eventos históricos/Aureocracia Megalesa (1968-1977)\|Aureocracia Megalesa (1968-1977)]], transformando el fascismo de corte clásico de Lacroix en la oligarquía supremacista celestial que gobernaría el país hasta su caída.

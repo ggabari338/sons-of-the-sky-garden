@@ -10,6 +10,13 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Lugares/Megalia\|Megalia]]
+- [[Elementos del mundo/Eventos históricos/Régimen de Lacroix (1933-1968)\|Régimen de Lacroix (1933-1968)]]
+- [[Personas/Humanos y otros/General Ferdinand Lacroix\|General Ferdinand Lacroix]]
+- [[Elementos del mundo/Eventos históricos/Aureocracia Megalesa (1968-1977)\|Aureocracia Megalesa (1968-1977)]]
+- [[Elementos del mundo/Ciencia/Ánima\|Ánima]]
+- [[Elementos del mundo/Ciencia/La Marca\|La Marca]]
+- [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
 - [[Personas/Celestiales/Criminales/Cortex\|Cortex]]
 - [[Personas/Celestiales/Criminales/Raptor\|Raptor]]
 - [[Personas/Celestiales/Criminales/Profane\|Profane]]
@@ -18,13 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]]
 - [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]]
 - [[Personas/Celestiales/Criminales/Glitch\|Glitch]]
-- [[Personas/Celestiales/Criminales/Gaol\|Gaol]]
-- [[Personas/Celestiales/Criminales/Furnace\|Furnace]]
-- [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Capitán Chacal\|Capitán Chacal]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Absolution\|Absolution]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Ágata\|Ágata]]
-- [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
 
 { .block-language-dataview}
 

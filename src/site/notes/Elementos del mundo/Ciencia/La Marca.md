@@ -3,7 +3,7 @@
 ---
 
 ## El Fenómeno
-La Anomalía de Fotostasis Isotrópica (AFI), también llamada coloquialmente "la Marca", se define fenomenológicamente como una distorsión lumínica global caracterizada por la fijación del ángulo de incidencia solar en el plano horizontal del observador que existe desde el 3 de Junio de 1949. La AFI se manifiesta mediante una silueta opaca de morfología no convencional situada permanentemente en el límite del horizonte, proyectando una luminiscencia similar a la de un atardecer.
+La Anomalía Fotoestática Isotrópica (AFI), también llamada coloquialmente "la Marca", se define fenomenológicamente como una distorsión lumínica global caracterizada por la fijación del ángulo de incidencia solar en el plano horizontal del observador que existe desde el 3 de Junio de 1949. La AFI se manifiesta mediante una silueta opaca de morfología no convencional situada permanentemente en el límite del horizonte, proyectando una luminiscencia similar a la de un atardecer.
 Este fenómeno opera bajo un principio de paralaje cero, lo que significa que la fuente lumínica no se desplaza respecto al observador independientemente de su traslación geográfica. La Marca no ocupa un lugar coordinado en el espacio tridimensional, sino que actúa como una proyección entrelazada al observador, una distorsión del tejido espacio-temporal que garantiza que la luz se mantenga en un estado de atardecer perpetuo para cada individuo, convirtiendo la posición del reemplazante del sol en una variable dependiente exclusivamente de la ubicación de quien lo mira. Esto afecta a las sombras también, que se convierten en un fenómeno individual y no colectivo.
 
 ## El Impacto en la Vida Global
