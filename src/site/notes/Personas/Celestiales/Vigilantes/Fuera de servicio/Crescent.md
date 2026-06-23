@@ -5,7 +5,7 @@
 ![IMG_3337.png\|210](/img/user/IMG_3337.png)
 Thomas Chapelle, 1978
 
-Thomas Chapelle fue adoptado desde su nacimiento por [[Personas/Humanos y otros/Dr. Jean-Luc Chapelle\|Dr. Jean-Luc Chapelle]], CEO de [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]. Desde su niñez, su salud siempre fue extraordinaria, con un metabolismo capaz de curar heridas rápidamente. Sin embargo, fue en su adolescencia cuando descubrió que su poder iba mucho más allá de una simple regeneración: podía controlar la sangre en su cuerpo, dándole forma para crear armas y defensas. 
+Thomas Chapelle fue adoptado desde su nacimiento por [[Personas/Humanos y otros/Stéphane Chapelle\|Stéphane Chapelle]], CEO de [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]. Desde su niñez, su salud siempre fue extraordinaria, con un metabolismo capaz de curar heridas rápidamente. Sin embargo, fue en su adolescencia cuando descubrió que su poder iba mucho más allá de una simple regeneración: podía controlar la sangre en su cuerpo, dándole forma para crear armas y defensas. 
 
 Mientras estudiaba medicina, empezó su carrera como vigilante bajo el apodo de "Cescent". Esto hizo que su carrera se alargara más de lo necesario, pero la combinación de sus estudios y el desarrollo práctico de sus habilidades resultó en un control excelente de su poder. 
 

@@ -10,6 +10,9 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
+- [[Objetos/Acuerdo de Confidencialidad\|Acuerdo de Confidencialidad]]
+- [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]
 - [[Lugares/Megalia\|Megalia]]
 - [[Elementos del mundo/Eventos históricos/Régimen de Lacroix (1933-1968)\|Régimen de Lacroix (1933-1968)]]
 - [[Personas/Humanos y otros/General Ferdinand Lacroix\|General Ferdinand Lacroix]]
@@ -22,9 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Celestiales/Criminales/Profane\|Profane]]
 - [[Personas/Celestiales/Criminales/Malamuerte\|Malamuerte]]
 - [[Personas/Celestiales/Criminales/Keep\|Keep]]
-- [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]]
-- [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]]
-- [[Personas/Celestiales/Criminales/Glitch\|Glitch]]
 
 { .block-language-dataview}
 
