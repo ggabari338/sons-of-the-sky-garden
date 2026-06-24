@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/criminales/mind-thief/","dg-note-properties":{}}
 ---
 
+
+|            |             |
+| ---------: | ----------- |
+|     Nombre | Desconocido |
+|      Alias | Mind Thief  |
+|     Origen | Desconocido |
+| Afiliación | -           |
+|  Ocupación | -           |
+|    Familia | -           |
 El Mind Thief es un niño celestial de origen desconocido cuyo trauma personal redefinió el concepto de terror psicológico en Elsbourg durante la [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]. Hijo de una familia desplazada y víctima de abusos sistémicos, su poder reside en una forma de imaginación tangible: al procesar su dolor a través del juego, proyectaba involuntariamente sus recuerdos de abandono en la psique de quienes le rodeaban, eliminando la frontera entre los impulsos propios y el horror inducido. Este fenómeno, que inicialmente fue confundido con una histeria colectiva en el barrio de Solstice, escaló hasta una fractura de la realidad física que solo pudo ser contenida por la intervención del vigilante [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]] tras la destrucción de la mitad del distrito de [[Lugares/Étoile/Étoile\|Étoile]].
 
 ### Estatus Actual

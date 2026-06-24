@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
-- [[Objetos/Acuerdo de Confidencialidad\|Acuerdo de Confidencialidad]]
-- [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]
-- [[Lugares/Megalia\|Megalia]]
-- [[Elementos del mundo/Eventos históricos/Régimen de Lacroix (1933-1968)\|Régimen de Lacroix (1933-1968)]]
-- [[Personas/Humanos y otros/General Ferdinand Lacroix\|General Ferdinand Lacroix]]
-- [[Elementos del mundo/Eventos históricos/Aureocracia Megalesa (1968-1977)\|Aureocracia Megalesa (1968-1977)]]
-- [[Elementos del mundo/Ciencia/Ánima\|Ánima]]
-- [[Elementos del mundo/Ciencia/La Marca\|La Marca]]
-- [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
-- [[Personas/Celestiales/Criminales/Cortex\|Cortex]]
-- [[Personas/Celestiales/Criminales/Raptor\|Raptor]]
-- [[Personas/Celestiales/Criminales/Profane\|Profane]]
+- [[Personas/Celestiales/Vigilantes/Activos/Bulwark\|Bulwark]]
+- [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
+- [[Personas/Celestiales/Otros/Magnum Opus\|Magnum Opus]]
+- [[Personas/Celestiales/Otros/Envo, Quimera Cicatrizada\|Envo, Quimera Cicatrizada]]
+- [[Personas/Celestiales/Otros/Blasphemous\|Blasphemous]]
+- [[Personas/Celestiales/Mercenarios/Terminus\|Terminus]]
+- [[Personas/Celestiales/Mercenarios/Etcetera\|Etcetera]]
+- [[Personas/Celestiales/Mercenarios/Akasha\|Akasha]]
+- [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
+- [[Personas/Celestiales/Criminales/Zealot\|Zealot]]
+- [[Personas/Celestiales/Criminales/Mind Thief\|Mind Thief]]
 - [[Personas/Celestiales/Criminales/Malamuerte\|Malamuerte]]
-- [[Personas/Celestiales/Criminales/Keep\|Keep]]
+- [[Personas/Celestiales/Criminales/Lucky Six\|Lucky Six]]
+- [[Personas/Celestiales/Criminales/Krishan El Impuro\|Krishan El Impuro]]
+- [[Personas/Celestiales/Criminales/Cortex\|Cortex]]
 
 { .block-language-dataview}
 

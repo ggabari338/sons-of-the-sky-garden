@@ -4,7 +4,16 @@
 
 ![IMG_3314.png\|249](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3314.png)
 
-Tarquinia Clara Caravello, 1970 (42)
+, 1970
+
+|            |                                                                     |
+| ---------: | ------------------------------------------------------------------- |
+|     Nombre | Tarquinia Clara Caravello                                           |
+|      Alias | Viper, Coronel Víbora                                               |
+|     Origen | Citadelle, Trinité, 1970                                            |
+| Afiliación | [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]], [[Facciones y grupos/Gobierno e Instituciones/Comisión de Seguridad Pan-Ciudadana\|Comisión de Seguridad Pan-Ciudadana]] |
+|  Ocupación | Vigilante (Irregular)                                               |
+|    Familia | -                                                                   |
 
 Tarquinia nació marcada con la diferencia: su torso, más alargado de lo natural, desembocaba en dos pares de brazos largos y hábiles. La consciencia inevitable de su naturaleza mutante tanto para sí misma como para el mundo exterior la llevó a adoptar una postura muy radical, defendiendo siempre sus habilidades y participando en numerosos concursos de talento deportivo. Sus excelentes habilidades analíticas y su gran oratoria le valieron un puesto en el seno de la [[Facciones y grupos/Gobierno e Instituciones/Policía Megalesa\|Policía Megalesa]], hasta que ascendió para convertirse en la líder de los [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]] gracias a su amiga y mentora [[Personas/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]].
 

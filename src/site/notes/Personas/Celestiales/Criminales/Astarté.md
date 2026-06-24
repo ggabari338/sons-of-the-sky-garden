@@ -2,9 +2,15 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/criminales/astarte/","dg-note-properties":{}}
 ---
 
-![IMG_3311.png\|232](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3311.png)
-Chloë Thévenet, 1987
 
+| ![IMG_3311.png\|210](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3311.png) |                       |
+| ---------------------: | --------------------- |
+|                 Nombre | Chloë Thévenet        |
+|                  Alias | Astarté               |
+|                 Origen | Trinité, 1987         |
+|             Afiliación | [[Facciones y grupos/Mundo Criminal/Zetas\|Zetas]]             |
+|              Ocupación | Vigilante (Irregular) |
+|                Familia | -                     |
 Astarté comenzó su carrera como vigilante de manera independiente, impulsada por un deseo genuino de hacer el bien y proteger a los desamparados de Elsbourg. Su estilo era enérgico y audaz, sin la paciencia que requería la técnica pulida y formal que otros vigilantes admiraban. Fue en una de sus primeras misiones en las zonas más peligrosas de la periferia donde cruzó caminos con [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]], el mítico héroe de Elsbourg, quien, pese a su fama de ermitaño, comenzó a notar la determinación inquebrantable y el potencial de la joven. Aunque al principio él se mostró distante y reticente, no pasó mucho tiempo antes de que Astarté demostrara su valía, ganándose su respeto y, finalmente, aceptando la oferta de recibir su instrucción.
 
 Bajo la rigurosa y metódica tutela de Phalanx, Astarté aprendió a canalizar sus poderes sagrados, desarrollando la habilidad de infundir energía celestial en su equipo para crear escudos protectores y restaurar su salud tras las batallas. Sin embargo, aunque admiraba profundamente las habilidades y la disciplina de su maestro, Astarté nunca dejó de ser una joven rebelde y ambiciosa, deseosa de cambiar el mundo. A medida que crecía su influencia, Astarté comenzó a cuestionar las enseñanzas conservadoras de Phalanx y su visión del combate como una disciplina personal, sin objetivos sociales de fondo. Ella veía la lucha como un medio para transformar la sociedad y no solo como una herramienta de justicia aislada.
