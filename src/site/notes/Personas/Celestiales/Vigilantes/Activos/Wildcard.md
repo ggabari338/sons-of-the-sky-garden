@@ -2,8 +2,15 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/activos/wildcard/","dg-note-properties":{}}
 ---
 
-Erin Lindsay, 1978
 
+|            |                       |
+| ---------: | --------------------- |
+|     Nombre | Erin Lindsay          |
+|      Alias | Wildcard              |
+|     Origen | Trinité, 1978         |
+| Afiliación | [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] |
+|  Ocupación | Vigilante (oficial)   |
+|    Familia | -                     |
 Wildcard es una celestial cuya piel tiene la forma del agua cuando es un espejo perfecto. Su piel en estado normal es transparente, y deja ver sus órganos internos, motivo por el cual tiende a esconderse, imitando otros aspectos. Su poder reside en imitar las habilidades de sus adversarios.
 Estas capacidades le valieron un puesto en el [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]].
 Elin fue una de esas niñas vendidas por la [[Facciones y grupos/Mundo Criminal/Ligne Rouge\|Ligne Rouge]] al gobierno estadounidense por el [[Elementos del mundo/Eventos históricos/Programa Harvey\|Programa Harvey]], y fue adoptada por una pareja estadounidense modelo, en Boston.

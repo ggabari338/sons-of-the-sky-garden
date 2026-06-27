@@ -2,9 +2,17 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/activos/fable/","dg-note-properties":{}}
 ---
 
-![IMG_3320 1.png\|238](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3320%201.png)
-Identidad desconocida, 1980
 
+
+
+| ![IMG_3320 1.png\|210](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3320%201.png) |                       |
+| -----------------------: | --------------------- |
+|                   Nombre | Desconocido           |
+|                    Alias | Fable                 |
+|                   Origen | Trinité, 1980         |
+|               Afiliación | [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] |
+|                Ocupación | Vigilante (oficial)   |
+|                  Familia | -                     |
 Fable es una mujer celestial con poderes de manipulación de la realidad. A través de la narración, puede forzar que ciertos eventos ocurran usando su resonancia celestial. Pese a su edad, su elevado nivel de poder le valió el interés de la CSPC y pertenece al [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] desde 2007.
 
 **Personalidad**

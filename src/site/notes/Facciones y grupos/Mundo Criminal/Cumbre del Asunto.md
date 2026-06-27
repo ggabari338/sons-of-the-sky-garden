@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/facciones-y-grupos/mundo-criminal/cumbre-del-asunto/","dg-note-properties":{}}
 ---
 
-Se trata de una cumbre entre los principales líderes criminales de la ciudad de [[Lugares/Elsbourg\|Elsbourg]], donde se delimitan fronteras, forman y rompen pactos, y se formalizan peticiones. En los últimos años, la propia [[Personas/Celestiales/Gobierno/Caravello\|Caravello]] o uno de sus representantes empezaron a acudir a estas cumbres celebradas trimestralmente. Se creó en 1999 a raíz de las guerras callejeras provocadas por la caída de [[Facciones y grupos/Mundo Criminal/Ligne Rouge\|Ligne Rouge]].
+Se trata de una cumbre entre los principales líderes criminales de la ciudad de [[Lugares/Trinité\|Trinité]], donde se delimitan fronteras, forman y rompen pactos, y se formalizan peticiones. En los últimos años, la propia [[Personas/Celestiales/Gobierno/Caravello\|Caravello]] o uno de sus representantes empezaron a acudir a estas cumbres celebradas trimestralmente. Se creó en 1999 a raíz de las guerras callejeras provocadas por la caída de [[Facciones y grupos/Mundo Criminal/Ligne Rouge\|Ligne Rouge]].
 
 Las principales facciones involucradas y sus líderes son:
 - [[Personas/Humanos y otros/Clovis L'Arlequin\|Clovis L'Arlequin]] en nombre de los [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]

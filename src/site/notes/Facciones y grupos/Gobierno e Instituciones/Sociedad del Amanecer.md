@@ -3,7 +3,7 @@
 ---
 
 ## Descripción
-Con sede en Londres y presencia en el distrito de St. Jerôme, Elsbourg, la Sociedad del Amanecer es un grupo privado no religioso ni político que actúa como una hermandad para sus miembros. La Sociedad cuenta con representación en las altas esferas, y su función es la de una red de seguridad y ascenso social para la élite intelectual, política y financiera que gestiona los asuntos superhumanos.
+Con sede en Londres y presencia en el distrito de St. Jerôme, Trinité, la Sociedad del Amanecer es un grupo privado no religioso ni político que actúa como una hermandad para sus miembros. La Sociedad cuenta con representación en las altas esferas, y su función es la de una red de seguridad y ascenso social para la élite intelectual, política y financiera que gestiona los asuntos superhumanos.
 ## El Humanismo Dual
 La tesis principal de la Sociedad del Amanecer es el refuerzo de la humanidad "ordinaria" frente a los celestiales. Lejos de ser un grupo anti-celestial, sus miembros, humanos y celestiales, advocan por un equilibrio de fuerzas entre ambas humanidades.
 ## Sistema de membresía
@@ -24,7 +24,7 @@ Para acceder al Cónclave, no basta con tener dinero o influencias; se requiere 
 4. **Aspirantes:** candidatos a miembro, que están pasando las pruebas o están en observación. Trajes de color azul, negro, muy oscuros.
 5. **Infantes:** miembros menores de edad.
 ## Baluarte del Amanecer
-Mientras que la sede de Londres es histórica y social, el Baluarte en [[Lugares/St. Jerôme/St. Jêrome\|St. Jêrome]], Elsbourg es el centro operativo en la ciudad. 
+Mientras que la sede de Londres es histórica y social, el Baluarte en [[Lugares/St. Jerôme/St. Jêrome\|St. Jêrome]], Trinité es el centro operativo en la ciudad. 
 ## Trasfondo
 Véase [[Facciones y grupos/otros grupos/Orden Hermética de los Statuarios\|Orden Hermética de los Statuarios]]
 

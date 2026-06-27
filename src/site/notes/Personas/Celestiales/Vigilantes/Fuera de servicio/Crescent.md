@@ -2,8 +2,14 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/fuera-de-servicio/crescent/","dg-note-properties":{}}
 ---
 
-![IMG_3337.png\|210](/img/user/IMG_3337.png)
-Thomas Chapelle, 1978
+| ![IMG_3337.png\|193](/img/user/IMG_3337.png) |                                                                           |
+| ---------------------: | ------------------------------------------------------------------------- |
+|                 Nombre | Thomas Chapelle                                                           |
+|                  Alias | Crescent                                                                  |
+|                 Origen | Trinité, 1978                                                             |
+|             Afiliación | [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]                                                        |
+|              Ocupación | Vigilante (retirado), Director del [[Lugares/La Rose/Hospital Central de Aumed Vitalics\|Hospital Central de Aumed Vitalics]] |
+|                Familia | [[Personas/Humanos y otros/Stéphane Chapelle\|Stéphane Chapelle]]                                                     |
 
 Thomas Chapelle fue adoptado desde su nacimiento por [[Personas/Humanos y otros/Stéphane Chapelle\|Stéphane Chapelle]], CEO de [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]. Desde su niñez, su salud siempre fue extraordinaria, con un metabolismo capaz de curar heridas rápidamente. Sin embargo, fue en su adolescencia cuando descubrió que su poder iba mucho más allá de una simple regeneración: podía controlar la sangre en su cuerpo, dándole forma para crear armas y defensas. 
 

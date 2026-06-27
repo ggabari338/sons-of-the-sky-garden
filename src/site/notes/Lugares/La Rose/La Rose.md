@@ -7,7 +7,7 @@ El origen de La Rose se remonta al siglo XIII, cuando era un pequeño pueblo agr
 Valor de Activos: 50.000 (+0 / 10%)
 
 - [[Lugares/La Rose/Hospital Central de Aumed Vitalics\|Hospital Central de Aumed Vitalics]]
-- Museo de la aviación: Un museo dedicado a la historia aeronáutica y marítima de Elsbourg. Exhibe una colección de aviones históricos, modelos navales y simuladores interactivos. Es una atracción educativa que atrae a visitantes de todas las edades.
+- Museo de la aviación: Un museo dedicado a la historia aeronáutica y marítima de Trinité. Exhibe una colección de aviones históricos, modelos navales y simuladores interactivos. Es una atracción educativa que atrae a visitantes de todas las edades.
 - Centro comercial: Un moderno centro comercial situado cerca del aeropuerto, que combina tiendas de lujo con marcas locales. Incluye un área gastronómica con una variedad de opciones culinarias y un cine multiplex.
 - [[Lugares/La Rose/Clinique 404\|Clinique 404]]
 

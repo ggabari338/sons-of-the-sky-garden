@@ -29,7 +29,7 @@
 # FEBRERO DE 2012
 ## Confinamiento y bifurcación del equipo
 - Caravello dicta su detención inmediata y traslado al [[Lugares/Fuera de Elsbourg/Complejo penitenciario de Neuhäusser\|Complejo penitenciario de Neuhäusser]].
-- El equipo permanece bajo custodia incomunicada en Neuhausser durante tres semanas. Por su mal comportamiento, Jeanclim queda recluido en la sección subterránea, mientras que Vero y Fudrex conocen a varios presos, entre ellos [[Personas/Celestiales/Criminales/Cortex\|Cortex]], [[Personas/Celestiales/Criminales/Zealot\|Zealot]], [[Personas/Celestiales/Criminales/Keep\|Keep]], [[Personas/Celestiales/Criminales/Malamuerte\|Malamuerte]], [[Personas/Celestiales/Criminales/Profane\|Profane]], al calvo elegante y al [[Personas/Humanos y otros/Carnicero de Trinité\|Carnicero de Trinité]]. Son interrogados por Caravello en varias ocasiones, y descubren que ella no sabe nada sobre sdu supuesta resucitación.
+- El equipo permanece bajo custodia incomunicada en Neuhausser durante tres semanas. Por su mal comportamiento, Jeanclim queda recluido en la sección subterránea, mientras que Vero y Fudrex conocen a varios presos, entre ellos [[Personas/Celestiales/Criminales/Cortex\|Cortex]], [[Personas/Celestiales/Criminales/Zealot\|Zealot]], [[Personas/Celestiales/Criminales/Keep\|Keep]], [[Personas/Celestiales/Criminales/Malamuerte\|Malamuerte]], [[Personas/Celestiales/Criminales/Profane\|Profane]], al calvo elegante y al [[Personas/Humanos y otros/Carnicero de Lescroix\|Carnicero de Lescroix]]. Son interrogados por Caravello en varias ocasiones, y descubren que ella no sabe nada sobre sdu supuesta resucitación.
 - Durante este tiempo, Jillian vive con Claudette y sus compañeros mercenarios. 
 - Por su parte, Nuna asegura un puesto laboral y de cobertura gracias a las influencias de la [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]], donde conoce a [[Personas/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]], [[Personas/Humanos y otros/Sylvie Hyde\|Sylvie Hyde]], [[Personas/Celestiales/Vigilantes/Activos/Gridlock\|Gridlock]], [[Personas/Humanos y otros/Isidora Nasca\|Isidora Nasca]], [[Personas/Celestiales/Civiles/Norah Rose\|Norah Rose]] y se reencuentra con [[Personas/Humanos y otros/Valentino Carrel\|Valentino Carrel]], [[Personas/Humanos y otros/Saul Carrel\|Saul Carrel]] y [[Personas/Humanos y otros/Renée Alison\|Renée Alison]].
 
@@ -39,7 +39,7 @@
 - Vero, Fudrex y el Calvo elegante van al Limbo, donde combaten contra [[Personas/Celestiales/Otros/Envo, Quimera Cicatrizada\|Envo, Quimera Cicatrizada]] y consiguen información sobre la [[Lugares/Cité Bleue/Sección Echo\|Sección Echo]].
 - Nuna, Jillian y Vero son atacados por Cortex, Zealot y Arleen, controlados por Caravello. Logran derrotarles a duras penas y ponerles de su parte.
 - El indulto de Jeanclim tardó en llegar, pero finalmente salió de la prisión. 
-- Vero, Jillian, Fudrex y Norah van con Malamuerte al casino, donde descubren que está haciendo trampas usando el poder de la suerte de Labyrinth. Al entrar en el dominio psíquico de Norah para buscar a [[Personas/Celestiales/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]], Fudrex tiene la visión de la espiral roja sobre elsbourg. Vero y Norah tienen relaciones sexuales. Norah se enfrenta a Malamuerte, que les debe mucho dinero a Jillian y a Fudrex.
+- Vero, Jillian, Fudrex y Norah van con Malamuerte al casino, donde descubren que está haciendo trampas usando el poder de la suerte de Labyrinth. Al entrar en el dominio psíquico de Norah para buscar a [[Personas/Celestiales/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]], Fudrex tiene la visión de la espiral roja sobre Trinité. Vero y Norah tienen relaciones sexuales. Norah se enfrenta a Malamuerte, que les debe mucho dinero a Jillian y a Fudrex.
 - El equipo, a excepción de Nuna, se prepara para enfrentarse al Impuro, pero son atacados por Astarté y los Zetas, controlados por Caravello. Astarté es capturada y llevada al museo.
 
 ## El Incidente de San Valentín
@@ -48,7 +48,7 @@
 - Cuando Valentino sale y ve su coche, confronta a Jeanclim, que amenaza con matarle a él y hasta a Andrew Rose. Rodean a Valentino, que huye hacia la carretera y es arrollado por un coche. Cuando se acercan a él, Valentino usa un cascabel y el mundo se oscurece, Valentino desaparece y se quedan a solas con [[Personas/Celestiales/Civiles/Malastair\|Malastair]]. El combate es corto y desigual. Vero logra romper la esfera de oscuridad pero Jeanclim queda atrapado en ella y jamás se le vuelve a ver.
 - Esto consigue la enemistad de la familia Rose y los Carrel.
 
-## Guerrillas en Kunst y Trinité
+## Guerrillas en Kunst y Lacroix
 - Paulina, una ilusionista se había hecho pasar por Jeanclim y provoca un altercado en el museo. Resulta ser la ex-pareja del desaparecido Jeanclim.
 - Jillian, Vero y Paulina asaltan las instalaciones de [[Facciones y grupos/Empresas Privadas/Urban Express\|Urban Express]] y derrotan al Impuro, con quien terminan haciendo un trato para destruir a su enemigo común, los Herederos.
 - Nuna y Vero son invitados al palacio de [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]], le piden ayuda. Legión va a la mansión de los herederos y oblida a Simonova a entregarles a Iris.

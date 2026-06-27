@@ -7,7 +7,7 @@
 | ---------------------: | ----------------------------------------------------------- |
 |                 Nombre | Adám Kovács                                                 |
 |                  Alias | Black Attila                                                |
-|                 Origen | Trinité, 1966                                               |
+|                 Origen | Kunst, Trinité, 1966                                        |
 |             Afiliación | [[Facciones y grupos/Mundo Criminal/Academia Kovács\|Academia Kovács]], [[Facciones y grupos/Mundo Criminal/Ligne Rouge\|Ligne Rouge]]                        |
 |              Ocupación | Señor criminal, <br>Gran Maestro de la Academia (2007-2011) |
 |                Familia | [[Personas/Humanos y otros/Csatár Kovács\|Csatár Kovács]] (padre)                                   |
@@ -19,5 +19,5 @@ Entre 2006 y 2007, Csatár expandió sus operaciones al este de la ciudad, entra
 ### Caída en desgracia
 La muerte de Csatár a finales de 2011 precipitó la caída del imperio. Abandonado a su suerte, Adám se convirtió en el blanco de docenas de bandas rivales que aprovecharon el vacío de poder. Su propio mentor, Krishan, dudó de si había sido responsable de la muerte de su propio padre y le repudió. Con el tiempo, la figura de Adám quedó marcada por la ambigüedad: un individuo considerado monstruoso por sus crímenes, pero también un hombre aislado y acosado por sus enemigos. A principios de 2012, arrinconado por la Koskaya Bratva, Adám acudió a su viejo amigo Krishan en busca de ayuda.
 
-Con su desaparición, su discípula [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]] le susitituyó como gran maestra de la Academia. Su legado incluye no solo la transformación de una pandilla callejera en una organización criminal influyente, sino también un impacto duradero en la cultura marcial de Elsbourg.
+Con su desaparición, su discípula [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]] le susitituyó como gran maestra de la Academia. Su legado incluye no solo la transformación de una pandilla callejera en una organización criminal influyente, sino también un impacto duradero en la cultura marcial de Trinité.
 

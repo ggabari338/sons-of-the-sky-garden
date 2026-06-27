@@ -12,7 +12,7 @@ Valor de Activos: 300.000 (+4 / 14%)
 - Mansión Lindenbaum: Vieja residencia del [[Personas/Celestiales/Gobierno/Centinela\|Centinela]], ahora un museo sobre la Aureocracia.
 - Mansión Rose: Residencia de [[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]]
 - Embajada Estadounidense
-- [[Lugares/St. Jerôme/El Archivo Histórico de Elsbourg\|El Archivo Histórico de Elsbourg]]
+- [[Lugares/St. Jerôme/El Archivo Histórico de Trinité\|El Archivo Histórico de Trinité]]
 
 Facción principal: [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]]
 

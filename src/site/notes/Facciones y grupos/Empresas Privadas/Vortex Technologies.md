@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/facciones-y-grupos/empresas-privadas/vortex-technologies/","dg-note-properties":{}}
 ---
 
-Vortex Technologies (legalmente registrada como Vortex Robotics & Systems N.V.) es un conglomerado multinacional tecnológico con sede central en el distrito financiero de Étoile, Elsbourg, tras la [[Elementos del mundo/Eventos históricos/Guerra Civil Norteamericana (2007-2011)\|Guerra Civil Norteamericana (2007-2011)]]. Es la empresa con mayor capitalización de mercado del mundo y se considera la columna vertebral de la infraestructura digital y física de la sociedad moderna.
+Vortex Technologies (legalmente registrada como Vortex Robotics & Systems N.V.) es un conglomerado multinacional tecnológico con sede central en el distrito financiero de Étoile, Trinité, tras la [[Elementos del mundo/Eventos históricos/Guerra Civil Norteamericana (2007-2011)\|Guerra Civil Norteamericana (2007-2011)]]. Es la empresa con mayor capitalización de mercado del mundo y se considera la columna vertebral de la infraestructura digital y física de la sociedad moderna.
 
 Aunque originalmente alcanzó notoriedad en el sector de la robótica avanzada, el verdadero poder de Vortex reside en su monopolio de facto sobre las capas fundamentales de la tecnología: el desarrollo de semiconductores, sistemas operativos y protocolos de comunicación global.
 

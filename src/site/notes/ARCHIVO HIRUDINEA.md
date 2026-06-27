@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Personas/Celestiales/Vigilantes/Activos/Bulwark\|Bulwark]]
-- [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
-- [[Personas/Celestiales/Otros/Magnum Opus\|Magnum Opus]]
-- [[Personas/Celestiales/Otros/Envo, Quimera Cicatrizada\|Envo, Quimera Cicatrizada]]
-- [[Personas/Celestiales/Otros/Blasphemous\|Blasphemous]]
-- [[Personas/Celestiales/Mercenarios/Terminus\|Terminus]]
-- [[Personas/Celestiales/Mercenarios/Etcetera\|Etcetera]]
-- [[Personas/Celestiales/Mercenarios/Akasha\|Akasha]]
-- [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
-- [[Personas/Celestiales/Criminales/Zealot\|Zealot]]
-- [[Personas/Celestiales/Criminales/Mind Thief\|Mind Thief]]
-- [[Personas/Celestiales/Criminales/Malamuerte\|Malamuerte]]
-- [[Personas/Celestiales/Criminales/Lucky Six\|Lucky Six]]
-- [[Personas/Celestiales/Criminales/Krishan El Impuro\|Krishan El Impuro]]
-- [[Personas/Celestiales/Criminales/Cortex\|Cortex]]
+- [[Lugares/Arc-en-ciel/Arc-en-ciel\|Arc-en-ciel]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Paradox\|Operativo Paradox]]
+- [[Elementos del mundo/Eventos históricos/Asesinatos Celestiales (2011-2012)\|Asesinatos Celestiales (2011-2012)]]
+- [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]
+- [[Lugares/Lauriers/Lauriers\|Lauriers]]
+- [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
+- [[Lugares/Petite Espagne/Petite Espagne\|Petite Espagne]]
+- [[Lugares/Fuera de Elsbourg/Palacio del Sol\|Palacio del Sol]]
+- [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]]
+- [[Lugares/Fuera de Elsbourg/Bosque de Lacan\|Bosque de Lacan]]
+- [[Lugares/Arc-en-ciel/Zola\|Zola]]
+- [[Lugares/La Rose/La Rose\|La Rose]]
+- [[Lugares/Étoile/Étoile\|Étoile]]
+- [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]]
+- [[Lugares/Gothique/Gothique\|Gothique]]
 
 { .block-language-dataview}
 

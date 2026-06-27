@@ -8,7 +8,7 @@ Joël Sérra es el CEO de [[Facciones y grupos/Empresas Privadas/Vortex Technolo
 
 Durante este tiempo, Joël refinó sus habilidades, adoptando el alias de Singularity tras volverse viral en internet y la televisión al declarar en 2002 que emprendía la búsqueda por crear la singularidad, un modelo de Inteligencia Artificial superior que pudiera guiar a la humanidad. Esto despertó un gran interés en su persona, que recibió el apodo de “Man of the Singularity”, y luego únicamente Singularity. 
 
-Con la bonanza económica, Singularity decidió reforzar la rama de la empresa presente en su ciudad natal, Elsbourg, y lideró el esfuerzo de la reconstrucción de la ciudad tras la [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]. 
+Con la bonanza económica, Singularity decidió reforzar la rama de la empresa presente en su ciudad natal, Trinité, y lideró el esfuerzo de la reconstrucción de la ciudad tras la [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]. 
 
 En 2007, con el estallido de la [[Elementos del mundo/Eventos históricos/Guerra Civil Norteamericana (2007-2011)\|Guerra Civil Norteamericana (2007-2011)]], las instalaciones de Vortex en Silicon Valley fueron destruidas por una unidad de ataque de la [[Facciones y grupos/Gobierno e Instituciones/Aureocracia Americana\|Aureocracia Americana]] y el presidente de Vortex perdió la vida, dejando la empresa mermada y a Joël al mando. El hijo del presidente heredó la empresa, pero Singularity mantuvo el control de las decisiones. Pese a las complicaciones causadas por la crisis, En 2010 se inauguró el [[Lugares/Étoile/Crystal Edge Center\|Crystal Edge Center]] y se convirtió en la nueva sede de Vortex.
 

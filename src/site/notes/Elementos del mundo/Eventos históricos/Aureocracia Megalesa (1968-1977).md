@@ -9,6 +9,9 @@ La consolidación de la Aureocracia alteró de forma drástica el equilibrio geo
 
 A nivel doméstico, el régimen enfrentó la oposición armada del movimiento de [[Facciones y grupos/Mundo Criminal/Zetas\|Zetas]]. Esta organización partisana, nacida originalmente para combatir la opresión de la dictadura de Lacroix, reactivó sus células insurgentes bajo el liderazgo operativo de [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]], consolidándose como el principal foco de resistencia contra la ocupación aureocrática.
 
+### Ascensión
+Bajo la Aureocracia, Megalia vivió una época de cierta represión ideológica bajo el mandato de los celestiales, pero también creció para convertirse en una potencia económica y tecnológica muy superior a cualquier nación de su envergadura. En 1971, Megalia se unió a la carrera espacial, superando tanto a la URSS como a EEUU al aterrizar una tripulación en Marte y establecer una red de satélites que se siguió usando hasta mucho después de la caída de la Aureocracia.
+Los celestiales se convirtieron en cuidadanos de primera, pero contrariamente a los rumores, los humanos no sufieron ninguna clase de esclavitud ni exterminio. Más bien se les privó el acceso a numerosas posiciones clave en la sociedad, quedando relegados a trabajos ajenos al gobierno, ejército y policía, guiados por líderes de clase celestial.
 #### Expansión y Caída
 El punto de inflexión internacional se produjo cuando el Aureocracismo comenzó a expandirse por el continente europeo, donde diversos líderes políticos y militares de corte celestial empezaron a manifestar simpatía abierta por las tesis del Centinela. Ante el riesgo de una hegemonía global incontrolable, se articuló una coalición militar internacional sin precedentes.
 

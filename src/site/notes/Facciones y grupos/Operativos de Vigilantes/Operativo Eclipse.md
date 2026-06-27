@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/facciones-y-grupos/operativos-de-vigilantes/operativo-eclipse/","dg-note-properties":{}}
 ---
 
-Principal grupo de vigilantes de [[Lugares/Elsbourg\|Elsbourg]] y del distrito de [[Lugares/Villeneuve/Villeneuve\|Villeneuve]], con sede en la Torre de la Unidad.
+Principal grupo de vigilantes de [[Lugares/Trinité\|Trinité]] y del distrito de [[Lugares/Villeneuve/Villeneuve\|Villeneuve]], con sede en la Torre de la Unidad.
 
 Historial de miembros:
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]] (1977-2002)

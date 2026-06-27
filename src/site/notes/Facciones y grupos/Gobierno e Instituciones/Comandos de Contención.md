@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/facciones-y-grupos/gobierno-e-instituciones/comandos-de-contencion/","dg-note-properties":{}}
 ---
 
-Los Comandos de Contención son una unidad policial paramilitar fundada por el 2º Árbitro de Elsbourg, [[Personas/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]], en 1984 y reformada más tarde durante el mandato de [[Personas/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]]. Fue concebida originalmente para enfrentar amenazas de tipo celestial. Sin embargo, en la actualidad, suelen ser utilizados como fuerza militar dentro y fuera de los muros de la ciudad.
+Los Comandos de Contención son una unidad policial paramilitar fundada por el 2º Árbitro de Trinité, [[Personas/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]], en 1984 y reformada más tarde durante el mandato de [[Personas/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]]. Fue concebida originalmente para enfrentar amenazas de tipo celestial. Sin embargo, en la actualidad, suelen ser utilizados como fuerza militar dentro y fuera de los muros de la ciudad.
 ### Jerarquía y poder
 Poseen una estructura jerárquica militar donde el rango más elevado es el de Coronel, quien responde directamente ante el Director General de la [[Facciones y grupos/Gobierno e Instituciones/Policía Megalesa\|Policía Megalesa]]. Su líder más prominente es la [[Personas/Celestiales/Gobierno/Caravello\|Caravello]], que accedió al puesto en 2005 y reformó los comandos para convertirlos en una fuerza mucho más extendida y eficiente. Su centro de poder se encuentra en [[Lugares/Citadelle/Citadelle\|Citadelle]], pero el grueso de las operaciones que encabezan tienen lugar en barrios verdes y azules.
 ### Alianza estratégica con Vortex Robotics

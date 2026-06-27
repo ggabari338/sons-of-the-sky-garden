@@ -6,13 +6,13 @@ Villeneuve es un distrito de clase alta renovado a mediados del siglo XIX, de pl
 
 ### Éden
 El barrio norte.
-- [[Lugares/Villeneuve/Museo Arqueológico de Elsbourg\|Museo Arqueológico de Elsbourg]]
+- [[Lugares/Villeneuve/Museo Arqueológico de Trinité\|Museo Arqueológico de Trinité]]
 - Torre del Éden: Una torre de viviendas con un rooftop de acceso público que ofrece una vista espectacular de toda la ciudad.
 - [[Lugares/Villeneuve/Centro Médico Especializado De Angelis\|Centro Médico Especializado De Angelis]]
 ### Boulevard
 El barrio sur.
 - [[Lugares/Villeneuve/Torre de la Unidad\|Torre de la Unidad]]
-- El Paseo de los Vigilantes: Una ancha avenida de cuatro carriles en doble sentido cuya zona intermedia es un bucólico paseo empedrado que conecta la Plaza de la Ciudadela con el Parque del Edén, flanqueada por estatuas de vigilantes icónicos de Elsbourg. Es un lugar de referencia para visitantes y un punto de encuentro para ceremonias y conmemoraciones.
+- El Paseo de los Vigilantes: Una ancha avenida de cuatro carriles en doble sentido cuya zona intermedia es un bucólico paseo empedrado que conecta la Plaza de la Ciudadela con el Parque del Edén, flanqueada por estatuas de vigilantes icónicos de Trinité. Es un lugar de referencia para visitantes y un punto de encuentro para ceremonias y conmemoraciones.
 
 Valor de Activos: 200.000 (+3 / 13%)
 
