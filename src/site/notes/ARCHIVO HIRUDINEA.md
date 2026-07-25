@@ -10,6 +10,8 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Vindicatus\|Vindicatus]]
+- [[Personas/Humanos y otros/Scolaio di Rego\|Scolaio di Rego]]
 - [[Lugares/Arc-en-ciel/Arc-en-ciel\|Arc-en-ciel]]
 - [[Facciones y grupos/Operativos de Vigilantes/Operativo Paradox\|Operativo Paradox]]
 - [[Elementos del mundo/Eventos históricos/Asesinatos Celestiales (2011-2012)\|Asesinatos Celestiales (2011-2012)]]
@@ -23,8 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Lugares/Arc-en-ciel/Zola\|Zola]]
 - [[Lugares/La Rose/La Rose\|La Rose]]
 - [[Lugares/Étoile/Étoile\|Étoile]]
-- [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]]
-- [[Lugares/Gothique/Gothique\|Gothique]]
 
 { .block-language-dataview}
 
