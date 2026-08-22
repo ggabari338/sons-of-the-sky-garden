@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/humanos-y-otros/loriana-de-angelis/","dg-note-properties":{}}
 ---
 
-Loriana De Angelis (1965-2009) fue una prominente miembro de la [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]], que llegó a ejercer como la mano derecha de [[Personas/Humanos y otros/Sylvie Hyde\|Sylvie Hyde]] durante su mandato como árbitro (1997-2002), en el puesto de Secretaria General. Con un trasfondo excelente en medicina y biotecnología, Loriana fue el rostro perfecto de la Sociedad del Amanecer durante su época, demostrando cómo las becas de estudios de la Sociedad podían formar a personas tan cualificadas.
+Loriana De Angelis (1965-2009) fue una prominente miembro de la [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]], con un trasfondo excelente en medicina y biotecnología, Loriana fue el rostro perfecto de la fraternidad durante su época, demostrando cómo las becas de estudios que promovían podían formar a personas tan cualificadas.
 
 Loriana fue conocida a nivel mundial por su apoyo y subvención a la investigación acerca de las [[Elementos del mundo/Conceptos del mundo/Perla(s) Escarlata\|Perla(s) Escarlata]] y el desarrollo del tratamiento de la [[Elementos del mundo/Conceptos del mundo/Fiebre Escarlata\|Fiebre Escarlata]], involucrándose a nivel personal en ello, notablemente a través de la promoción de varias misiones humanitarias llevadas a cabo por la Sociedad del Amanecer en el barrio de Zola, en Trinité, que desde los años 80 se había convertido en el lugar de mayor concentración de afligidos de la fiebre escarlata del mundo.
 

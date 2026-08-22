@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Vindicatus\|Vindicatus]]
-- [[Personas/Humanos y otros/Scolaio di Rego\|Scolaio di Rego]]
-- [[Lugares/Arc-en-ciel/Arc-en-ciel\|Arc-en-ciel]]
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Paradox\|Operativo Paradox]]
-- [[Elementos del mundo/Eventos históricos/Asesinatos Celestiales (2011-2012)\|Asesinatos Celestiales (2011-2012)]]
-- [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]
-- [[Lugares/Lauriers/Lauriers\|Lauriers]]
+- [[Facciones y grupos/Gobierno e Instituciones/Partidos Políticos/Partido Socialista Megalés\|Partido Socialista Megalés]]
+- [[Facciones y grupos/Gobierno e Instituciones/Partidos Políticos/Frente de Soberanía Ciudadana\|Frente de Soberanía Ciudadana]]
+- [[Lisanne Van Der Zogen\|Lisanne Van Der Zogen]]
+- [[Elementos del mundo/Conceptos del mundo/Árbitro de la CSPC\|Árbitro de la CSPC]]
+- [[Personas/Humanos y otros/Arminio Cresto\|Arminio Cresto]]
+- [[Ferrán Moliner\|Ferrán Moliner]]
+- [[Facciones y grupos/Gobierno e Instituciones/Partidos Políticos/Partido Reformista Megalés\|Partido Reformista Megalés]]
 - [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
-- [[Lugares/Petite Espagne/Petite Espagne\|Petite Espagne]]
-- [[Lugares/Fuera de Elsbourg/Palacio del Sol\|Palacio del Sol]]
-- [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]]
-- [[Lugares/Fuera de Elsbourg/Bosque de Lacan\|Bosque de Lacan]]
-- [[Lugares/Arc-en-ciel/Zola\|Zola]]
-- [[Lugares/La Rose/La Rose\|La Rose]]
-- [[Lugares/Étoile/Étoile\|Étoile]]
+- [[Elementos del mundo/Documentos/Periodismo/Toujours (03-2012)\|Toujours (03-2012)]]
+- [[Facciones y grupos/Empresas Privadas/INTERLINKED\|INTERLINKED]]
+- [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]]
+- [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]]
+- [[Personas/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]]
+- [[Personas/Humanos y otros/Loriana De Angelis\|Loriana De Angelis]]
+- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
 
 { .block-language-dataview}
 

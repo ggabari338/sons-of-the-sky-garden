@@ -8,7 +8,7 @@ La CSPC opera bajo un estricto principio de neutralidad diplomática y soberaní
 
 Como máximo ente de **estandarización normativa y supervisión ética**, su autoridad emana de dos pilares administrativos:
 
-- **Certificados de Operatividad Superhumana (COS):** Ningún individuo con capacidades puede ejercer actividad pública o privada legal sin este documento. La CSPC tiene la potestad de revocar estos certificados de forma inmediata, lo que supone la inhabilitación civil total del individuo.
+- **Certificados de Operatividad Superhumana (SOC):** Ningún individuo con capacidades puede ejercer actividad pública o privada legal sin este documento. La CSPC tiene la potestad de revocar estos certificados de forma inmediata, lo que supone la inhabilitación civil total del individuo.
 - **Registro Global de Identidades Superhumanas (RGIS):** Una base de datos donde se censan todos los celestiales que hayan vivido. El RGIS rastrea en tiempo real el estatus legal, la ocupación, el nivel de amenaza teórica y la actividad financiera de cada sujeto registrado.
 
 ## Pilares Operativos de la CSPC
@@ -23,7 +23,7 @@ A través de un cuerpo de élite compuesto por juristas, auditores forenses y co
 - **Sede:** Situada en el corazón administrativo de [[Lugares/Trinité\|Trinité]], la [[Lugares/Citadelle/Ciudadela de Gaumont\|Ciudadela de Gaumont]] es un complejo de arquitectura barroca que goza de estatus de **extraterritorialidad**. Es, a efectos prácticos, una ciudad-estado soberana. Está custodiada por los Comandos de Contención y alberga la residencia del Árbitro, el Consejo Pan-Ciudadano y el Registro Global.
 - **Cargos y puestos:**
 	- [[Elementos del mundo/Conceptos del mundo/Árbitro de la CSPC\|Árbitro de la CSPC]]: Es la máxima autoridad ejecutiva de la organización. Es elegido cada 5 años por el **Consejo de Soberanos** (compuesto por los Jefes de Estado de la Unión Europea y las potencias adheridas). El primer árbitro fue [[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]] y comenzó su mandato en 1977.
-		- **Secretario General:** Es el arquitecto operativo de la Comisión y la mano derecha del Árbitro. Mientras el Árbitro gestiona la política de alto nivel, el Secretario General coordina las direcciones técnicas. Es quien asegura que las resoluciones del Árbitro se ejecuten en todos los ministerios de justicia del mundo. Es designado por el Consejo Pan-Ciudadano.
+	- **Secretario General:** Es el arquitecto operativo de la Comisión y gerente de asuntos interiores de Megalia. Mientras el Árbitro gestiona la política de nivel internacional principalmente, el Secretario General tiene los ojos puestos en la Nación Megalesa y los mecanismos internos de la CSPC. Es designado por sufragio universal directo del pueblo megalés.
 	- **Tribunal Supremo de Asuntos Celestiales:** Poder judicial de la CSPC.
 		- **Los Trece Magistrados:** Son los jueces de última instancia, inamovibles y con cargos vitalicios (o hasta los 75 años). Supervisan la actividad judicial de la CSPC y actúan como jueces en los casos más extremos.
 		- **Presidente del Tribunal:** Portavoz del tribunal ante el mundo y ante el árbitro.
