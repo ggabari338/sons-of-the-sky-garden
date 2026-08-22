@@ -16,7 +16,7 @@ Nacido en la humilde villa de San Carlo (actual St. Clair), la dualidad de su in
 
 A partir de este trauma ontológico, la iconografía de la descarga eléctrica (_el rayo_) abandona el terreno de la superstición para convertirse en la manifestación de una energía primaria incontrolada. Di Lezo concibe aquí al *Homo Fulminis*: la hipótesis de un individuo no sometido a las leyes del arbitrio divino, sino capaz de encauzar y domeñar la fuerza elemental a través de la técnica. Sus primeros prototipos de captación electro-atmosférica no buscaban únicamente la protección de las estructuras urbanas, sino la extracción de la _prima materia_ energética necesaria para los procesos de transmutación biológica.
 
-Las memorias de la época recogen el apodo satírico con el que la burguesía y el clero megalés intentaron desacreditarlo: _Ancora Prometeo_ («Otra vez Prometeo»). Una mofa que Di Lezo aceptó como un axioma metodológico. Durante sus exequias maternas, pronunciaría la frase que sirvió de cimiento al pensamiento promagético posterior:
+Las memorias de la época recogen el apodo satírico con el que la burguesía y el clero megalés intentaron desacreditarlo: _Ancora Prometeo_ («Otra vez Prometeo»). Una mofa que Di Lezo aceptó como un axioma metodológico. Durante sus exequias maternas, pronunciaría la frase que sirvió de cimiento al pensamiento posterior:
 
 > _«Si Dios no nos ofrece su mano, la tomaremos por la fuerza.»_
 

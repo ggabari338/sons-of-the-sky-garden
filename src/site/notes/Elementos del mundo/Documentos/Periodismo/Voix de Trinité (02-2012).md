@@ -14,7 +14,7 @@ El traspaso de poderes en la Ciudadela de Gaumont ha confirmado el retorno de An
 
 La salida de Cathérine Cordonnier marca el fin de un periodo de fricción entre la burocracia policial tradicional y las grandes fortunas privadas. Aunque la gestión de Cordonnier se caracterizó por la dureza en la aplicación de las leyes extraordinarias, su reticencia a subordinar el aparato estatal a las redes de influencia de Gaumont terminó por distanciarla de los bloques económicos dominantes.
 
-Desde esta redacción sostenemos que la regulación de la convivencia y la seguridad no debe depender de un organismo opaco controlado por la diplomacia del gran capital. La gestión de los asuntos celestiales exige el fin del Manifiesto de Convivencia Extraordinario y la apertura de cauces de fiscalización democrática bajo el control de las asambleas ciudadanas.
+Desde esta redacción sostenemos que la regulación de la convivencia y la seguridad no debe depender de un organismo opaco controlado por la diplomacia del gran capital. La gestión de los asuntos celestiales exige la apertura de cauces de fiscalización democrática bajo el control de las asambleas ciudadanas.
 
 ## CARAVELLO DESPLIEGA LOS AUTÓMATAS DE VORTEX EN LOS BARRIOS POPULARES
 

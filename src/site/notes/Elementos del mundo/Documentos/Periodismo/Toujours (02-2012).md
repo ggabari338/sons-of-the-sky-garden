@@ -12,11 +12,11 @@ _Desde 1863 — Le Grand Quotidien de Mégalie
 
 ### El veterano estadista toma el relevo de Cathérine Cordonnier en la Ciudadela de Gaumont. Thaddeus Lyndon ocupará la Secretaría General.
 
-En un acto de sobria solemnidad institucional celebrado a final de mes en el Gran Hall de la Ciudadela de Gaumont, Andrew Lawrence Rose prestó juramento como Octavo Árbitro de la Comisión de Seguridad Pan-Ciudadana (CSPC). Rose, figura tutelar de la política internacional y líder de la Sociedad del Amanecer, inicia así su segundo mandato al frente del organismo regulador global, treinta y cinco años después de haber sido investido como su primer Árbitro en el histórico ejercicio de 1977.
+En un acto de solemnidad celebrado a final de mes en el Gran Hall de la Ciudadela de Gaumont, Andrew Lawrence Rose prestó juramento como Octavo Árbitro de la Comisión de Seguridad Pan-Ciudadana (CSPC). Rose, figura tutelar de la política internacional y líder de la Sociedad del Amanecer, inicia así su segundo mandato al frente del organismo regulador global, treinta y cinco años después de haber sido investido como su primer Árbitro en el histórico ejercicio de 1977.
 
 El traspaso de poderes con su inveterada rival política, *Cathérine Cordonnier*, quien concluye un mandato de cuatro años marcado por el distanciamiento doctrinario y la reforma estructural de las fuerzas de seguridad, se desarrolló bajo un clima de rigurosa cortesía constitucional. Cordonnier, figura central del Frente de Soberanía Ciudadana, cede la dirección de la diplomacia coeleste en un momento de extremada volatilidad geopolítica.
 
-Durante su discurso de investidura, Rose subrayó la vigencia del marco competencial de la CSPC frente a las renovadas injerencias de la Organización de las Naciones Unidas:
+Durante su discurso de investidura, Rose subrayó la vigencia del marco de competencia de la CSPC frente a las renovadas injerencias de la Organización de las Naciones Unidas:
 
 > _"La estabilidad del orden civil no se negocia en asambleas multilaterales desprovistas de criterios técnicos. La soberanía de la CSPC, garantizada por el consenso soberano de las naciones europeas, seguirá siendo el único dique firme para la preservación del Manifiesto de Convivencia Extraordinario."_
 

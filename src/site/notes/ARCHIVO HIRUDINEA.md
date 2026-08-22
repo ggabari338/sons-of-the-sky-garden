@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Facciones y grupos/Gobierno e Instituciones/Partidos Políticos/Partido Socialista Megalés\|Partido Socialista Megalés]]
-- [[Facciones y grupos/Gobierno e Instituciones/Partidos Políticos/Frente de Soberanía Ciudadana\|Frente de Soberanía Ciudadana]]
-- [[Lisanne Van Der Zogen\|Lisanne Van Der Zogen]]
-- [[Elementos del mundo/Conceptos del mundo/Árbitro de la CSPC\|Árbitro de la CSPC]]
-- [[Personas/Humanos y otros/Arminio Cresto\|Arminio Cresto]]
-- [[Ferrán Moliner\|Ferrán Moliner]]
-- [[Facciones y grupos/Gobierno e Instituciones/Partidos Políticos/Partido Reformista Megalés\|Partido Reformista Megalés]]
+- [[Elementos del mundo/Documentos/Periodismo/Toujours (02-2012)\|Toujours (02-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Toujours (01-2012)\|Toujours (01-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Toujours\|Toujours]]
+- [[Elementos del mundo/Documentos/Periodismo/Voix de Trinité (03-2012)\|Voix de Trinité (03-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Voix de Trinité (02-2012)\|Voix de Trinité (02-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Voix de Trinité (01-2012)\|Voix de Trinité (01-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/La Voix de Trinité\|La Voix de Trinité]]
+- [[Elementos del mundo/Documentos/Periodismo/Clandestinu nº788 (03-2012)\|Clandestinu nº788 (03-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Clandestinu nº787 (02-2012)\|Clandestinu nº787 (02-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Clandestinu nº786 (01-2012)\|Clandestinu nº786 (01-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Clandestinu\|Clandestinu]]
 - [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
-- [[Elementos del mundo/Documentos/Periodismo/Toujours (03-2012)\|Toujours (03-2012)]]
-- [[Facciones y grupos/Empresas Privadas/INTERLINKED\|INTERLINKED]]
-- [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]]
-- [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]]
-- [[Personas/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]]
-- [[Personas/Humanos y otros/Loriana De Angelis\|Loriana De Angelis]]
-- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
+- [[Facciones y grupos/Gobierno e Instituciones/Partidos Políticos/Partido Socialista Megalés\|Partido Socialista Megalés]]
+- [[Personas/Humanos y otros/Simone Zanca\|Simone Zanca]]
+- [[Personas/Humanos y otros/Étienne Vailancourt\|Étienne Vailancourt]]
 
 { .block-language-dataview}
 

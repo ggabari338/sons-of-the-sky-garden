@@ -6,6 +6,8 @@ El *Toujours* es el periódico más longevo de Megalia, fundado en 1863. Su tono
 
 Ediciones en el Archivo:
 - [[Elementos del mundo/Documentos/Periodismo/Toujours (01-2012)\|Toujours (01-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Toujours (02-2012)\|Toujours (02-2012)]]
+- [[Elementos del mundo/Documentos/Periodismo/Toujours (03-2012)\|Toujours (03-2012)]]
 
 
 

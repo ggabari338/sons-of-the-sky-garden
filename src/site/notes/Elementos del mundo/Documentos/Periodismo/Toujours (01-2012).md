@@ -8,7 +8,7 @@ _Desde 1863 — Le Grand Quotidien de Mégalie
 
 **Edición Mensual: Enero de 2012** | N.º 52.410 | 3,50 €
 
-# **PROCESAMIENTO DE LA CÚPULA DE LOS ZETAS:** LA JUSTICIA APLICA TODO EL PESO DE LA LEY AL MAYOR GRUPO TERRORISTA MEGALÉS
+# **PROCESAMIENTO DE LA CÚPULA DE LOS ZETAS:** LA JUSTICIA APLICA EL PESO DE LA LEY AL MAYOR GRUPO TERRORISTA MEGALÉS
 
 > La Audiencia Territorial formaliza la causa contra los cabecillas de la red insurgente tras la redada de diciembre.
 

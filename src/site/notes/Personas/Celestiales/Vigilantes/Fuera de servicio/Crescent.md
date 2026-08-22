@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/celestiales/vigilantes/fuera-de-servicio/crescent/","dg-note-properties":{}}
 ---
 
-| ![IMG_3337.png\|193](/img/user/IMG_3337.png) |                                                                           |
+| ![IMG_3337.png\|193](/img/user/Z.GALER%C3%8DA/IMG_3337.png) |                                                                           |
 | ---------------------: | ------------------------------------------------------------------------- |
 |                 Nombre | Thomas Chapelle                                                           |
 |                  Alias | Crescent                                                                  |
