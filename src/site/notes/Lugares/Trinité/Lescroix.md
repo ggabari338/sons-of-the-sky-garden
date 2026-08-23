@@ -15,7 +15,7 @@ Valor de Activos: 30.000 (-2 / 8%)
 - Capilla de los Náufragos: Una pequeña iglesia cercana al puerto donde los marineros rezan antes de sus viajes. Ha sido desacralizada y es conocida por reuniones secretas entre capos del crimen local.
 - Barracas de Estibadores: Antiguos alojamientos para los trabajadores del puerto, ahora reutilizados como viviendas para los miembros más bajos de las pandillas de Trinité.
 - Mercado Portuario de Trinité: Un mercado al aire libre donde se comercia tanto de día como de noche, cuando es frecuentado por contrabandistas y trabajadores del puerto.
-- Sede de la [[Facciones y grupos/Gobierno e Instituciones/Partidos Políticos/Alianza por la Seguridad y el Progreso\|Alianza por la Seguridad y el Progreso]]
+- Sede de la [[Facciones y grupos/Partidos Políticos/Alianza por la Seguridad y el Progreso\|Alianza por la Seguridad y el Progreso]]
 - Véhicules Redin: una tienda de vehículos a buen precio
 
 
