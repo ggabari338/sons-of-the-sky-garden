@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/facciones-y-grupos/gobierno-e-instituciones/partidos-politicos/alianza-republicana-institucional/","dg-note-properties":{}}
----
-
-ARI es un partido humanista, institucionalista, defensor del orden jurídico tradicional, la alta cultura y el legalismo. Públicamente se presenta como el garante de la estabilidad de Megalia tras la caída de la tiranía del Centinela en 1977. Tras el [[Elementos del mundo/Eventos históricos/Escándalo de la Sociedad del Amanecer (1989)\|Escándalo de la Sociedad del Amanecer (1989)]], es un hecho público que su núcleo dirigente, sus principales donantes y sus cuadros técnicos forman parte de la [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]].
-El partido supo aprovechar la maniobra de transparencia de los 90 para mostrarse como un frente humanista y entregado a una supervisión transparente y segura de los asuntos celestiales. Su prioridad electoral en Megalia es asegurar la Secretaría General de la CSPC.
