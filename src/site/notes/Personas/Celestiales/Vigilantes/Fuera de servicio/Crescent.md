@@ -9,9 +9,9 @@
 |                 Origen | Trinité, 1978                                                             |
 |             Afiliación | [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]                                                        |
 |              Ocupación | Vigilante (retirado), Director del [[Lugares/La Rose/Hospital Central de Aumed Vitalics\|Hospital Central de Aumed Vitalics]] |
-|                Familia | [[Personas/Humanos y otros/Stéphane Chapelle\|Stéphane Chapelle]]                                                     |
+|                Familia | [[Personas/Humanos y otros/Stéphane Édouard Chapelle\|Stéphane Édouard Chapelle]]                                                     |
 
-Thomas Chapelle fue adoptado desde su nacimiento por [[Personas/Humanos y otros/Stéphane Chapelle\|Stéphane Chapelle]], CEO de [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]. Desde su niñez, su salud siempre fue extraordinaria, con un metabolismo capaz de curar heridas rápidamente. Sin embargo, fue en su adolescencia cuando descubrió que su poder iba mucho más allá de una simple regeneración: podía controlar la sangre en su cuerpo, dándole forma para crear armas y defensas. 
+Thomas Chapelle fue adoptado desde su nacimiento por [[Personas/Humanos y otros/Stéphane Édouard Chapelle\|Stéphane Édouard Chapelle]], CEO de [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]. Desde su niñez, su salud siempre fue extraordinaria, con un metabolismo capaz de curar heridas rápidamente. Sin embargo, fue en su adolescencia cuando descubrió que su poder iba mucho más allá de una simple regeneración: podía controlar la sangre en su cuerpo, dándole forma para crear armas y defensas. 
 
 Mientras estudiaba medicina, empezó su carrera como vigilante bajo el apodo de "Cescent". Esto hizo que su carrera se alargara más de lo necesario, pero la combinación de sus estudios y el desarrollo práctico de sus habilidades resultó en un control excelente de su poder. 
 

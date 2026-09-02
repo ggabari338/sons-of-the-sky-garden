@@ -10,9 +10,12 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Facciones y grupos/otros grupos/Círculo de Luz\|Círculo de Luz]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
+- [[Objetos/Acuerdo de Confidencialidad\|Acuerdo de Confidencialidad]]
+- [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]
 - [[Facciones y grupos/Empresas Privadas/INTERLINKED\|INTERLINKED]]
 - [[Facciones y grupos/otros grupos/Ton putain de corps\|Ton putain de corps]]
-- [[Facciones y grupos/otros grupos/Círculo de Luz\|Círculo de Luz]]
 - [[TERMINAL DE SOLICITUDES\|TERMINAL DE SOLICITUDES]]
 - [[Personas/Celestiales/Criminales/Black Attila\|Black Attila]]
 - [[Elementos del mundo/Eventos históricos/Conflicto de St. Clair (1992)\|Conflicto de St. Clair (1992)]]
@@ -22,9 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Facciones y grupos/Partidos Políticos/Partido Reformista Megalés\|Partido Reformista Megalés]]
 - [[Facciones y grupos/Partidos Políticos/Alianza por la Seguridad y el Progreso\|Alianza por la Seguridad y el Progreso]]
 - [[Elementos del mundo/Sociedad/Espectro político Megalés\|Espectro político Megalés]]
-- [[Elementos del mundo/Documentos/Periodismo/Toujours (02-2012)\|Toujours (02-2012)]]
-- [[Elementos del mundo/Documentos/Periodismo/Toujours (01-2012)\|Toujours (01-2012)]]
-- [[Elementos del mundo/Documentos/Periodismo/Toujours\|Toujours]]
 
 { .block-language-dataview}
 

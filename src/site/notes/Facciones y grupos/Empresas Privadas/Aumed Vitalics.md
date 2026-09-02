@@ -8,7 +8,7 @@ A su vez, es conocida por sus centros clínicos y seguros de vida especializados
 
 En los 90, se ganó su reputación por un célebre programa de marketing centrado en los nacimientos celestiales, que promulgaba la posibilidad de mantener madres con vida más allá del nacimiento de sus hijos sobrehumanos. Recibió un tirón enorme justo cuando se construyeron sus instalaciones en La Rose, pero el proyecto no dió los resultados esperados, y jamás se logró salvar la vida de ninguna de las mujeres.
 
-- Líderes: [[Personas/Humanos y otros/Stéphane Chapelle\|Stéphane Chapelle]] Thomas Chapelle “[[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]”, [[Personas/Humanos y otros/Dra. Kanwal Sharma\|Dra. Kanwal Sharma]].
+- Líderes: [[Personas/Humanos y otros/Stéphane Édouard Chapelle\|Stéphane Édouard Chapelle]] Thomas Chapelle “[[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]”, [[Personas/Humanos y otros/Dra. Kanwal Sharma\|Dra. Kanwal Sharma]].
 - Otros personajes: X
 - Centro de Poder: Sede de Aumed Vitalics, La Rose
 
