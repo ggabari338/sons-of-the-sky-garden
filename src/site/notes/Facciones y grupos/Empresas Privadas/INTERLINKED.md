@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/facciones-y-grupos/empresas-privadas/interlinked/","dg-note-properties":{}}
 ---
 
-INTERLINKED es la empresa matriz del grupo Vortex, el conglomerado empresarial con mayor capitalización de mercado del mundo. Se considera la columna vertebral de la infraestructura digital y física de la sociedad moderna.
+INTERLINKED es la empresa matriz del grupo Vortex, el conglomerado empresarial con mayor capitalización de mercado del mundo y de la historia humana. Se considera la columna vertebral de la infraestructura digital y física de la sociedad moderna.
 
 ## Empresas del conglomerado
 - **[[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]] (Robótica y mecánica):** Lo que el público general conoce como "Vortex Robotics" es la división que produce desde drones de reparto domésticos hasta los [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]]. 
