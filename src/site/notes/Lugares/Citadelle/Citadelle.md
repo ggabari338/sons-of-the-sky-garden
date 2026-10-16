@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lugares/citadelle/citadelle/","dg-note-properties":{}}
 ---
 
-Un distrito de [[Lugares/Trinité\|Trinité]] de clase de plantilla antigua y clase elevada, situado al extremo sur de la [[Lugares/isla de la lágrima\|isla de la lágrima]]. Este distrito destaca por su variedad patrimonial y la concentración de actividades culturales en sus numerosas instituciones y asociaciones. Citadelle ha sido testigo de la transformación de la ciudad desde sus orígenes medievales hasta la metrópolis moderna que es hoy. Originalmente amurallado, el casco antiguo ha preservado gran parte de su trazado histórico, con calles estrechas y plazas emblemáticas que reflejan diferentes épocas arquitectónicas. Su nombre se debe al viejo castillo que preside el pico de la isla, una fortaleza del siglo XV que preside la entrada al río. 
+Un distrito de [[Lugares/Trinité\|Trinité]] de clase de plantilla antigua y clase elevada, situado al extremo sur de la [[Lugares/Isla de la Lágrima\|Isla de la Lágrima]]. Este distrito destaca por su variedad patrimonial y la concentración de actividades culturales en sus numerosas instituciones y asociaciones. Citadelle ha sido testigo de la transformación de la ciudad desde sus orígenes medievales hasta la metrópolis moderna que es hoy. Originalmente amurallado, el casco antiguo ha preservado gran parte de su trazado histórico, con calles estrechas y plazas emblemáticas que reflejan diferentes épocas arquitectónicas. Su nombre se debe al viejo castillo que preside el pico de la isla, una fortaleza del siglo XV que preside la entrada al río. 
 
 Las calles suelen estar plagadas de turistas, haciendo que cada vez sea más asfixiante pasear por el distrito.
 

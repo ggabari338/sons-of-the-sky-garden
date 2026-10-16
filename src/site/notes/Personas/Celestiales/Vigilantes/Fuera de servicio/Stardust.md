@@ -21,6 +21,5 @@ Stardust se convirtió en una fervorosa opositora del [[Elementos del mundo/Even
 
 ## En tiempos democráticos
 Stardust fundó el [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] en cuanto se formó la [[Facciones y grupos/Gobierno e Instituciones/Comisión de Seguridad Pan-Ciudadana\|Comisión de Seguridad Pan-Ciudadana]], convirtiéndose en el primer [[Facciones y grupos/Gobierno e Instituciones/Operativo de Vigilantes\|Operativo de Vigilantes]] oficial de la historia. Era bien sabido que Stardust nunca fue muy cercana a Andrew Rose, a menudo generando fricciones con la [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]] y la propia [[Facciones y grupos/Gobierno e Instituciones/Comisión de Seguridad Pan-Ciudadana\|Comisión de Seguridad Pan-Ciudadana]].
-
 ## Desaparición
 En el año 2002, Stardust desaparició de la escena pública sin dejar rastro, generando una conmoción a nivel mundial. Legión abandonó el Operativo Eclipse y comenzó su reclusión en su santuario del bosque de Lacan, y el escuadrón de vigilantes quedó en manos de [[Personas/Celestiales/Vigilantes/Activos/Manor\|Manor]].

@@ -21,7 +21,7 @@ Escuadrones operativos en [[Lugares/Trinité\|Trinité]], por distrito.
 **Fuera de Servicio:**
 - El [[Facciones y grupos/Operativos de Vigilantes/Operativo Hiena\|Operativo Hiena]] operó principalmente en áreas de la periferia urbana de Trinité y en cuidades adjuntas como St. Clair
 - El [[Facciones y grupos/Operativos de Vigilantes/Operativo Paradox\|Operativo Paradox]] operaba principalmente en [[Lugares/Artisans/Artisans\|Artisans]].
-- El [[Facciones y grupos/Operativos de Vigilantes/Operativo Legacy\|Operativo Legacy]] operaba principalmente en [[Lugares/Kunst/Kunst\|Kunst]] y [[Lugares/Trinité/Lescroix\|Lescroix]]
+- El [[Facciones y grupos/Operativos de Vigilantes/Operativo Legacy\|Operativo Legacy]] operaba principalmente en [[Lugares/Kunst/Kunst\|Kunst]] y [[Lugares/Lescroix/Lescroix\|Lescroix]]
 - [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]
 
 

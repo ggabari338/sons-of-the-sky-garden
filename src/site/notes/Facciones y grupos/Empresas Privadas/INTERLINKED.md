@@ -9,6 +9,7 @@ INTERLINKED es la empresa matriz del grupo Vortex, el conglomerado empresarial c
 - **Vertical Systems (Software y Sistemas Operativos):** INTERLINKED es la propietaria de Vertical Systems, el sistema operativo distribuido que hace funcionar el 54% de la infraestructura crítica mundial. 
 - **Beyond Electronics (Smartphones y dispositivos digitales):** una de las filiales más rentables que posee.
 - **Synthetized (Hardware y Semiconductores):** controla las fundiciones de microchips más avanzadas del planeta. 
+- **Valkyrie (Entregas de paquetes y almacenes):** alquiler de almacenes e infraestructura de paquetería.
 - **Astra Network (Infraestructura de Red):** opera la constelación de satélites que proporciona internet de baja latencia y comunicaciones encriptadas en todo el globo. Al controlar el canal por el que viaja la información, Vortex tiene acceso a metadatos globales que utiliza para su división de inteligencia comercial.
 
 - Líderes: [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]

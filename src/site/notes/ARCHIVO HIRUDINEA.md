@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Elementos del mundo/Ideología/Aureocracismo\|Aureocracismo]]
-- [[Humanismo Dualista\|Humanismo Dualista]]
-- [[Facciones y grupos/otros grupos/Human Spark\|Human Spark]]
-- [[Elementos del mundo/Ideología/Humanismo Evolutivo Radical\|Humanismo Evolutivo Radical]]
-- [[Elementos del mundo/Ideología/Salvacionismo\|Salvacionismo]]
-- [[Elementos del mundo/Ideología/Teofanismo\|Teofanismo]]
-- [[Facciones y grupos/otros grupos/Círculo de Luz\|Círculo de Luz]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
-- [[Objetos/Acuerdo de Confidencialidad\|Acuerdo de Confidencialidad]]
-- [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]]
 - [[Facciones y grupos/Empresas Privadas/INTERLINKED\|INTERLINKED]]
-- [[Facciones y grupos/otros grupos/Ton putain de corps\|Ton putain de corps]]
-- [[TERMINAL DE SOLICITUDES\|TERMINAL DE SOLICITUDES]]
-- [[Personas/Celestiales/Criminales/Black Attila\|Black Attila]]
-- [[Elementos del mundo/Eventos históricos/Conflicto de St. Clair (1992)\|Conflicto de St. Clair (1992)]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]]
+- [[Lugares/Trinité\|Trinité]]
+- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
+- [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
+- [[Personas/Humanos y otros/Lisanne Van Der Zogen\|Lisanne Van Der Zogen]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Ágata\|Ágata]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Vindicatus\|Vindicatus]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Soleile\|Soleile]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Polyhedron\|Polyhedron]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Oracle\|Oracle]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Nihil\|Nihil]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Hawkheart\|Hawkheart]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crest\|Crest]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Commodore\|Commodore]]
 
 { .block-language-dataview}
 

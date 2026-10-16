@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/facciones-y-grupos/operativos-de-vigilantes/operativo-aurora/","dg-note-properties":{}}
 ---
 
-El Operativo Aurora goza de una de las cifras de misiones de campo realizadas más altas del mundo. Opera en los Distritos del este de Trinité, notablemente [[Lugares/Kunst/Kunst\|Kunst]], [[Lugares/La Rose/La Rose\|La Rose]], [[Lugares/Bellevue/Bellevue\|Bellevue]] y ahora también [[Lugares/Trinité/Lescroix\|Lescroix]] desde la suspensión del [[Facciones y grupos/Operativos de Vigilantes/Operativo Legacy\|Operativo Legacy]].
+El Operativo Aurora goza de una de las cifras de misiones de campo realizadas más altas del mundo. Opera en los Distritos del este de Trinité, notablemente [[Lugares/Kunst/Kunst\|Kunst]], [[Lugares/La Rose/La Rose\|La Rose]], [[Lugares/Bellevue/Bellevue\|Bellevue]] y ahora también [[Lugares/Lescroix/Lescroix\|Lescroix]] desde la suspensión del [[Facciones y grupos/Operativos de Vigilantes/Operativo Legacy\|Operativo Legacy]].
 
-Este operativo combatió en la [[Elementos del mundo/Eventos históricos/Conflicto de St. Clair (1992)\|Conflicto de St. Clair (1992)]] en la zona zero, y por ello perdió gran parte de sus efectivos, y otros tantos quedaron heridos. En ese momento, el operativo eran Ultratumba, Cauris, Crest, Shadow Citizen, Alamo y Commodore.
+Este operativo combatió en la [[Elementos del mundo/Eventos históricos/Crisis de St. Clair (1992)\|Crisis de St. Clair (1992)]] en la zona zero, y por ello perdió gran parte de sus efectivos, y otros tantos quedaron heridos. En ese momento, el operativo eran Ultratumba, Cauris, Crest, Shadow Citizen, Alamo y Commodore.
 
 **Miembros actuales:**
 - [[Personas/Celestiales/Vigilantes/Activos/Ultratumba\|Ultratumba]] (líder y fundador, 1990-)
