@@ -10,6 +10,7 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Elementos del mundo/Documentos/Objetos/Documentos de la Sección Echo\|Documentos de la Sección Echo]]
 - [[Facciones y grupos/Empresas Privadas/INTERLINKED\|INTERLINKED]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]]
 - [[Lugares/Trinité\|Trinité]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Nihil\|Nihil]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Hawkheart\|Hawkheart]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crest\|Crest]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Commodore\|Commodore]]
 
 { .block-language-dataview}
 
