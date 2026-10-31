@@ -6,10 +6,11 @@ El Archivo Hirudinea es una variante del Archivo General de la Comisión de Segu
 
 El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de archivos accesible por el personal administrativo de la Comisión y los vigilantes certificados. El acceso está abierto a todos los miembros con acceso C-1, C-2 y C-3. Los registros de niveles superiores no son accesibles sin las credenciales correspondientes.
 
-< CREDENCIAL DE ACCESO ACTIVA: C-1 >
+< CREDENCIAL DE ACCESO ACTIVA: **C-2** >
 
 
 ##### **Documentos actualizados recientemente:**
+- [[ARCHIVO HIRUDINEA\|ARCHIVO HIRUDINEA]]
 - [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]]
 - [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Humanos y otros/Lisanne Van Der Zogen\|Lisanne Van Der Zogen]]
 - [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
 - [[Personas/Humanos y otros/Iván Vasilievich\|Iván Vasilievich]]
-- [[Lugares/Megalia\|Megalia]]
 
 { .block-language-dataview}
 
