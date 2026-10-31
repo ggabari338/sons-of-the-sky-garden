@@ -10,12 +10,12 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]
 - [[ARCHIVO HIRUDINEA\|ARCHIVO HIRUDINEA]]
 - [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]]
 - [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]]
-- [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]
 - [[Facciones y grupos/Partidos Políticos/Partido Reformista Megalés\|Partido Reformista Megalés]]
 - [[Personas/Humanos y otros/Arthur Casale\|Arthur Casale]]
 - [[Elementos del mundo/Eventos históricos/8º Elecciones Secretariales de la CSPC (2012)\|8º Elecciones Secretariales de la CSPC (2012)]]

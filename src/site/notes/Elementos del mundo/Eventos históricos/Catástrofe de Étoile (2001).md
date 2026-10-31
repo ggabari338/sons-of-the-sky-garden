@@ -10,3 +10,7 @@ Cada vez que el niño jugaba con sus muñecos, proyectaba involuntariamente sus 
 
 El punto de ruptura ocurrió cuando los [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]] localizaron el origen del problema y realizaron una intervención. El pánico del niño fracturó la realidad física de la ciudad. Testigos describieron cómo edificios enteros eran arrancados de sus cimientos mientras los vecinos se despedazaban entre sí en un frenesí de violencia inducida. La tragedia solo se detuvo con la llegada de [[Personas/Celestiales/Civiles/Malastair\|Malastair]]. Fue él quien logró inmovilizar al Ladrón de Mentes, dejando más de la mitad del distrito en ruinas.
 
+### Intervención de Malastair
+CREDENCIAL: C-2
+Queda constancia en la base de datos de la CSPC una solicitud directa de Thadeus Lyndon a Arminio Cresto para la gestión del altercado. Para evitar un peligro mayor, la Sociedad del Amanecer ofreció enviar a Malastair a enfrentar la amenaza. Puesto que las fuerzas de vigilantes no habían logrado atravesar la barrera psiónica del Mind Thief, Cresto terminaría por aceptar, pese a su negativa inicial. Malastair redujo la amenaza y la custodió personalmente hasta el [[Lugares/Fuera de Trinité/Complejo penitenciario de Neuhäusser\|Complejo penitenciario de Neuhäusser]], donde aún queda convicto.
+
