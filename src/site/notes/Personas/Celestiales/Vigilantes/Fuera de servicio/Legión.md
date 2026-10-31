@@ -17,4 +17,8 @@ Pese a su clasificación como el celestial más peligroso del mundo, Legión es 
 
 A nivel personal, se sabe muy poco de él. Es un hombre solitario, que vive en su templo metálico de arquitectura clásica en el [[Lugares/Fuera de Trinité/Bosque de Lacan\|Bosque de Lacan]], donde ha sido avistado ciudando de unos viñedos personales cercanos a su dominio.
 
-Legión abandonó el Eclipse en 2002 tras la desaparición de Stardust, y se retiró para vivir en soledad en su mansión, donde sigue hoy en día.
+Legión abandonó el Eclipse en 2002 tras la desaparición de Stardust, y desapareció de la escena pública también.
+
+## El Paradero de Legión (2002-2011)
+CREDENCIAL: C-2
+Gracias a los sistemas de medición establecidos durante el mandato de [[Personas/Humanos y otros/Arminio Cresto\|Arminio Cresto]], la CSPC tiene localizada la firma electromagnética de Legión. En 2002, se sabe que abandonó el planeta tierra. En 2007, se localizó su firma electromagnética en el vórtice anticiclónico de Júpiter, la gran mancha roja, donde vivió hasta 2011, con ocasionales viajes fuera del planeta. Volvió a Trinité a finales de 2011, por motivos desconocidos, y erigió su palacio metálico a las afueras de la ciudad.

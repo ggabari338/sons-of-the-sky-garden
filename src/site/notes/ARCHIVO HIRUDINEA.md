@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Elementos del mundo/Documentos/Periodismo/Clandestinu\|Clandestinu]]
-- [[Elementos del mundo/Documentos/Periodismo/Clandestinu nº286 (01-2012)\|Clandestinu nº286 (01-2012)]]
-- [[Elementos del mundo/Documentos/Periodismo/Clandestinu nº288 (03-2012)\|Clandestinu nº288 (03-2012)]]
-- [[Elementos del mundo/Documentos/Objetos/Documentos de la Sección Echo\|Documentos de la Sección Echo]]
-- [[Facciones y grupos/Empresas Privadas/INTERLINKED\|INTERLINKED]]
+- [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
+- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]]
 - [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]]
-- [[Lugares/Trinité\|Trinité]]
-- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
-- [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
+- [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]
+- [[Facciones y grupos/Partidos Políticos/Partido Reformista Megalés\|Partido Reformista Megalés]]
+- [[Personas/Humanos y otros/Arthur Casale\|Arthur Casale]]
+- [[Elementos del mundo/Eventos históricos/8º Elecciones Secretariales de la CSPC (2012)\|8º Elecciones Secretariales de la CSPC (2012)]]
+- [[Elementos del mundo/Sociedad/Espectro político Megalés\|Espectro político Megalés]]
+- [[Facciones y grupos/Partidos Políticos/Pour Nous\|Pour Nous]]
+- [[Personas/Humanos y otros/Simone Zanca\|Simone Zanca]]
 - [[Personas/Humanos y otros/Lisanne Van Der Zogen\|Lisanne Van Der Zogen]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Ágata\|Ágata]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Vindicatus\|Vindicatus]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Soleile\|Soleile]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Polyhedron\|Polyhedron]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Oracle\|Oracle]]
+- [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
+- [[Personas/Humanos y otros/Iván Vasilievich\|Iván Vasilievich]]
+- [[Lugares/Megalia\|Megalia]]
 
 { .block-language-dataview}
 

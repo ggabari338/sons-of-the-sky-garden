@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/personas/humanos-y-otros/arthur-casale/","dg-note-properties":{}}
+---
+
+Arthur Casale fue Alcalde de [[Lugares/Étoile/Étoile\|Étoile]] entre 2002 y 2007, tras la [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]. Gracias a una alianza estratégica con [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]], se llevaron a cabo tareas de construcción ágiles que convirtieron al distrito en el nuevo centro financiero de la ciudad. Esto le valió el ascenso a director del [[Facciones y grupos/Partidos Políticos/Partido Reformista Megalés\|Partido Reformista Megalés]] en 2008. Se presentó a las [[Elementos del mundo/Eventos históricos/8º Elecciones Secretariales de la CSPC (2012)\|8º Elecciones Secretariales de la CSPC (2012)]] con una agenda que prometía una industrialización y futurización de toda Megalia, así como suprimir los escuadrones de vigilantes definitivamente para reemplazarlos por unidades de [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]].
+Con el gobierno de coalición de [[Personas/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]] en 2012, Casale empezó a presionar para llevar a cabo su agenda, recibiendo siempre la negativa de Lyndon.

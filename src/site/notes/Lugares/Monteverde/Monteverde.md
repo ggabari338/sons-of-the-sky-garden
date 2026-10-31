@@ -6,5 +6,5 @@ Fronterizo con [[Lugares/Petite Espagne/Petite Espagne\|Petite Espagne]], el dis
 
 Valor de Activos: 75.000 (+0 / 10%)
 
-- Iglesia de San Marco: Una iglesia católica italiana, centro de la comunidad religiosa del barrio. Con su arquitectura de estilo renacentista, es un refugio espiritual y lugar de eventos comunitarios.
+- [[Lugares/Monteverde/Iglesia de San Marco\|Iglesia de San Marco]]
 

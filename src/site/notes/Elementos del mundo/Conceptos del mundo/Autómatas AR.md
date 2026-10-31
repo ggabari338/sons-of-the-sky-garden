@@ -4,7 +4,7 @@
 
 La serie AR de [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]] fue destinada al uso deportivo para celestiales. En su origen, se usó la imagen del campeón [[Registro/USUARIOS/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]], y los autómatas fueron puestos a prueba por él personalmente. En general operaron entre 1987 y 1994. 
 
-Aunque estos autómatas eran muy potentes, eran extremadamente costosos en términos de mantenimienrto, a menudo tratados como activos de valor mediático más que práctico, por lo que fueron sustituidos por los AM-1 en 1994, más versátiles y eficientes.
+Aunque estos autómatas eran muy potentes, eran extremadamente costosos en términos de mantenimienrto, a menudo tratados como activos de valor mediático más que práctico, por lo que fueron sustituidos por los [[Elementos del mundo/Conceptos del mundo/Autómatas AM-1\|Autómatas AM-1]] en 1994, más versátiles y eficientes.
 
 Entre ellos, AR-N01D, fue el que derrotó a Hugh Hands en televisión en el 88.
 
