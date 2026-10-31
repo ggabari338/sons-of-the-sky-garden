@@ -21,6 +21,9 @@ La comunidad científica y los teóricos debaten ferozmente sobre la sincronía 
 - **La Manifestación de la Divinidad:** La [[Facciones y grupos/Gobierno e Instituciones/Iglesia Teofanista\|Iglesia Teofanista]] cree que la silueta es la manifestación de la presencia de Dios, y que su presencia indicaría la proximidad del fin de los tiempos y el juicio de la humanidad.
 - **El Evento Cero:** Considera que tanto La Marca como los celestiales son subproductos de un mismo incidente desconocido, que "marcó" a la Tierra y a sus habitantes simultáneamente.
 
+### Pulsaciones y nacimientos
+Es sabido que los nacimientos celestiales en Megalia corresponden con las pulsaciones lumínicas de la Marca, que ocurren aproximadamente una vez al mes, o cada 28 a 31 días. Estas pulsaciones eran fenómenos observables hasta 1994. La silueta oscura se iluminaba, emitiendo una luz similar en intensidad a la del viejo sol. Para toda la vida en la tierra, estos momentos traían de vuelta la luz al mundo, de forma temporal. La duración de las pulsaciones era de entre 5 y 10 minutos, y a menudo el mundo se reunía para presenciarlos. 
+
 ### El Gran Interrogante
 Nadie sabe si el fenómeno es una fase de transición hacia algo más oscuro o si la realidad se ha paralizado de forma definitiva. No hay modelos matemáticos que predigan un retorno a la normalidad y nadie entiende del todo si es un fenómeno natural o si ha sido provocado de forma artificial. 
 

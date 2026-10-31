@@ -10,6 +10,9 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Facciones y grupos/Mundo Criminal/Ligne Rouge\|Ligne Rouge]]
+- [[Elementos del mundo/Ciencia/La Marca\|La Marca]]
+- [[Elementos del mundo/Ciencia/Nacimientos celestiales\|Nacimientos celestiales]]
 - [[Elementos del mundo/Eventos históricos/Catástrofe de Étoile (2001)\|Catástrofe de Étoile (2001)]]
 - [[ARCHIVO HIRUDINEA\|ARCHIVO HIRUDINEA]]
 - [[Personas/Celestiales/Gobierno/Caravello\|Caravello]]
@@ -22,9 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Elementos del mundo/Sociedad/Espectro político Megalés\|Espectro político Megalés]]
 - [[Facciones y grupos/Partidos Políticos/Pour Nous\|Pour Nous]]
 - [[Personas/Humanos y otros/Simone Zanca\|Simone Zanca]]
-- [[Personas/Humanos y otros/Lisanne Van Der Zogen\|Lisanne Van Der Zogen]]
-- [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
-- [[Personas/Humanos y otros/Iván Vasilievich\|Iván Vasilievich]]
 
 { .block-language-dataview}
 
