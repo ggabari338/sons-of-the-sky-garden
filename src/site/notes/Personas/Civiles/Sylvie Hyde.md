@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/personas/civiles/sylvie-hyde/","dg-note-properties":{}}
+---
+
+Sylvie Hyde, nacida en Ginebra en 1941, fue Secretaria General de la [[Facciones y grupos/Gobierno e Instituciones/Comisión de Seguridad Pan-Ciudadana\|Comisión de Seguridad Pan-Ciudadana]] durante el mandato de [[Personas/Civiles/Thaddeus Lyndon\|Thaddeus Lyndon]] (1982–1987) y posteriormente investida como Quinta [[Elementos del mundo/Conceptos del mundo/Árbitro de la CSPC\|Árbitro de la CSPC]]. Destacada integrante de la [[Facciones y grupos/Partidos Políticos/Alianza Republicana Institucional\|Alianza Republicana Institucional]] (ARI) y referente de la corriente humanista de la [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]], Hyde es reconocida a escala internacional como la principal arquitecta del marco de convivencia pacífica entre humanos y celestiales.
+
+Descendiente de una estirpe diplomática suiza y educada en la tradición del pacifismo europeo de mediados de siglo, Hyde orientó tempranamente su vocación hacia la resolución no violenta de controversias. Licenciada en Ciencias Políticas y Relaciones Internacionales por la Universidad de Ginebra, completó una Maestría en Derecho Humanitario en Lovaina y un Doctorado en Bioética Social en La Sorbonne.
+
+A lo largo de su carrera pública, Hyde promovió una legislación transformadora dirigida a blindar la protección social tanto de la población ordinaria como de la celestial:
+
+- **El Estatuto de Amparo Familiar y Tutela de Menores (1985):** Un sistema de pensiones vitalicias, atención psicológica y subsidios garantizados para los progenitores viudos tras el sacrificio gestacional materno.
+- **La Regulación del Matrimonio Mixto y Derechos (1986):** plena igualdad en derechos sucesorios, herencias, régimen de gananciales y cobertura médica compartida en matrimonios mixtos humano-celestial.
+- **El Cuerpo de Mediación y Defensoría de la Convivencia (1998):** una red de mediadores civiles y auditores éticos para resolver fricciones comunitarias en distritos conflictivos, buscando minimizar la intervención indiscriminada de la policía armada y los Comandos de Contención.
+- **La Carta de Integración Laboral:** prohibió ciertas cláusulas de exclusión celestial o humana en ciertos tipos empleo e impulsó la escolarización compartida entre jóvenes ordinarios y celestiales en academias públicas.
+
+En el ámbito personal, Hyde reside desde finales de la década de 1970 en una residencia histórica de la Avenida Madeleine, junto al Parc d'Éden en Trinité. Considerada una de las figuras más respetadas y templadas de la política de Megalia, mantiene una amistad de décadas con [[Personas/Gobierno/Andrew Rose\|Andrew Rose]], [[Personas/Civiles/Marcel Arceneaux\|Marcel Arceneaux]] y Thaddeus Lyndon, además de haber ejercido como mentora política de figuras institucionales clave como [[Personas/Civiles/Loriana De Angelis\|Loriana De Angelis]], que fue su gran amiga antes de su muerte.

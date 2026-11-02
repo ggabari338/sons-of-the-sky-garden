@@ -12,6 +12,6 @@ INTERLINKED es la empresa matriz del grupo Vortex, el conglomerado empresarial c
 - **Valkyrie (Entregas de paquetes y almacenes):** alquiler de almacenes e infraestructura de paquetería.
 - **Astra Network (Infraestructura de Red):** opera la constelación de satélites que proporciona internet de baja latencia y comunicaciones encriptadas en todo el globo. Al controlar el canal por el que viaja la información, Vortex tiene acceso a metadatos globales que utiliza para su división de inteligencia comercial.
 
-- Líderes: [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
-- Otros personajes: [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
+- Líderes: [[Personas/Civiles/Joël Sérra\|Joël Sérra]]
+- Otros personajes: [[Personas/Otros/Nyoka\|Nyoka]]
 - Centro de Poder: [[Lugares/Étoile/Crystal Edge Center\|Crystal Edge Center]]

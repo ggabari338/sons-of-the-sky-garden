@@ -10,12 +10,12 @@ Además, el Árbitro tiene un papel importante en la administración y el gobier
 El Árbitro es designado cada 5 años por el Consejo de Soberanos (los Jefes de Estado de la Unión Europea y potencias adheridas). 
 
 **Historial de titulares:**
-- [[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]] (1977-1982), 1º Árbitro // Secretario General: [[Personas/Humanos y otros/Étienne Vailancourt\|Étienne Vailancourt]]
-- [[Personas/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]] (1982-1987), 2º Árbitro // Secretario General: [[Personas/Humanos y otros/Sylvie Hyde\|Sylvie Hyde]]
-- [[Personas/Humanos y otros/Marcel Arceneaux\|Marcel Arceneaux]] (1987-1992), 3º Árbitro // Secretario General: [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]]
-- [[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]] (1992-1997), 4º Árbitro // Secretario General: [[Personas/Humanos y otros/Simone Zanca\|Simone Zanca]]
-- [[Personas/Humanos y otros/Lisanne Van Der Zogen\|Lisanne Van Der Zogen]] (1997-2002), 5º Árbitro // Secretario General: [[Personas/Humanos y otros/Arminio Cresto\|Arminio Cresto]]
-- [[Personas/Humanos y otros/Sylvie Hyde\|Sylvie Hyde]] (2002-2007), 6º Árbitro // Secretario General: [[Personas/Humanos y otros/Arminio Cresto\|Arminio Cresto]]
-- [[Personas/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]] (2007-2012), 7º Árbitro // Secretario General: [[Personas/Humanos y otros/Ferrán Moliner\|Ferrán Moliner]]
-- [[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]] (2012-), 8º Árbitro // Secretario General: [[Personas/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]]
+- [[Personas/Gobierno/Andrew Rose\|Andrew Rose]] (1977-1982), 1º Árbitro // Secretario General: [[Personas/Civiles/Étienne Vailancourt\|Étienne Vailancourt]]
+- [[Personas/Civiles/Thaddeus Lyndon\|Thaddeus Lyndon]] (1982-1987), 2º Árbitro // Secretario General: [[Personas/Civiles/Sylvie Hyde\|Sylvie Hyde]]
+- [[Personas/Civiles/Marcel Arceneaux\|Marcel Arceneaux]] (1987-1992), 3º Árbitro // Secretario General: [[Personas/Civiles/Lorenz Ritter\|Lorenz Ritter]]
+- [[Personas/Civiles/Lorenz Ritter\|Lorenz Ritter]] (1992-1997), 4º Árbitro // Secretario General: [[Personas/Civiles/Simone Zanca\|Simone Zanca]]
+- [[Personas/Civiles/Lisanne Van Der Zogen\|Lisanne Van Der Zogen]] (1997-2002), 5º Árbitro // Secretario General: [[Personas/Civiles/Arminio Cresto\|Arminio Cresto]]
+- [[Personas/Civiles/Sylvie Hyde\|Sylvie Hyde]] (2002-2007), 6º Árbitro // Secretario General: [[Personas/Civiles/Arminio Cresto\|Arminio Cresto]]
+- [[Personas/Civiles/Cathérine Cordonnier\|Cathérine Cordonnier]] (2007-2012), 7º Árbitro // Secretario General: [[Personas/Civiles/Ferrán Moliner\|Ferrán Moliner]]
+- [[Personas/Gobierno/Andrew Rose\|Andrew Rose]] (2012-), 8º Árbitro // Secretario General: [[Personas/Civiles/Thaddeus Lyndon\|Thaddeus Lyndon]]
 

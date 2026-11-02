@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/elementos-del-mundo/documentos/archivos/investigacion-sobre-valkyrie/","dg-note-properties":{}}
 ---
 
-Una investigación llevada a cabo por [[Personas/Celestiales/Criminales/Astarté\|Astarté]] y sus [[Facciones y grupos/Mundo Criminal/Zetas\|Zetas]].
+Una investigación llevada a cabo por [[Personas/Otros/Astarté\|Astarté]] y sus [[Facciones y grupos/Mundo Criminal/Zetas\|Zetas]].
 
 El estudio dió con varias empresas tecnológicas menores habían adquirido componentes como polímeros, procesadores, aleación de titanio y aluminio y componentes electrónicos en [[Lugares/Trinité\|Trinité]] entre diciembre de 2011 y marzo de 2012. Al estudiar el destino de los cargamentos, se encontraron 89 empresas diferentes que estaban enviando estos materiales a un Centro de almacenamiento y producción de Valkyrie. 
 

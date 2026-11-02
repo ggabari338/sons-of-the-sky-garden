@@ -5,8 +5,8 @@
 El Operativo Trounoir fue un escuadrón de vigilantes que operó entre finales de los 80 y 1992, donde combatiño durante la [[Elementos del mundo/Eventos históricos/Crisis de St. Clair (1992)\|Crisis de St. Clair (1992)]] y se disolvió poco después, tras perder a varios de sus miembros y quedando su capitana internada en el [[Lugares/Alcourt/Instituto Arcadia\|Instituto Arcadia]].
 
 Miembros:
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Nihil\|Nihil]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Soleile\|Soleile]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Chamán\|Chamán]]
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Cicada\|Cicada]]
+- [[Personas/Vigilantes/Fuera de servicio/Nihil\|Nihil]]
+- [[Personas/Vigilantes/Fuera de servicio/Soleile\|Soleile]]
+- [[Personas/Vigilantes/Fuera de servicio/Chamán\|Chamán]]
+- [[Personas/Vigilantes/Fuera de servicio/Cicada\|Cicada]]
 - Ningaumaniq ([[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]])

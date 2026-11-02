@@ -7,13 +7,13 @@ El Operativo Aurora goza de una de las cifras de misiones de campo realizadas m�
 Este operativo combatió en la [[Elementos del mundo/Eventos históricos/Crisis de St. Clair (1992)\|Crisis de St. Clair (1992)]] en la zona zero, y por ello perdió gran parte de sus efectivos, y otros tantos quedaron heridos. En ese momento, el operativo eran Ultratumba, Cauris, Crest, Shadow Citizen, Alamo y Commodore.
 
 **Miembros actuales:**
-- [[Personas/Celestiales/Vigilantes/Activos/Ultratumba\|Ultratumba]] (líder y fundador, 1990-)
-- [[Personas/Celestiales/Vigilantes/Activos/Nightveil\|Nightveil]] (1996-)
-- [[Personas/Celestiales/Vigilantes/Activos/Cauris\|Cauris]] (1991-)
-- [[Personas/Celestiales/Vigilantes/Activos/Ember\|Ember]] (2003-)
+- [[Personas/Vigilantes/Activos/Ultratumba\|Ultratumba]] (líder y fundador, 1990-)
+- [[Personas/Vigilantes/Activos/Nightveil\|Nightveil]] (1996-)
+- [[Personas/Vigilantes/Activos/Cauris\|Cauris]] (1991-)
+- [[Personas/Vigilantes/Activos/Ember\|Ember]] (2003-)
 
 **Historial de miembros:**
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Crest\|Crest]] (1990-1992, fallecido en St. Clair)
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Alamo\|Alamo]] (1990-1992, fallecido en St. Clair)
-- [[Personas/Celestiales/Vigilantes/Fuera de servicio/Commodore\|Commodore]] (1990-1992, fallecido en St. Clair)
-- [[Personas/Celestiales/Vigilantes/Activos/Shadow Citizen\|Shadow Citizen]] (1990-1995, retirada del escuadrón)
+- [[Personas/Vigilantes/Fuera de servicio/Crest\|Crest]] (1990-1992, fallecido en St. Clair)
+- [[Personas/Vigilantes/Fuera de servicio/Alamo\|Alamo]] (1990-1992, fallecido en St. Clair)
+- [[Personas/Vigilantes/Fuera de servicio/Commodore\|Commodore]] (1990-1992, fallecido en St. Clair)
+- [[Personas/Vigilantes/Activos/Shadow Citizen\|Shadow Citizen]] (1990-1995, retirada del escuadrón)

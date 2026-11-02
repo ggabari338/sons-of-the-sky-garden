@@ -11,7 +11,7 @@ Aunque originalmente alcanzó notoriedad en el sector de la robótica avanzada, 
 - [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]]
 - [[Elementos del mundo/Conceptos del mundo/Autómatas AR\|Autómatas AR]]
 
-- Líderes: [[Personas/Celestiales/Civiles/Joël Sérra\|Joël Sérra]]
-- Otros personajes: [[Personas/Celestiales/Otros/Nyoka\|Nyoka]]
+- Líderes: [[Personas/Civiles/Joël Sérra\|Joël Sérra]]
+- Otros personajes: [[Personas/Otros/Nyoka\|Nyoka]]
 - Centro de Poder: [[Lugares/Étoile/Crystal Edge Center\|Crystal Edge Center]]
 

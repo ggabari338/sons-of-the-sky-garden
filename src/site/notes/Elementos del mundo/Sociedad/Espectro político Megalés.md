@@ -3,16 +3,16 @@
 ---
 
 EXTREMA DERECHA
-- [[Facciones y grupos/Partidos Políticos/Frente de Soberanía Ciudadana\|Frente de Soberanía Ciudadana]] ([[Personas/Humanos y otros/Lorenz Ritter\|Lorenz Ritter]], [[Personas/Humanos y otros/Cathérine Cordonnier\|Cathérine Cordonnier]])
+- [[Facciones y grupos/Partidos Políticos/Frente de Soberanía Ciudadana\|Frente de Soberanía Ciudadana]] ([[Personas/Civiles/Lorenz Ritter\|Lorenz Ritter]], [[Personas/Civiles/Cathérine Cordonnier\|Cathérine Cordonnier]])
 
 DERECHA
-- [[Facciones y grupos/Partidos Políticos/Alianza Republicana Institucional\|Alianza Republicana Institucional]] ([[Personas/Humanos y otros/Andrew Rose\|Andrew Rose]], [[Personas/Humanos y otros/Thaddeus Lyndon\|Thaddeus Lyndon]], [[Personas/Humanos y otros/Sylvie Hyde\|Sylvie Hyde]], [[Personas/Humanos y otros/Marcel Arceneaux\|Marcel Arceneaux]])
+- [[Facciones y grupos/Partidos Políticos/Alianza Republicana Institucional\|Alianza Republicana Institucional]] ([[Personas/Gobierno/Andrew Rose\|Andrew Rose]], [[Personas/Civiles/Thaddeus Lyndon\|Thaddeus Lyndon]], [[Personas/Civiles/Sylvie Hyde\|Sylvie Hyde]], [[Personas/Civiles/Marcel Arceneaux\|Marcel Arceneaux]])
 
 CENTRO
-- [[Facciones y grupos/Partidos Políticos/Partido Reformista Megalés\|Partido Reformista Megalés]] ([[Personas/Humanos y otros/Arminio Cresto\|Arminio Cresto]], [[Personas/Humanos y otros/Arthur Casale\|Arthur Casale]])
+- [[Facciones y grupos/Partidos Políticos/Partido Reformista Megalés\|Partido Reformista Megalés]] ([[Personas/Civiles/Arminio Cresto\|Arminio Cresto]], [[Personas/Civiles/Arthur Casale\|Arthur Casale]])
 
 IZQUIERDA
-- [[Facciones y grupos/Partidos Políticos/Partido Socialista Megalés\|Partido Socialista Megalés]] ([[Personas/Humanos y otros/Étienne Vailancourt\|Étienne Vailancourt]], [[Personas/Humanos y otros/Simone Zanca\|Simone Zanca]], [[Personas/Humanos y otros/Ferrán Moliner\|Ferrán Moliner]])
+- [[Facciones y grupos/Partidos Políticos/Partido Socialista Megalés\|Partido Socialista Megalés]] ([[Personas/Civiles/Étienne Vailancourt\|Étienne Vailancourt]], [[Personas/Civiles/Simone Zanca\|Simone Zanca]], [[Personas/Civiles/Ferrán Moliner\|Ferrán Moliner]])
 
 EXTREMA IZQUIERDA
 - [[Facciones y grupos/Partidos Políticos/Pour Nous\|Pour Nous]]

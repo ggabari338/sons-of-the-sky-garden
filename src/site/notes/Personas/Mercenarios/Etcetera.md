@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/personas/mercenarios/etcetera/","dg-note-properties":{}}
+---
+
+|            |                                                   |
+| ---------: | ------------------------------------------------- |
+|     Nombre | Desconocido                                       |
+|      Alias | Etcetera                                          |
+|     Origen | Madeleine, 1991                                   |
+| Afiliación | -                                                 |
+|  Ocupación | Mercenario                                        |
+|    Familia | [[Personas/Mercenarios/Terminus\|Terminus]] (pareja), [[Personas/Mercenarios/Akasha\|Akasha]] (hija adoptiva) |
+Marido de [[Personas/Mercenarios/Terminus\|Terminus]] y padre adoptivo de [[Personas/Mercenarios/Akasha\|Akasha]]. Formó parte del [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]] bajo el mando de [[Personas/Vigilantes/Fuera de servicio/Polyhedron\|Polyhedron]], combatió en [[Elementos del mundo/Eventos históricos/Crisis de St. Clair (1992)\|Crisis de St. Clair (1992)]] y en la [[Elementos del mundo/Eventos históricos/Epidemia de Zola (2009)\|Epidemia de Zola (2009)]]. 
+
+Fue contratado por [[Personas/Gobierno/Caravello\|Caravello]] para la defensa del [[Lugares/Fuera de Trinité/Complejo penitenciario de Neuhäusser\|Complejo penitenciario de Neuhäusser]] en 2012.
+

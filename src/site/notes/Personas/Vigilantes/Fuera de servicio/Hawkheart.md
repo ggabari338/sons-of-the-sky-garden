@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/personas/vigilantes/fuera-de-servicio/hawkheart/","dg-note-properties":{}}
+---
+
+Hawkheart fue líder del [[Facciones y grupos/Operativos de Vigilantes/Operativo Paradox\|Operativo Paradox]] de Artisans, asesinada por [[Personas/Criminales/Black Attila\|Black Attila]] en 2012. Anteriormente, fue miembro del [[Facciones y grupos/Operativos de Vigilantes/Operativo Hiena\|Operativo Hiena]] y combatió en la [[Elementos del mundo/Eventos históricos/Crisis de St. Clair (1992)\|Crisis de St. Clair (1992)]].
+
+

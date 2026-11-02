@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/personas/vigilantes/fuera-de-servicio/vindicatus/","dg-note-properties":{}}
+---
+
+Fue un vigilante especialista en artes marciales y combate cerrado que lieró el [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]] desde su fundación en 1985 y falleció en la [[Elementos del mundo/Eventos históricos/Crisis de St. Clair (1992)\|Crisis de St. Clair (1992)]].
+
