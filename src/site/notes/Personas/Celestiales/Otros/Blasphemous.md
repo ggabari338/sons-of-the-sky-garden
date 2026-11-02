@@ -10,5 +10,6 @@
 | Afiliación | [[Facciones y grupos/otros grupos/Círculo del Museo arqueológico\|Círculo del Museo arqueológico]] |
 |  Ocupación | Bibliotecario e investigador       |
 |    Familia | -                                  |
-Blasphemous es un gato celestial con una inteligencia desmedida, y la capacidad de sentir el pasado de los objetos y personas al estar en su presencia. En su origen, fue la mascota de [[Personas/Humanos y otros/Jean-François Châteaudun\|Jean-François Châteaudun]].
-Es miembro de los confidentes del sótano del museo arqueológico junto con [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]], [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]] y el [[Personas/Humanos y otros/Comisario Jorge Herrera\|Comisario Jorge Herrera]].
+
+Blasphemous es un celador felino con una inteligencia desmedida, y la capacidad de sentir el pasado de los objetos y personas al estar en su presencia. En su origen, fue la mascota de [[Personas/Humanos y otros/Jean-François Châteaudun\|Jean-François Châteaudun]]. La extensión de sus habilidades no es conocida, y el conocimiento de su existencia está reservado a los confidentes del sótano.
+Es miembro del [[Facciones y grupos/otros grupos/Círculo del Museo arqueológico\|Círculo del Museo arqueológico]] junto con [[Personas/Celestiales/Criminales/Phalanx\|Phalanx]], [[Personas/Celestiales/Vigilantes/Fuera de servicio/Legión\|Legión]] y el [[Personas/Humanos y otros/Comisario Jorge Herrera\|Comisario Jorge Herrera]], todos confidentes de [[Personas/Celestiales/Vigilantes/Fuera de servicio/Stardust\|Stardust]].
