@@ -4,32 +4,23 @@
 
 # **LA VOIX DE TRINITÉ**
 
-**Edición Mensual de Enero 2012** | N.º 18.942 | 2,20 €
+**Edición Mensual de Enero 2012** | N.º 18.974 | 2,20 €
 
-# **LA CRISIS MIGRATORIA NORTEAMERICANA DESTAPA EL CINISMO DE LA PATRONAL LOCAL**
+# **ROSE: LA DIPLOMACIA CELESTIAL VUELVE A LAS MANOS DE LA OLIGARQUÍA**
 
-### Más de cinco millones de desplazados huyen de la tiranía aureocrática mientras el gran capital aprovecha la vulnerabilidad de los refugiados para desmantelar las conquistas laborales
+> El relevo de Cathérine Cordonnier por el líder de la Sociedad del Amanecer ratifica la naturaleza privada del organismo de Gaumont.
 
-Mientras la prensa económica alinea sus editoriales para celebrar la recuperación del dólar, una divisa sostenida por el régimen autoritario en Washington tras la anexión de territorios en Canadá, Cuba y México, las consecuencias humanas del conflicto norteamericano siguen golpeando las fronteras y los centros de producción de Megalia. Más de cinco millones de personas han abandonado el territorio estadounidense en los últimos tres meses, huyendo de la represión y del colapso de las libertades civiles.
+El traspaso de poderes en la Ciudadela de Gaumont ha confirmado el retorno de Andrew Lawrence Rose al cargo de Octavo Árbitro de la Comisión de Seguridad Pan-Ciudadana (CSPC). Con este nombramiento, sumado a la designación de Thaddeus Lyndon en la Secretaría General, el órgano encargado de supervisar la normativa celestial a escala internacional vuelve a quedar bajo el control directo de la Sociedad del Amanecer.
 
-Sin embargo, el tratamiento de esta crisis por parte del gobierno y la patronal megalesa dista de ser una respuesta humanitaria. La administración portuaria de Trinité está convirtiendo la desesperación de los desplazados en un instrumento de presión salarial.
+La salida de Cathérine Cordonnier marca el fin de un periodo de fricción entre la burocracia policial tradicional y las grandes fortunas privadas. Aunque la gestión de Cordonnier se caracterizó por la dureza en la aplicación de las leyes extraordinarias, su reticencia a subordinar el aparato estatal a las redes de influencia de Gaumont terminó por distanciarla de los bloques económicos dominantes.
 
-En las instalaciones portuarias, el Sindicato Único de Trabajadores ha constatado la contratación irregular de refugiados norteamericanos en condiciones que vulneran los convenios colectivos vigentes. Esta práctica no solo explota la necesidad extrema de las familias migrantes, sino que busca fracturar la unidad de las huelgas convocadas por los estibadores locales.
+Desde esta redacción sostenemos que la regulación de la convivencia y la seguridad no debe depender de un organismo opaco controlado por la diplomacia del gran capital. La gestión de los asuntos celestiales exige la apertura de cauces de fiscalización democrática bajo el control de las asambleas ciudadanas.
 
-## ARC-EN-CIEL: LA BANDA 'FEUX BLEUS' BUSCA CONSOLIDAR SU CONTROL TERRITORIAL
+## CARAVELLO DESPLIEGA LOS AUTÓMATAS DE VORTEX EN LOS BARRIOS POPULARES
 
-> La tregua entre facciones armadas no responde a un proceso de pacificación, sino a una reorganización del crimen en ausencia del Estado.
+> La oleada de crímenes contra celestiales sirve de justificación para acelerar la militarización de la periferia.
 
-El cese de los enfrentamientos en el distrito de Arc-En-Ciel no ha devuelto la tranquilidad a los vecinos. La movilización de la organización Feux Bleus bajo el pretexto de «restablecer el orden» constituye un intento de asumir la autoridad de facto en el sector, desplazando a otros grupos mediante la coerción.
+La proliferación de asesinatos no aclarados de ciudadanos celestiales ha generado un clima de inseguridad que las autoridades policiales están canalizando hacia la expansión del aparato represivo. La Coronel Caravello, al frente de los Comandos de Contención, ha anunciado el despliegue de unidades automatizadas AM-3 de la megacorporación Vortex para la custodia de las arterias periféricas.
 
-La retirada progresiva de los servicios públicos y de la policía ordinaria de los barrios populares ha dejado un vacío que las redes criminales pretenden ocupar. Frente a esta situación, diversas organizaciones de barrio y sindicatos de base han comenzado a estructurar comités de autodefensa y solidaridad vecinal para evitar que la población quede a merced de las disputas por el control del territorio.
-
-## CORDONNIER SE RESISTE A CEDER: EL BLANQUEO DE LA DERECHA PATRICIA FRENTE AL DESCALABRO DE LA EXTREMA DERECHA
-
-> Los sondeos electorales perfilan la restauración de la Sociedad del Amanecer: Andrew Rose en el Arbitraje y Thaddeus Lyndon camino a la Secretaría General. 
-
-Según las últimas encuestas de intención de voto para las elecciones generales de Megalia, la Alianza Republicana Institucional (ARI) se sitúa a la cabeza de las preferencias electorales, preparando el terreno para asegurar tanto el Arbitraje internacional como la Secretaría General de la Comisión de Seguridad Pan-Ciudadana (CSPC). 
-
-El auge demoscópico de la ARI se nutre directamente del agotamiento del Frente de Soberanía Ciudadana (FSC). Tras el mandato represivo y desgastado de Cathérine Cordonnier y la sombra imborrable de la retirada de Lorenz Ritter en St. Clair en el 92, los sectores más reaccionarios y temerosos de la burguesía abandonan el militarismo tosco del FSC para refugiarse en el "humanismo" de salón de la ARI.
-
- 
+Existen elementos para señalar que la estrategia de la Citadelle combina el despliegue de tecnología militar con acuerdos no oficiales con grupos delictivos locales, a los que se extorsiona a cambio de margen de maniobra. La militarización del espacio urbano no busca erradicar la delincuencia de raíz, sino contenerla en los márgenes de la ciudad sin alterar los beneficios del complejo industrial de seguridad.
+.

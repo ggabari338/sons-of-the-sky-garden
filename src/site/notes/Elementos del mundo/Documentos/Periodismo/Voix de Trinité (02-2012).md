@@ -4,22 +4,22 @@
 
 # **LA VOIX DE TRINITÉ**
 
-**Edición Mensual de Febrero 2012** | N.º 18.974 | 2,20 €
+**Edición Mensual de Febrero 2012** | N.º 19.005 | 2,20 €
 
-# **ROSE: LA DIPLOMACIA CELESTIAL VUELVE A LAS MANOS DE LA OLIGARQUÍA**
+# **20 AÑOS DEL DESASTRE DE ST. CLAIR: UNA MANCHA DE SANGRE QUE NADIE QUIERE LIMPIAR**
 
-> El relevo de Cathérine Cordonnier por el líder de la Sociedad del Amanecer ratifica la naturaleza privada del organismo de Gaumont.
+### Dos décadas después de la cobarde retirada de 1992, más de 4.000 personas han muerto en la periferia bajo el silencio complaciente de las autoridades.
 
-El traspaso de poderes en la Ciudadela de Gaumont ha confirmado el retorno de Andrew Lawrence Rose al cargo de Octavo Árbitro de la Comisión de Seguridad Pan-Ciudadana (CSPC). Con este nombramiento, sumado a la designación de Thaddeus Lyndon en la Secretaría General, el órgano encargado de supervisar la normativa celestial a escala internacional vuelve a quedar bajo el control directo de la Sociedad del Amanecer.
+Se cumplen veinte años de la Caída de St. Clair, la mayor muestra de incompetencia estatal en la historia de Megalia. En marzo de 1992, ante la invasión de los Indeseables, el entonces Árbitro Lorenz Ritter improvisó una respuesta militar que convirtió la ciudad en un matadero: envió a 96 vigilantes y a miles de policías y soldados de extracción obrera a un combate desigual. Tras casi cuatro meses de caos táctico y más de 8.700 bajas totales (entre ellas cerca de 7.000 civiles), la CSPC decretó la retirada el 6 de julio, abandonando St. Clair y declarando una "Zona de Exclusión" que entregó la ciudad a las criaturas.
 
-La salida de Cathérine Cordonnier marca el fin de un periodo de fricción entre la burocracia policial tradicional y las grandes fortunas privadas. Aunque la gestión de Cordonnier se caracterizó por la dureza en la aplicación de las leyes extraordinarias, su reticencia a subordinar el aparato estatal a las redes de influencia de Gaumont terminó por distanciarla de los bloques económicos dominantes.
+Durante dos décadas, las élites han vendido el cuento de la "contención". Es una mentira criminal: más de 4.000 trabajadores y familias de la periferia han muerto desde 1992 debido a las continuas brechas de los limites del área supervisada y a la falta de mantenimiento en las alarmas. Estas 4.000 víctimas no existen para las recepciones diplomáticas de la Ciudadela de Gaumont, son el precio que la burguesía hace pagar a los barrios populares por su negligencia histórica.
 
-Desde esta redacción sostenemos que la regulación de la convivencia y la seguridad no debe depender de un organismo opaco controlado por la diplomacia del gran capital. La gestión de los asuntos celestiales exige la apertura de cauces de fiscalización democrática bajo el control de las asambleas ciudadanas.
+El retorno de Andrew Rose al frente de la CSPC pone sobre la mesa la gran pregunta: ¿Tendrá la valentía de enfrentar esta mancha de 4.000 cadáveres o seguirá ignorando la tragedia? Resulta irónico que su antecesora, Cathérine Cordonnier, pese a su cercanía con Caravello, quien recordemos combatió en St. Clair como la vigilante Viper, tampoco se atreviera a limpiar el desastre que dejó su antecesor, Ritter, durante su mandato. Si Rose pretende gobernar solo para proteger las inversiones de las multinacionales en Trinité mientras los barrios periféricos siguen desangrándose, encontrará la firme oposición del pueblo organizado. ¡St. Clair no se olvida!
 
-## CARAVELLO DESPLIEGA LOS AUTÓMATAS DE VORTEX EN LOS BARRIOS POPULARES
+## EL INCIDENTE EN AUMED VITALICS REVELA LOS ENTRESIJOS DE LA EMPRESA BIOTECNOLÓGICA
 
-> La oleada de crímenes contra celestiales sirve de justificación para acelerar la militarización de la periferia.
+> El asalto en Bellevue vincula a exvigilantes supuestamente fallecidos con programas clandestinos de Aumed Vitalics.
 
-La proliferación de asesinatos no aclarados de ciudadanos celestiales ha generado un clima de inseguridad que las autoridades policiales están canalizando hacia la expansión del aparato represivo. La Coronel Caravello, al frente de los Comandos de Contención, ha anunciado el despliegue de unidades automatizadas AM-3 de la megacorporación Vortex para la custodia de las arterias periféricas.
+El reciente asalto a las instalaciones de la firma biotecnológica Aumed Vitalics en Bellevue, conectado por los peritos con el ataque previo al Instituto Arcadia, ha dejado al descubierto una sección subterránea de las instalaciones de dudosa ocupación. Aumed Vitalics, que forjó su reputación comercial en los años noventa prometiendo avances no logrados en la supervivencia de madres gestantes de celestiales, se encuentra hoy en el centro de una seria polémica de bioseguridad.
 
-Existen elementos para señalar que la estrategia de la Citadelle combina el despliegue de tecnología militar con acuerdos no oficiales con grupos delictivos locales, a los que se extorsiona a cambio de margen de maniobra. La militarización del espacio urbano no busca erradicar la delincuencia de raíz, sino contenerla en los márgenes de la ciudad sin alterar los beneficios del complejo industrial de seguridad.
+Informes vinculados a la investigación indican que las identidades de los sospechosos corresponden a exvigilantes asignados a la Operación Paradox, quienes figuraban oficialmente en los registros como muertos en servicio desde principios de año, pero que podrían haber sido recluidos en una supuesta sección subterránea no declarada de la instalaciones de Aumed Vitalics.

@@ -6,32 +6,30 @@
 
 _Desde 1863 — Le Grand Quotidien de Mégalie
 
-**Edición Mensual: Febrero de 2012** | N.º 52.484 | 3,50 €
+**Edición Mensual: Febrero de 2012** | N.º 52.515 | 3,50 €
 
-# **ANDREW ROSE LANZA SU SEGUNDO MANDATO AL FRENTE DE LA CSPC**
+# **27 CELESTIALES MUERTOS O DESAPARECIDOS** Y CARAVELLO AÚN NO TIENE UN SOSPECHOSO
 
-### El veterano estadista toma el relevo de Cathérine Cordonnier en la Ciudadela de Gaumont. Thaddeus Lyndon ocupará la Secretaría General.
+> La Coronel Caravello apela al orden institucional y afirma que los Comandos de Contención mantienen la situación «bajo control».
 
-En un acto de solemnidad celebrado a final de mes en el Gran Hall de la Ciudadela de Gaumont, Andrew Lawrence Rose prestó juramento como Octavo Árbitro de la Comisión de Seguridad Pan-Ciudadana (CSPC). Rose, figura tutelar de la política internacional y líder de la Sociedad del Amanecer, inicia así su segundo mandato al frente del organismo regulador global, treinta y cinco años después de haber sido investido como su primer Árbitro en el histórico ejercicio de 1977.
+La Jefatura Superior de la Policía Megalesa ha intensificado los patrullajes especiales en los distritos periféricos tras el hallazgo de tres nuevos cadáveres pertenecientes a individuos con registro celestial en las últimas setenta y dos horas. Con estos decesos, se eleva a una cifra alarmante el número de asesinatos selectivos perpetrados mediante patrones de ejecución profesional sin autoría conocida.
 
-El traspaso de poderes con su inveterada rival política, *Cathérine Cordonnier*, quien concluye un mandato de cuatro años marcado por el distanciamiento doctrinario y la reforma estructural de las fuerzas de seguridad, se desarrolló bajo un clima de rigurosa cortesía constitucional. Cordonnier, figura central del Frente de Soberanía Ciudadana, cede la dirección de la diplomacia coeleste en un momento de extremada volatilidad geopolítica.
+En una comparecencia de prensa ofrecida en la Citadelle, la Coronel Tarquinia Clara Caravello, Jefa de los Comandos de Contención, salió al paso de los rumores que apuntan a una falla en los protocolos de inteligencia militar:
 
-Durante su discurso de investidura, Rose subrayó la vigencia del marco de competencia de la CSPC frente a las renovadas injerencias de la Organización de las Naciones Unidas:
+>   «Nos enfrentamos a una dinámica criminal atípica y altamente sofisticada. 
+>    La situación en las calles de Trinité es grave, pero se encuentra 
+>    estrictamente bajo el control de las fuerzas del orden. No toleraremos 
+>    ninguna alteración del orden público.»
+>    — Coronel Caravello, Comandante en jefe de los Comandos de Contención
 
-> _"La estabilidad del orden civil no se negocia en asambleas multilaterales desprovistas de criterios técnicos. La soberanía de la CSPC, garantizada por el consenso soberano de las naciones europeas, seguirá siendo el único dique firme para la preservación del Manifiesto de Convivencia Extraordinario."_
+## URBAN EXPRESS ENFRENTA UNA NUEVA FASE JUDICIAL EN MEDIO DE UNA EXTREMA COMPLEXIDAD PROCESAL
 
-Fuentes diplomáticas confirman que Thaddeus Lyndon asumirá la Secretaría General del organismo, consolidando una línea ejecutiva caracterizada por la ortodoxia jurídica, la firmeza procesal y el pragmatismo en la supervisión de las capacidades sobrehumanas a escala global.
+> La Fiscalía admite las dificultades técnicas para demostrar la supuesta responsabilidad penal en la red logística del gigante de la distribución.
 
-## VINCULAN EL ATAQUE AL CENTRO AUMED VITALICS CON LA INCURSIÓN EN EL INSTITUTO ARCADIA
+El juzgado de lo Mercantil de Trinité acogió ayer la vista preliminar en la causa abierta contra el gigante del comercio electrónico y la paquetería automatizada, **Urban Express**. La multinacional Megalesa, investigada desde hace meses por la presunta utilización de sus rutas de distribución urgente para el tránsito de mercancías no declaradas y la supuesta infiltración de redes de contrabando en sus hubs automatizados, ha vuelto a defender la absoluta integridad de su sistema operativo.
 
-> Los presuntos autores materiales figuran en los archivos oficiales como exvigilantes fallecidos durante la Operación Paradox.
+## IRÁN RESISTE LA PRESIÓN DE LA CSPC PARA LA EXTRADICIÓN DE LOS 31 CELESTIALES CONDENADOS
 
-El grave incidente de seguridad registrado a principios de enero en la sede del Centro Aumed Vitalics, ubicado en el distrito de Bellevue, ha dado un vuelco inesperado tras las primeras pesquisas periciales. Los informes sugieren una conexión directa entre este asalto y la incursión armada sufrida semanas atrás por el Instituto Arcadia.
+> Thadeus Lyndon aterriza en Teherán apenas tres semanas después de empezar su segundo mandato como Secretario General de la Comisión.
 
-La mayor conmoción en los círculos del Ministerio del Interior radica en la filiación de los sospechosos: según fuentes judiciales de toda credibilidad, la identidad de los atacantes podría corresponder con la de un grupo de exvigilantes encuadrados a finales del pasado año en el Operativo Paradox. Dichos individuos figuraban oficialmente como fallecidos a principios del mes.
-
-## EL DÓLAR ESTADOUNIDENSE MUESTRA SIGNOS DE RECUPERACIÓN TRAS EL COLAPSO CIVIL
-
-> La divisa norteamericana cotiza a 14,80 dólares por euro. Continúa la presión migratoria con más de cinco millones de desplazados.
-
-El mercado de divisas de la Plaza Financiera de Trinité registró en la sesión de ayer una moderada revalorización del dólar estadounidense (1 EUR = 14,80 USD), alejándose progresivamente de los mínimos históricos anotados durante los picos de hiperinflación de la reciente guerra civil (2007–2011). La paulatina consolidación del régimen de la Nueva Aureocracia en Washington ha devuelto cierta previsibilidad a las transacciones comerciales, si bien la moneda se encuentra aún lejos de sus paridades históricas del siglo XX.
+Los 31 ciudadanos celestiales detenidos en Irán siguen en prisión pese a las denuncias por violación de derechos humanos emitidas por la CSPC. El líder supremo iraní resiste la orden de extradición emitida por Rose, según la cual, los supuestos criminales celestiales deben juzgarse en territorio Megalés y por un tribunal de la CSPC. Los condenados, todos ellos civiles, no cuentan con un historial criminal registrado por la Comisión, y el nuevo gabinete de Gaumont duda de la veracidad de las acusaciones emitidas por Teherán. Antes de su viaje, Lyndon defendió que "se trata de un nuevo caso de intolerancia que no quedará sin castigo."
