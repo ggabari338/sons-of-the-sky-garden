@@ -2,8 +2,15 @@
 {"dg-publish":true,"permalink":"/personas/civiles/norah-rose/","dg-note-properties":{}}
 ---
 
-![IMG_3309.png\|250](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3309.png)
-Eleonora Rose, 1992 (20)
+
+| ![IMG_3309.png\|231](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3309.png) |                           |
+| ---------------------: | ------------------------- |
+|                 Nombre | Eleonora Rose             |
+|                  Alias | Norah, la Virtuosa        |
+|                 Origen | St. Clair, 2012           |
+|             Afiliación | [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]] |
+|              Ocupación | ninguna                   |
+|                Familia | [[Personas/Gobierno/Andrew Rose\|Andrew Rose]] (padre)   |
 
 Norah es la hija biológica de [[Personas/Gobierno/Andrew Rose\|Andrew Rose]], criada en Londres por su padre y llegada a Trinité en 2008 para estudiar un doble grado de historia y derecho orientado a la CSPC en la [[Lugares/Alcourt/Universidad Bourdieu\|Universidad Bourdieu]].
 #### Las Orfeidas

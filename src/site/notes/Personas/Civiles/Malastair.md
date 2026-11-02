@@ -2,7 +2,15 @@
 {"dg-publish":true,"permalink":"/personas/civiles/malastair/","dg-note-properties":{}}
 ---
 
-![IMG_3315.png\|241](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3315.png)
+
+| ![IMG_3315.png\|216](/img/user/Z.GALER%C3%8DA/Iconos/IMG_3315.png) |                                     |
+| ---------------------: | ----------------------------------- |
+|                 Nombre | Malastair                           |
+|                  Alias | ninguno                             |
+|                 Origen | Origen y edad desconocidos          |
+|             Afiliación | [[Facciones y grupos/Gobierno e Instituciones/Sociedad del Amanecer\|Sociedad del Amanecer]]           |
+|              Ocupación | Regente de la Sociedad del Amanecer |
+|                Familia | -                                   |
 
 Edad Desconocida
 

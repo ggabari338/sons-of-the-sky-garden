@@ -10,6 +10,8 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Civiles/Norah Rose\|Norah Rose]]
+- [[Personas/Civiles/Malastair\|Malastair]]
 - [[Personas/Civiles/Sylvie Hyde\|Sylvie Hyde]]
 - [[Personas/Civiles/Thaddeus Lyndon\|Thaddeus Lyndon]]
 - [[Facciones y grupos/otros grupos/Human Spark\|Human Spark]]
@@ -23,8 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Civiles/Jean-François Châteaudun\|Jean-François Châteaudun]]
 - [[Personas/Otros/Blasphemous\|Blasphemous]]
 - [[Personas/Criminales/Phalanx\|Phalanx]]
-- [[Lugares/Villeneuve/Museo Arqueológico de Trinité\|Museo Arqueológico de Trinité]]
-- [[Elementos del mundo/Documentos/Periodismo/Voix de Trinité (03-Q1-2012)\|Voix de Trinité (03-Q1-2012)]]
 
 { .block-language-dataview}
 
