@@ -11,4 +11,4 @@ Su posible condición de celestial se refuerza con evidencias de intentos de la 
 
 La única persona con la que se mostraba relativamente abierto por su forma de ser fue [[Personas/Celestiales/Criminales/Ariane Ryo\|Ariane Ryo]], con quien convivió en la Academia y presuntamente tuvo un interés romántico, que terminó con un embarazo. Sin embargo, poco antes de que la niña naciera, Iván desapareció sin dejar rastro. La CSPC no tiene ningún registro de avistamiento (C-2) desde el 31 de diciembre de 2011.
 
-Unas horas después, su hija nació, [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]] trucó los papeles y le entregaron a Ariane una niña muerta, quedándose con la verdadera [[Personas/Eviternos/Iris\|Iris]]. Destrozada y sola, Ariane se convirtió en la mujer de piedra que es hoy. 
+Unas horas después, su hija nació, [[Facciones y grupos/Empresas Privadas/Aumed Vitalics\|Aumed Vitalics]] trucó los papeles y le entregaron a Ariane una niña muerta, quedándose con la verdadera [[Personas/Eviternos/Iris Ryo\|Iris Ryo]]. Destrozada y sola, Ariane se convirtió en la mujer de piedra que es hoy. 

@@ -8,7 +8,7 @@
 |                 Nombre | Jean-Luc Benech                    |
 |                  Alias | Phalanx                            |
 |                 Origen | Trinité, 1949                      |
-|             Afiliación | [[Facciones y grupos/otros grupos/Círculo del Museo arqueológico\|Círculo del Museo arqueológico]] |
+|             Afiliación | [[Facciones y grupos/otros grupos/Círculo del Museo Arqueológico\|Círculo del Museo Arqueológico]] |
 |              Ocupación | Vigilante (Irregular)              |
 |                Familia | -                                  |
 
