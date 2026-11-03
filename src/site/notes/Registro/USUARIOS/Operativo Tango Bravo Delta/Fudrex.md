@@ -16,3 +16,4 @@ Uno de sus rasgos más distintivos es su ojo derecho, dotado de una visión mejo
 
 Conectado con [[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]] y [[Registro/USUARIOS/Operativo Tango Bravo Delta/Vero Lacetti\|Vero Lacetti]]
 
+CREDENCIAL ACTIVA: **C-1B**

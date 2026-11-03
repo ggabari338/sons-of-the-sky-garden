@@ -10,6 +10,10 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Vero Lacetti\|Vero Lacetti]]
+- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
+- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
+- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Fudrex\|Fudrex]]
 - [[Personas/Civiles/Norah Rose\|Norah Rose]]
 - [[Personas/Civiles/Malastair\|Malastair]]
 - [[Personas/Civiles/Sylvie Hyde\|Sylvie Hyde]]
@@ -21,10 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
 - [[Personas/Criminales/Ariane Ryo\|Ariane Ryo]]
 - [[Elementos del mundo/Documentos/Archivos/Partida de Nacimiento y Defunción de Iris Ryo\|Partida de Nacimiento y Defunción de Iris Ryo]]
-- [[Facciones y grupos/otros grupos/Círculo del Museo Arqueológico\|Círculo del Museo Arqueológico]]
-- [[Personas/Civiles/Jean-François Châteaudun\|Jean-François Châteaudun]]
-- [[Personas/Otros/Blasphemous\|Blasphemous]]
-- [[Personas/Criminales/Phalanx\|Phalanx]]
 
 { .block-language-dataview}
 

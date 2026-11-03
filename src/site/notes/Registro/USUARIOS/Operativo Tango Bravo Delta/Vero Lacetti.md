@@ -21,3 +21,5 @@ Ya libre, sin rumbo claro, Vero regresó a su antigua casa, solo para encontrarl
 Desde entonces, Vero se ha ganado la vida como mercenario, aceptando solo trabajos menores... hasta que, un día, recibió una inesperada llamada de los [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]]. Querían que se uniera a un equipo de vigilantes.
 
 Conectado con [[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]] y [[Registro/USUARIOS/Operativo Tango Bravo Delta/Fudrex\|Fudrex]]
+
+CREDENCIAL ACTIVA: **C-1B**

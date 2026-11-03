@@ -31,3 +31,4 @@ En 2012, Nuna recibió una carta del cuartel de vigilantes de Trinité. Nada má
 
 Conectado con [[Registro/USUARIOS/Operativo Tango Bravo Delta/Vero Lacetti\|Vero Lacetti]] y [[Registro/USUARIOS/Operativo Tango Bravo Delta/Fudrex\|Fudrex]]
 
+CREDENCIAL ACTIVA: **C-2A**
