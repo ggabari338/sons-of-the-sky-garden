@@ -6,3 +6,6 @@ Csatár Kristóf Kovács era ya uno de los lugartenientes más influyentes de la
 Entre mediados de los 90 y principios de los 2000, Csatár se centró en establecer su dominio en diversos distritos del sur de la ciudad, enfrentándose a otras facciones criminales emergentes como [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]], [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]] o Los [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]. Más en adelante, su expansión al oeste de la ciudad le llevó a hacer frente a la [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]], La [[Facciones y grupos/Mundo Criminal/Hermandad del Pez Plateado\|Hermandad del Pez Plateado]] y los [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]]. 
 Csatár fue asesinado en 2011, y su imperio se desmoronó casi al completo, a excepción de dos fragmentos controlados por [[Personas/Criminales/Krishan El Impuro\|Krishan El Impuro]] y [[Personas/Criminales/Ariane Ryo\|Ariane Ryo]] respectivamente, ambos en Kunst.
 
+## Datos Estratégicos
+**CREDENCIAL C-2** 
+La investigación de la CSPC llevada a cabo tras la muerte de Csatár no llegó a buen puerto, aunque todo indicaba hacia un asesinato interno, posiblemente orquestado gracias al apoyo rival de la [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]].

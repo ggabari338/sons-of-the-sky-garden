@@ -68,3 +68,9 @@ Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciu
 - [[Personas/Vigilantes/Activos/Manor\|Manor]]
 
 *25 de los 43 vigilantes que estuvieron presentes han sido confirmados, pero muchos archivos siguen clasificados.*
+
+
+## Datos Estratégicos
+**CREDENCIAL: C-2**
+Informes de los análisis demográficos y de la climatología única de St. Clair tras el incidente. La población de indeseables estimada en 1992 era de 970, pero ascendió a 1300 según el censo de 1993 y llegó a 2150 criaturas en el año 2005. Este crecimiento poblacional no fue informado a los medios dada la pasividad de las criaturas y su permanencia en el perímetro de seguridad, pero es el motivo de los numerosos refuerzos presupuestarios a los operativos de vigilantes, comandos de contención y el ejército.
+El asunto de la cúpula de oclusión de St. Clair ha sido estudiado por los expertos del [[Lugares/Alcourt/Instituto Arcadia\|Instituto Arcadia]] y de la [[Lugares/Alcourt/Universidad Bourdieu\|Universidad Bourdieu]], con la conclusión de que se trata de un efecto climatológico adverso y de naturaleza semi-permanente. Esta "Bóveda de Nyx" según la bautizaron los expertos, es posiblemente un fenómeno de origen celestial manifestado por la presencia de una o varias entidades catalizadoras en la ciudad. Esta gran sombra impide la visibilidad exterior de la ciudad y según imágenes tomadas por los róveres enviados en 2003, oscurece la ciudad de forma similar a la medianoche del viejo mundo. Desde el exterior, St. Clair parece estar siempre cubierto por nubarrones oscuros.

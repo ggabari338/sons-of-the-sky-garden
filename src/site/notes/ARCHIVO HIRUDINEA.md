@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Vero Lacetti\|Vero Lacetti]]
-- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Nuna Anderson\|Nuna Anderson]]
-- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
-- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Fudrex\|Fudrex]]
-- [[Personas/Civiles/Norah Rose\|Norah Rose]]
-- [[Personas/Civiles/Malastair\|Malastair]]
-- [[Personas/Civiles/Sylvie Hyde\|Sylvie Hyde]]
-- [[Personas/Civiles/Thaddeus Lyndon\|Thaddeus Lyndon]]
-- [[Facciones y grupos/otros grupos/Human Spark\|Human Spark]]
-- [[Personas/Civiles/Iris Ryo\|Iris Ryo]]
-- [[Registro/CRONOLOGÍA\|CRONOLOGÍA]]
-- [[Personas/Otros/Iván Vasilievich\|Iván Vasilievich]]
-- [[Personas/Vigilantes/Fuera de servicio/Crescent\|Crescent]]
-- [[Personas/Criminales/Ariane Ryo\|Ariane Ryo]]
-- [[Elementos del mundo/Documentos/Archivos/Partida de Nacimiento y Defunción de Iris Ryo\|Partida de Nacimiento y Defunción de Iris Ryo]]
+- [[Personas/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]]
+- [[Personas/Criminales/Tatiana Romano\|Tatiana Romano]]
+- [[Facciones y grupos/Mundo Criminal/Cumbre del Asunto\|Cumbre del Asunto]]
+- [[Facciones y grupos/Mundo Criminal/Familia Visconti\|Familia Visconti]]
+- [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
+- [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
+- [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]]
+- [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]]
+- [[Facciones y grupos/Mundo Criminal/Hermandad del Pez Plateado\|Hermandad del Pez Plateado]]
+- [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]]
+- [[Personas/Criminales/Fernandino Romano (hijo)\|Fernandino Romano (hijo)]]
+- [[Personas/Criminales/Alma Visconti\|Alma Visconti]]
+- [[Personas/Criminales/Elisabetta Romano\|Elisabetta Romano]]
+- [[Personas/Criminales/Fernandino Romano (padre)\|Fernandino Romano (padre)]]
+- [[Personas/Criminales/Ignazio Visconti\|Ignazio Visconti]]
 
 { .block-language-dataview}
 

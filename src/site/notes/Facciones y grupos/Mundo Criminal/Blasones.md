@@ -6,8 +6,12 @@ Una banda callejera de habla hispana que opera principalmente en el barrio Petit
 
 El líder, un hombre de raíces nobles españolas, el Conde Helios Santana, es un hombre de casi 85 años con más del 70% de su cuerpo reemplazado por órganos mecánicos. Se le describe como adicto a la información, y este es el principal producto que los Blasones sirven a sus clientes: secretos. Santana mantiene una relación cordial con [[Personas/Civiles/Joël Sérra\|Joël Sérra]], que valora su visión transhumanista e incluso le regaló un cuerpo biónico personalizado por su 80 cumpleaños.
 
+## Datos Estratégicos
+**CREDENCIAL C-2** 
+**Bases conocidas:** [[Lugares/Petite Espagne/Hotel Galeón\|Hotel Galeón]], [[Lugares/Petite Espagne/Petite Espagne\|Petite Espagne]]
+**Aliados:** [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]], [[Facciones y grupos/Mundo Criminal/Familia Visconti\|Familia Visconti]]
+**Rivales:** [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]], [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]], [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
+**Miembros activos:** 300-350
 - Líder: [[Personas/Criminales/Conde Helios Santana\|Conde Helios Santana]]
-- Otros personajes: [[Personas/Criminales/Enzo Duque\|Enzo Duque]]
-- Centro de Poder: 
-- Territorios: [[Lugares/Petite Espagne/Petite Espagne\|Petite Espagne]]
+- Otros miembros: [[Personas/Criminales/Enzo Duque\|Enzo Duque]]
 

@@ -7,8 +7,12 @@ La banda de los Ángeles de Kunst fue fundada por un grupo de artistas marciales
 ### Guerra contra Kovács (2006-2007)
 Durante los años 2000, los ángeles de Kunst hicieron frente a un hombre que acumulaba mucho poder en los distritos del sur de la ciudad, y que recientemente había decidido expandirse al este de la ciudad, el célebre [[Personas/Criminales/Csatár Kovács\|Csatár Kovács]]. Para aquel entonces, los Ángeles de Kunst habían empezado a institucionalizarse a través de gimnasios y academias repartidas por el distrito, y los enfrentamientos callejeros se agravaron. Cuando fueron un incordio demasiado grande, Csatár les hizo la guerra directa, llevándoles al borde de la extinción. Al derrotarlos, les ofreció la reconstrucción de su banda, como la nueva [[Facciones y grupos/Mundo Criminal/Academia Kovács\|Academia Kovács]], con [[Personas/Criminales/Black Attila\|Black Attila]] como gran maestro. 
 
-- Líderes: [[Personas/Criminales/Ariane Ryo\|Ariane Ryo]]
-- Otros personajes: [[Personas/Criminales/Black Attila\|Black Attila]], [[Personas/Criminales/Luka Strauss\|Luka Strauss]], [[Personas/Criminales/Jessica Niel\|Jessica Niel]], [[Personas/Criminales/Krishan El Impuro\|Krishan El Impuro]]
-- Centro de Poder: Academia Kovacs
-- Territorios: Kunst
+## Datos Estratégicos
+**CREDENCIAL C-2** 
+**Bases conocidas:** [[Facciones y grupos/Mundo Criminal/Academia Kovács\|Academia Kovács]], Barrio de Laurens, Kunst.
+**Aliados:** [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]]
+**Rivales:** [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]], [[Facciones y grupos/Mundo Criminal/Los Emisarios\|Los Emisarios]]
+**Miembros activos:** 300-500
+- Líder: [[Personas/Criminales/Ariane Ryo\|Ariane Ryo]]
+- Otros miembros: [[Personas/Criminales/Black Attila\|Black Attila]], [[Personas/Criminales/Luka Strauss\|Luka Strauss]], [[Personas/Criminales/Jessica Niel\|Jessica Niel]], [[Personas/Criminales/Krishan El Impuro\|Krishan El Impuro]]
 
