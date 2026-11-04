@@ -10,11 +10,11 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Facciones y grupos/Mundo Criminal/Cumbre del Asunto\|Cumbre del Asunto]]
 - [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]]
 - [[Elementos del mundo/Conceptos del mundo/Autómatas AM-2\|Autómatas AM-2]]
 - [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]]
 - [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
-- [[Facciones y grupos/Mundo Criminal/Cumbre del Asunto\|Cumbre del Asunto]]
 - [[Registro/USUARIOS/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
 - [[Registro/USUARIOS/Operativo Tango Bravo Delta/Fudrex\|Fudrex]]
 - [[Personas/Criminales/Finn Brauer\|Finn Brauer]]
