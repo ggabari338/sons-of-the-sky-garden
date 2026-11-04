@@ -17,7 +17,6 @@ Las principales facciones involucradas y sus líderes son:
 - [[Personas/Criminales/Krishan El Impuro\|Krishan El Impuro]], como portavoz conciliador y cabeza de la cumbre
 - La oportuna banda líder de Arc-en-ciel en caso de que lleve cierto tiempo en el poder
 
-
 ## Datos Estratégicos
 **CREDENCIAL C-2** 
 

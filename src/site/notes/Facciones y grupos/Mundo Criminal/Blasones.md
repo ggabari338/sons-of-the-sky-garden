@@ -11,7 +11,7 @@ El líder, un hombre de raíces nobles españolas, el Conde Helios Santana, es u
 **Bases conocidas:** [[Lugares/Petite Espagne/Hotel Galeón\|Hotel Galeón]], [[Lugares/Petite Espagne/Petite Espagne\|Petite Espagne]]
 **Aliados:** [[Facciones y grupos/Empresas Privadas/Vortex Technologies\|Vortex Technologies]], [[Facciones y grupos/Mundo Criminal/Familia Visconti\|Familia Visconti]]
 **Rivales:** [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]], [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]], [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
-**Miembros activos:** 900-1150
+**Miembros activos:** 900-1150 (de los cuales, alredeor de 500 tienen modificaciones biomecánicas)
 - Líder: [[Personas/Criminales/Conde Helios Santana\|Conde Helios Santana]]
 - Otros miembros: [[Personas/Criminales/Enzo Duque\|Enzo Duque]]
 

@@ -8,4 +8,6 @@ En algún punto de su pasado, formó parte de un operativo de vigilantes junto c
 
 Tiempo después, cuando ya se sabía que su adicción a las perlas le había perjudicado mucho y ese era el motivo de que ya no hiciera más apariciones públicas, se le planteó la idea de que el autómata que tanto había promocionado había acabado siendo más exitoso que él como boxeador. Motivado por demostrar su valía, Hugh se enfrentó a uno de estos autómatas en directo, y fue derrotado. Jamás volvió a aparecer en la televisión.
 
+Después, pasó al menos 2 años hibernando en [[Lugares/Arc-en-ciel/Zola\|Zola]].
+
 CREDENCIAL ACTIVA: **C-2B**

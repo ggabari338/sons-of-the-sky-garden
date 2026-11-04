@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]]
+- [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
+- [[Facciones y grupos/Mundo Criminal/Cumbre del Asunto\|Cumbre del Asunto]]
+- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
+- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Fudrex\|Fudrex]]
+- [[Personas/Criminales/Finn Brauer\|Finn Brauer]]
+- [[Facciones y grupos/Mundo Criminal/Los Emisarios\|Los Emisarios]]
 - [[Facciones y grupos/Mundo Criminal/Familia Visconti\|Familia Visconti]]
 - [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]]
 - [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]]
 - [[Facciones y grupos/Mundo Criminal/Hermandad del Pez Plateado\|Hermandad del Pez Plateado]]
 - [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
-- [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
 - [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]]
-- [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]]
 - [[Personas/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]]
 - [[Personas/Criminales/Tatiana Romano\|Tatiana Romano]]
-- [[Facciones y grupos/Mundo Criminal/Cumbre del Asunto\|Cumbre del Asunto]]
-- [[Personas/Criminales/Fernandino Romano (hijo)\|Fernandino Romano (hijo)]]
-- [[Personas/Criminales/Alma Visconti\|Alma Visconti]]
-- [[Personas/Criminales/Elisabetta Romano\|Elisabetta Romano]]
-- [[Personas/Criminales/Fernandino Romano (padre)\|Fernandino Romano (padre)]]
 
 { .block-language-dataview}
 
