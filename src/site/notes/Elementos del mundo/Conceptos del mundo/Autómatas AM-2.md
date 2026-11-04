@@ -11,4 +11,4 @@ Los AM-2 siguen en servicio en 2012, conviviendo con sus sucesores, los [[Elemen
 En Trinité, los principales propietarios de unidades AM-2 son:
 - La [[Facciones y grupos/Gobierno e Instituciones/Policía Megalesa\|Policía Megalesa]], como parte de los operativos de los [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]] - alrededor de 90 unidades.
 - El Ejército de Tierra de Megalia, unas 400 unidades.
-- [[Facciones y grupos/Empresas Privadas/Grupo Carrel\|Grupo Carrel]], emplea cerca de 50 unidades por motivos de seguridad.
+- [[Facciones y grupos/Empresas Privadas/Grupo Carrel\|Grupo Carrel]], emplea cerca de 50 unidades en servicios de seguridad.

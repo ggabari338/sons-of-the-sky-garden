@@ -8,7 +8,7 @@ La serie de Autómatas Multidisciplinares de tercera generación de [[Facciones 
 En Trinité, los principales propietarios de unidades AM-3 son:
 - La [[Facciones y grupos/Gobierno e Instituciones/Policía Megalesa\|Policía Megalesa]], como parte de los operativos de los [[Facciones y grupos/Gobierno e Instituciones/Comandos de Contención\|Comandos de Contención]] - alrededor de 150 unidades AM-3P.
 - El Ejército de Tierra de Megalia, unas 100 unidades de AM-3P.
-- [[Facciones y grupos/Empresas Privadas/Grupo Carrel\|Grupo Carrel]], emplea dos docenas de unidades AM-3P y 1 AM-3B, por motivos de seguridad.
+- [[Facciones y grupos/Empresas Privadas/Grupo Carrel\|Grupo Carrel]], emplea 24 de unidades AM-3P y 1 AM-3B, en servicios de seguridad.
 ## Variantes y especificaciones
 **CREDENCIAL: C-2**
 - **AM-3P**: El modelo generalista, adaptable y eficiente. Coste unitario aproximado: 170.000 euros.
