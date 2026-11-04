@@ -9,6 +9,6 @@ La Tríada es como se conoce vulgarmente a la mafia de origen chino asentada en 
 **Bases conocidas:** -
 **Aliados:** [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]], [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]]
 **Rivales:** [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]], [[Facciones y grupos/Empresas Privadas/Grupo Carrel\|Grupo Carrel]], [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
-**Miembros activos:** 600-1000
+**Miembros activos:** 4000-5000
 - Líder:  [[Personas/Criminales/Meng Jinchi\|Meng Jinchi]]
 

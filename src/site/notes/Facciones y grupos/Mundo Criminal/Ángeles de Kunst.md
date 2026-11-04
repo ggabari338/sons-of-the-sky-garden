@@ -12,7 +12,7 @@ Durante los años 2000, los ángeles de Kunst hicieron frente a un hombre que ac
 **Bases conocidas:** [[Facciones y grupos/Mundo Criminal/Academia Kovács\|Academia Kovács]], Barrio de Laurens, Kunst.
 **Aliados:** [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]]
 **Rivales:** [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]], [[Facciones y grupos/Mundo Criminal/Los Emisarios\|Los Emisarios]]
-**Miembros activos:** 300-500
+**Miembros activos:** 700-1200
 - Líder: [[Personas/Criminales/Ariane Ryo\|Ariane Ryo]]
 - Otros miembros: [[Personas/Criminales/Black Attila\|Black Attila]], [[Personas/Criminales/Luka Strauss\|Luka Strauss]], [[Personas/Criminales/Jessica Niel\|Jessica Niel]], [[Personas/Criminales/Krishan El Impuro\|Krishan El Impuro]]
 

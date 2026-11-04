@@ -11,5 +11,5 @@ Desde la caída de los herederos, Simonova Essena, veterana de la Ligne Rouge, s
 **Bases conocidas:** Villa de los Herederos, Carcasonne, [[Lugares/Lescroix/Lescroix\|Lescroix]].
 **Aliados:** [[Facciones y grupos/Mundo Criminal/Los Emisarios\|Los Emisarios]], [[Facciones y grupos/Mundo Criminal/Familia Visconti\|Familia Visconti]]
 **Rivales:** [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]], [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]]
-**Miembros activos:** 600-1000
+**Miembros activos:** 2500-3000
 - Líder: [[Personas/Criminales/Simonova Essena\|Simonova Essena]]

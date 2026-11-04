@@ -12,7 +12,7 @@ Ese prolongado y despiadado asedio judicial terminó de pudrir cualquier lazo de
 **Bases conocidas:** Villa de los Visconti
 **Aliados:** [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]], [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]]
 **Rivales:** [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]], [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]], [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
-**Miembros activos:** 700-800
+**Miembros activos:** 2000-2500
 - Líderes: hermanos [[Personas/Criminales/Alma Visconti\|Alma Visconti]], [[Personas/Criminales/Saverio Visconti\|Saverio Visconti]] y [[Personas/Criminales/Ignazio Visconti\|Ignazio Visconti]], comparten el poder
 - Otros miembros: 
 

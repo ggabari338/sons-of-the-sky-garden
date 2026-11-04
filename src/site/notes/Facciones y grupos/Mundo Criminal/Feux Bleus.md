@@ -10,7 +10,7 @@ Una banda formada que fue fundada en los años 80 por jóvenes indignados ante l
 **Bases conocidas:** Conseil des Grands, [[Lugares/Cité Bleue/Limbo\|Limbo]], [[Lugares/Cité Bleue/Sala Vautour\|Sala Vautour]]
 **Aliados:** [[Facciones y grupos/Mundo Criminal/Hermandad del Pez Plateado\|Hermandad del Pez Plateado]]
 **Rivales:** [[Facciones y grupos/Mundo Criminal/Clan Fauvel\|Clan Fauvel]], [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
-**Miembros activos:** 700-800
+**Miembros activos:** 4000-6000
 - Líderes: Consejo de los Grandes, [[Personas/Criminales/Clovis L'Arlequin\|Clovis L'Arlequin]] (representante de la nueva generación), [[Personas/Criminales/Mr. Alabaster\|Mr. Alabaster]] (representante del viejo orden)
 
 

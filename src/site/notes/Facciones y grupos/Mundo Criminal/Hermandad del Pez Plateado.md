@@ -9,7 +9,7 @@ La hermandad del pez plateado es reputada por su extenso conocimiento de escondi
 **Bases conocidas:** [[Lugares/Bellevue/Cueva del Pez plateado\|Cueva del Pez plateado]]
 **Aliados:** [[Facciones y grupos/Mundo Criminal/Clan Fauvel\|Clan Fauvel]]
 **Rivales:** 
-**Miembros activos:** 500-800
+**Miembros activos:** 300-500
 - Líder: [[Personas/Criminales/Laurie Lys\|Laurie Lys]]
 - Otros miembros: X
 
