@@ -10,6 +10,8 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Criminales/Tatiana Romano\|Tatiana Romano]]
+- [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]]
 - [[Facciones y grupos/Mundo Criminal/Cumbre del Asunto\|Cumbre del Asunto]]
 - [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]]
 - [[Elementos del mundo/Conceptos del mundo/Autómatas AM-2\|Autómatas AM-2]]
@@ -23,8 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]]
 - [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]]
 - [[Facciones y grupos/Mundo Criminal/Hermandad del Pez Plateado\|Hermandad del Pez Plateado]]
-- [[Facciones y grupos/Mundo Criminal/Feux Bleus\|Feux Bleus]]
-- [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]]
 
 { .block-language-dataview}
 

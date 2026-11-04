@@ -11,5 +11,5 @@ La boda de [[Personas/Criminales/Saverio Visconti\|Saverio Visconti]] y [[Person
 **Rivales:** [[Facciones y grupos/Mundo Criminal/Familia Visconti\|Familia Visconti]], [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
 **Miembros activos:** 1700-2000
 - Líder: [[Personas/Criminales/Fernandino Romano (padre)\|Fernandino Romano (padre)]] y [[Personas/Criminales/Elisabetta Romano\|Elisabetta Romano]]
-- Otros miembros: [[Personas/Criminales/Fernandino Romano (hijo)\|Fernandino Romano (hijo)]]
+- Otros miembros: [[Personas/Criminales/Fernandino Romano (hijo)\|Fernandino Romano (hijo)]], [[Personas/Criminales/Tatiana Romano\|Tatiana Romano]]
 
