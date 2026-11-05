@@ -10,6 +10,7 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Lugares/Fuera de Trinité/Elsora\|Elsora]]
 - [[PANEL DE SUPERVISIÓN DEL OPERATIVO\|PANEL DE SUPERVISIÓN DEL OPERATIVO]]
 - [[Personas/Gobierno/CSPC/Burton Asset\|Burton Asset]]
 - [[Personas/Vigilantes/Activos/Plague\|Plague]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Criminales/Tatiana Romano\|Tatiana Romano]]
 - [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]]
 - [[Facciones y grupos/Mundo Criminal/Cumbre del Asunto\|Cumbre del Asunto]]
-- [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]]
 
 { .block-language-dataview}
 
