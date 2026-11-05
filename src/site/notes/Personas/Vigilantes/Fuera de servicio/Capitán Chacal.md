@@ -4,5 +4,5 @@
 
 El capitán chacal fue un vigilante al servicio del gobierno que operó en el distrito [[Lugares/Gothique/Gothique\|Gothique]] hasta su muerte en 2011 a manos de [[Personas/Criminales/Black Attila\|Black Attila]]. Fue el capitán del [[Facciones y grupos/Operativos de Vigilantes/Operativo Hiena\|Operativo Hiena]] y combatió en la [[Elementos del mundo/Eventos históricos/Crisis de St. Clair (1992)\|Crisis de St. Clair (1992)]]. Entre sus habilidades figuraban los sentidos agudizados (olfato, oído y vista perfectas), visión nocturna, visión de calor, así como velocidad y fuerza sobrehumanas.
 
-Durante su tiempo en el Operativo Hiena, formó una relación de Mentor con [[Personas/Gobierno/Caravello\|Caravello]], que en ese momento era una vigilante novata conocida como "Viper".
+Durante su tiempo en el Operativo Hiena, formó una relación de Mentor con [[Personas/Gobierno/Policía Megalesa/Caravello\|Caravello]], que en ese momento era una vigilante novata conocida como "Viper".
 

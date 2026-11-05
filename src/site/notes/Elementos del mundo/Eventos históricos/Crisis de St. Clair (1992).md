@@ -40,7 +40,7 @@ Tras la retirada, St. Clair fue declarada Zona de Exclusión Permanente y la ciu
 **Operativo Hiena**
 - [[Personas/Vigilantes/Fuera de servicio/Capitán Chacal\|Capitán Chacal]] - *oficial al mando*
 - [[Personas/Vigilantes/Fuera de servicio/Ágata\|Ágata]] (caída en combate)
-- Viper ([[Personas/Gobierno/Caravello\|Caravello]])
+- Viper ([[Personas/Gobierno/Policía Megalesa/Caravello\|Caravello]])
 - [[Personas/Vigilantes/Fuera de servicio/Hawkheart\|Hawkheart]]
 - [[Personas/Vigilantes/Fuera de servicio/Absolution\|Absolution]] (caído en combate)
 

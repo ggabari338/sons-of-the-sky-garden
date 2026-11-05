@@ -14,10 +14,10 @@ Aunque se han confirmado las posiciones en la escala de algunos individuos, la m
 	- **Magnitud 1+:** 3.400 individuos
 	- **Magnitud 2+:** 3.500 individuos
 	- **Magnitud 3+:** 2.200 individuos
-	- **Magnitud 4+:** 400 individuos, entre ellos [[Personas/Criminales/Phalanx\|Phalanx]], [[Personas/Criminales/Zealot\|Zealot]]
-	- **Magnitud 5+:** 180 individuos, entre ellos [[Personas/Vigilantes/Activos/Ultratumba\|Ultratumba]], [[Personas/Vigilantes/Activos/Fable\|Fable]], [[Personas/Vigilantes/Activos/Fuego Fatuo\|Fuego Fatuo]], [[Personas/Vigilantes/Activos/Plague\|Plague]]
-	- **Magnitud 6+:** 70 individuos, entre ellos [[Personas/Vigilantes/Activos/Ironside\|Ironside]], [[Personas/Criminales/Black Attila\|Black Attila]], [[Personas/Civiles/Malastair\|Malastair]]
+	- **Magnitud 4+:** 440 individuos, entre ellos [[Personas/Criminales/Phalanx\|Phalanx]], [[Personas/Criminales/Zealot\|Zealot]], [[Personas/Criminales/Ariane Ryo\|Ariane Ryo]], [[Personas/Vigilantes/Fuera de servicio/Permafrost\|Permafrost]], [[Personas/Vigilantes/Fuera de servicio/Dragonborn\|Dragonborn]]
+	- **Magnitud 5+:** 180 individuos, entre ellos [[Personas/Criminales/Black Attila\|Black Attila]], [[Personas/Vigilantes/Activos/Fuego Fatuo\|Fuego Fatuo]], [[Personas/Vigilantes/Activos/Plague\|Plague]], [[Personas/Vigilantes/Activos/Ironside\|Ironside]]
+	- **Magnitud 6+:** 30 individuos, entre ellos  [[Personas/Civiles/Malastair\|Malastair]] , [[Personas/Vigilantes/Activos/Fable\|Fable]], [[Personas/Vigilantes/Activos/Manor\|Manor]], 
 	- **Magnitud 7+:** 20 individuos, entre ellos [[Personas/Vigilantes/Fuera de servicio/Stardust\|Stardust]], [[Personas/Eviternos/Marais\|Marais]]
-	- **Magnitud 8+:** tan solo [[Personas/Vigilantes/Fuera de servicio/Legión\|Legión]], [[Personas/Gobierno/Centinela\|Centinela]] y [[Personas/Criminales/Mind Thief\|Mind Thief]]
+	- **Magnitud 8+:** [[Personas/Vigilantes/Fuera de servicio/Legión\|Legión]], [[Personas/Gobierno/Otros/Centinela\|Centinela]] y [[Personas/Criminales/Mind Thief\|Mind Thief]]
 
 

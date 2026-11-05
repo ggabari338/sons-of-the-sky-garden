@@ -4,5 +4,5 @@
 
 Crossroads Tattoo es un local de tatuajes y tienda de ropa ciberpunk. Situada en [[Lugares/Port des Arts/Port des Arts\|Port des Arts]], se especializa en ropa de baile llamativa, a menudo con colores fluorescentes y componentes electrónicos como luces intermitentes. También se especializa en accesorios para raves, como barras luminosas y otros artículos fluorescentes.
 
-Propietarios: [[Personas/Vigilantes/Activos/Gridlock\|Gridlock]] y [[Personas/Gobierno/Isidora Nasca\|Isidora Nasca]]
+Propietarios: [[Personas/Vigilantes/Activos/Gridlock\|Gridlock]] y [[Personas/Gobierno/CSPC/Isidora Nasca\|Isidora Nasca]]
 

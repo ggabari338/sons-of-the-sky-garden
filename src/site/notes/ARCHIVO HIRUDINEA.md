@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[PANEL DE SUPERVISIÓN DEL OPERATIVO\|PANEL DE SUPERVISIÓN DEL OPERATIVO]]
+- [[Personas/Gobierno/CSPC/Burton Asset\|Burton Asset]]
+- [[Personas/Vigilantes/Activos/Plague\|Plague]]
+- [[Personas/Gobierno/CSPC/Amélie Vailancourt\|Amélie Vailancourt]]
+- [[Personas/Gobierno/CSPC/Isidora Nasca\|Isidora Nasca]]
+- [[Personas/Gobierno/CSPC/Anton Feys\|Anton Feys]]
+- [[Personas/Gobierno/CSPC/Luc Cissé\|Luc Cissé]]
+- [[Personas/Gobierno/CSPC/Anna Moreau\|Anna Moreau]]
+- [[Personas/Gobierno/CSPC/Félix Millet\|Félix Millet]]
+- [[Personas/Gobierno/CSPC/Sarah Davies\|Sarah Davies]]
+- [[Elementos del mundo/Sociedad/Escala Lyndon\|Escala Lyndon]]
 - [[Personas/Criminales/Tatiana Romano\|Tatiana Romano]]
 - [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]]
 - [[Facciones y grupos/Mundo Criminal/Cumbre del Asunto\|Cumbre del Asunto]]
 - [[Elementos del mundo/Conceptos del mundo/Autómatas AM-3\|Autómatas AM-3]]
-- [[Elementos del mundo/Conceptos del mundo/Autómatas AM-2\|Autómatas AM-2]]
-- [[Facciones y grupos/Mundo Criminal/Ángeles de Kunst\|Ángeles de Kunst]]
-- [[Facciones y grupos/Mundo Criminal/Blasones\|Blasones]]
-- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Hugh Hands\|Hugh Hands]]
-- [[Registro/USUARIOS/Operativo Tango Bravo Delta/Fudrex\|Fudrex]]
-- [[Personas/Criminales/Finn Brauer\|Finn Brauer]]
-- [[Facciones y grupos/Mundo Criminal/Los Emisarios\|Los Emisarios]]
-- [[Facciones y grupos/Mundo Criminal/Familia Visconti\|Familia Visconti]]
-- [[Facciones y grupos/Mundo Criminal/Tríada Tuo-Jing\|Tríada Tuo-Jing]]
-- [[Facciones y grupos/Mundo Criminal/Koskaya Bratva\|Koskaya Bratva]]
-- [[Facciones y grupos/Mundo Criminal/Hermandad del Pez Plateado\|Hermandad del Pez Plateado]]
 
 { .block-language-dataview}
 

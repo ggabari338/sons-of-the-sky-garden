@@ -8,7 +8,7 @@
 |                 Nombre | Iris Ryo                                                            |
 |                  Alias | ninguno                                                             |
 |                 Origen | Trinité, 2012                                                       |
-|             Afiliación | [[Facciones y grupos/otros grupos/Círculo del Museo Arqueológico\|Círculo del Museo Arqueológico]], [[Operativo Tango Bravo Delta\|Operativo Tango Bravo Delta]] |
+|             Afiliación | [[Facciones y grupos/otros grupos/Círculo del Museo Arqueológico\|Círculo del Museo Arqueológico]], [[Facciones y grupos/Operativos de Vigilantes/Operativo Tango Bravo Delta\|Operativo Tango Bravo Delta]] |
 |              Ocupación | ninguna                                                             |
 |                Familia | [[Personas/Criminales/Ariane Ryo\|Ariane Ryo]] (madre), [[Personas/Otros/Iván Vasilievich\|Iván Vasilievich]] (padre)                |
 Iris es una niña celestial de origen dudoso. Su nacimiento, el 3 de enero de 2012, es el único registrado desde finales de 1994. Por este motivo, cuando Ariane Ryo dió a luz en el [[Lugares/La Rose/Hospital Central de Aumed Vitalics\|Hospital Central de Aumed Vitalics]], Thomas Chapelle ([[Personas/Vigilantes/Fuera de servicio/Crescent\|Crescent]]) ordenó la redacción de la [[Elementos del mundo/Documentos/Archivos/Partida de Nacimiento y Defunción de Iris Ryo\|Partida de Nacimiento y Defunción de Iris Ryo]] y entregó el cadáver de otra niña a la madre. 

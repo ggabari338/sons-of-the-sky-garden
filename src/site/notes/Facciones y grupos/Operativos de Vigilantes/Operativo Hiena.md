@@ -5,7 +5,7 @@
 Fue un escuadrón de vigilantes gubernamental que operó desde 1988 hasta 1992. Participó tanto en la [[Elementos del mundo/Eventos históricos/Crisis de St. Clair (1992)\|Crisis de St. Clair (1992)]]. Sus integrantes fueron:
 
 - [[Personas/Vigilantes/Fuera de servicio/Ágata\|Ágata]] (1990-1992, caída en st. Clair)
-- Viper ([[Personas/Gobierno/Caravello\|Caravello]]) (1988-1992)
+- Viper ([[Personas/Gobierno/Policía Megalesa/Caravello\|Caravello]]) (1988-1992)
 - [[Personas/Vigilantes/Fuera de servicio/Hawkheart\|Hawkheart]] (1988-1992)
 - [[Personas/Vigilantes/Fuera de servicio/Capitán Chacal\|Capitán Chacal]] (líder, 1988-1992)
 - [[Personas/Vigilantes/Fuera de servicio/Absolution\|Absolution]] (1988-1992, caído en st. Clair)

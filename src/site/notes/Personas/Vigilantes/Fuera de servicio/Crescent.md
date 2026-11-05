@@ -18,7 +18,7 @@ Mientras estudiaba medicina, empezó su carrera como vigilante bajo el apodo de 
 En 1999, entró oficialmente en Aumed Vitalics y dejó a trás su vida de vigilante, para dirigir el nuevo [[Lugares/La Rose/Hospital Central de Aumed Vitalics\|Hospital Central de Aumed Vitalics]]. El centro prosperó rápidamente, convirtiéndose en uno de los principales centros de investigación en medicina celestial del planeta, un campo que se había visto estancado durante años. 
 
 ### Secreto: Celestiales sintéticos
-Detrás de la fachada pública, Chapelle dirigía una operación con el apoyo de la [[Personas/Gobierno/Caravello\|Caravello]] conocida como [[Elementos del mundo/Conceptos del mundo/Deus Project\|Deus Project]]. El objetivo de esta operación era replicar las capacidades sobrehumanas de los celestiales a través de la manipulación de su sangre con el fin de crear una raza de celestiales sintéticos al servicio del ejército. 
+Detrás de la fachada pública, Chapelle dirigía una operación con el apoyo de la [[Personas/Gobierno/Policía Megalesa/Caravello\|Caravello]] conocida como [[Elementos del mundo/Conceptos del mundo/Deus Project\|Deus Project]]. El objetivo de esta operación era replicar las capacidades sobrehumanas de los celestiales a través de la manipulación de su sangre con el fin de crear una raza de celestiales sintéticos al servicio del ejército. 
 
 El dominio de la hematomancia hizo de Crescent el candidato perfecto para dirigir estos experimentos, y en 2012, Crescent estaba muy cerca de producir los primeros resultados. A pesar de la naturaleza moralmente dudosa de su trabajo, Crescent nunca dudó de su implicación, y siempre alegó que los descubrimientos que hacía podrían cambiar el curso de la humanidad, incluso salvarla.
 ### Secreto: Iris
