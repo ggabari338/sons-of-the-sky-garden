@@ -9,7 +9,7 @@
 - Primarios: [[Lugares/Étoile/Étoile\|Étoile]], [[Lugares/Petite Espagne/Petite Espagne\|Petite Espagne]], [[Lugares/Arc-en-ciel/Arc-en-ciel\|Arc-en-ciel]]
 ## Presupuesto
 Cada mes, se asigan 20 Tokens presupuestarios que representan la capacidad económica del operativo.
-- PRESUPUESTO RESTANTE (MARZO): **14 Tokens**
+- PRESUPUESTO RESTANTE (MARZO): **11 Tokens**
 
 ## Panel de Reclutamiento
 #### Agentes-Escuderos adicionales
@@ -21,6 +21,7 @@ Cada mes, se asigan 20 Tokens presupuestarios que representan la capacidad econ�
  - Norah: sin mucho papeleo, es civil, 1 token
  - Shadow Citizen: ex vigilante, aunque tiene antecedentes, 2 tokens
  - Cortex: Antecedentes graves pero relativamente manejable, 2 tokens
+ - Lucky Six: antecedentes, manejable, 2 Tokens
  - Iris: complicado por temas de que oficialmente está muerta, pero no es horrible, 2 tokens
  - Malamuerte: antecedentes gordos, 2 tokens
  - Akasha: ex-vigilante, antecedentes, 2 tokens
@@ -50,6 +51,9 @@ Lista de los módulos y sistemas que se podrían instalar sin realizar obra. Tod
 - Sala de Técnicos (más opciones mecánicas, mejora y disponibilidad de materiales) - 2 Tokens
 #### Infraestructura: Expansión
 Lista de los módulos y sistemas que requieren de la obra para construirse. La obra cuesta 3 Tokens y tarda 2 semanas.
+
+ 	*La Obra concluye su construcción el 30 de Marzo*
+
 - **Oficinas de Criminalística**: Estación de análisis balístico, procesado rápido de ADN y análisis de rasgos celestiales. Facilita pistas forenses inmediatas en escenas del crimen sin depender de la Policía Megalesa - 2 Tokens.
 - **Oficinas de Inteligencia**: instalación de terminales avanzadas, interceptar comunicaciones, plantar dispositivos de escucha, usar cámaras generalistas, acceso avanzado por solicitud a bases de datos de la CSPC - 3 Tokens
 - **Departamento de Infiltración**: Habilita una célula de **3 agentes encubiertos** asignables a facciones rivales o criminales. Introducir a cada agente en una organización requiere gasto adicional de 1 token al hacerse. - 3 Tokens

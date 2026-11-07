@@ -10,8 +10,8 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Lugares/Fuera de Trinité/Elsora\|Elsora]]
 - [[PANEL DE SUPERVISIÓN DEL OPERATIVO\|PANEL DE SUPERVISIÓN DEL OPERATIVO]]
+- [[Lugares/Fuera de Trinité/Elsora\|Elsora]]
 - [[Personas/Gobierno/CSPC/Burton Asset\|Burton Asset]]
 - [[Personas/Vigilantes/Activos/Plague\|Plague]]
 - [[Personas/Gobierno/CSPC/Amélie Vailancourt\|Amélie Vailancourt]]
