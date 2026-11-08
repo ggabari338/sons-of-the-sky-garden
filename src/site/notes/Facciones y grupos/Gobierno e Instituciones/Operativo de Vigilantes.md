@@ -15,7 +15,7 @@ Dentro de un escuadrón de vigilantes y durante su formación, se usa un sistema
 	- **C-2A:** Capitán de los vigilantes de 2 estrellas. Se sitúan al frente de un escuadrón de vigilantes y están a la cabeza de las instalaciones y el personal del territorio asignado a su supervisión.
 	- **C-2B:** Vigilante oficial veterano. Los Vigilantes de rango C-1A pueden acceder al C-2B tras al menos 3 años de servicio y la validación del Consejo de la CSPC.
 - **C-3:** Ya sea como vigilantes retirados o como capitanes de escuadrón, los C-3 son los más experimentados, con acceso a registros e instalaciones generales, así como la posibilidad de participar en las reuniones del comité de la CSPC como representantes de los intereses de los vigilantes.
-	- **C-3A:** Capitán Supervisor de 3 estrellas. Este rango pertenece a un único vigilante, situado a la cabeza del operativo líder y encargado de coordinar al resto de operativos a nivel nacional e internacional. Actualmente es ejercido por [[Personas/Vigilantes/Activos/Manor\|Manor]], a la cabeza del [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]].
+	- **C-3A:** Capitán Supervisor de 3 estrellas. Este rango pertenece a un único vigilante por nación, situado a la cabeza del operativo líder y encargado de coordinar al resto de operativos a nivel nacional. En Megalia, es ejercido por [[Personas/Vigilantes/Activos/Manor\|Manor]], a la cabeza del [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]].
 	- **C-3B:** Capitán Vigilante de 3 estrellas. Se sitúan al frente de un escuadrón de vigilantes y están a la cabeza de las instalaciones y el personal del territorio asignado a su supervisión, además de pertenecer al consejo de la CSPC. Sólo los vigilantes cuyas carreras sean excelentes y ejemplares pueden ostentar este puesto.
 	- **C-3C:** Vigilante Oficial de 3 estrellas. A este rango honorario acceden los vigilantes de mayor experiencia que no ejercen como capitanes, pero cuyo servicio ha sido extenso y forman parte del Consejo de la CSPC. Un Vigilante C-3C sólo puede operar bajo el mando de un Capitán C-3B y suele ser su mano derecha.
 
@@ -23,11 +23,13 @@ Dentro de un escuadrón de vigilantes y durante su formación, se usa un sistema
 Escuadrones operativos en [[Lugares/Trinité\|Trinité]], por distrito.
 
 **Activos:**
-- El [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] opera principalmente en los distritos de Citadelle, Villeneuve, Artisans y St. Jêrome.
+- El [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] opera principalmente en los distritos de Citadelle, Villeneuve, Artisans y St. Jêrome, además de movilización a escala nacional.
 - [[Facciones y grupos/Operativos de Vigilantes/Operativo Bastion\|Operativo Bastion]]: operativo de Deux Rois, Gothique y Étoile. Su financiación es mixta (CSPC y Grupo Carrel)
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]]: Bellevue, La Rose, Kunst y Lescroix
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]: Arc-en-ciel, Cité Bleue, Alcourt
-- [[Operativo Caliza\|Operativo Caliza]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Tango Bravo Delta\|Operativo Tango Bravo Delta]]: Petite Espagne, Arc-en-ciel, Étoile
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]]: Bellevue, La Rose, Kunst, Lauriers, periferia noreste de la ciudad
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]: Cité Bleue, Alcourt, periferia noroeste de la ciudad
+- [[Personas/Vigilantes/Operativo Caliza\|Operativo Caliza]]: Monteverde, periferia suroeste de la ciudad
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Romeo\|Operativo Romeo]]: Port des Arts y Lescroix, periferia sureste de la ciudad
 
 **Fuera de Servicio:**
 - El [[Facciones y grupos/Operativos de Vigilantes/Operativo Hiena\|Operativo Hiena]] operó principalmente en áreas de la periferia urbana de Trinité y en cuidades adjuntas como St. Clair

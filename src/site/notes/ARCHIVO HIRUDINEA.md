@@ -10,12 +10,13 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Baal\|Baal]]
-- [[Factor Z\|Factor Z]]
-- [[Operativo Caliza\|Operativo Caliza]]
-- [[Diptongo\|Diptongo]]
-- [[Personas/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Romeo\|Operativo Romeo]]
 - [[Facciones y grupos/Gobierno e Instituciones/Operativo de Vigilantes\|Operativo de Vigilantes]]
+- [[Personas/Vigilantes/Baal\|Baal]]
+- [[Personas/Vigilantes/Factor Z\|Factor Z]]
+- [[Personas/Vigilantes/Operativo Caliza\|Operativo Caliza]]
+- [[Personas/Vigilantes/Diptongo\|Diptongo]]
+- [[Personas/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]]
 - [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]
 - [[PANEL DE SUPERVISIÓN DEL OPERATIVO\|PANEL DE SUPERVISIÓN DEL OPERATIVO]]
 - [[Personas/Criminales/Simonova Essena\|Simonova Essena]]
@@ -24,7 +25,6 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 - [[Personas/Vigilantes/Activos/Plague\|Plague]]
 - [[Personas/Gobierno/CSPC/Amélie Vailancourt\|Amélie Vailancourt]]
 - [[Personas/Gobierno/CSPC/Isidora Nasca\|Isidora Nasca]]
-- [[Personas/Gobierno/CSPC/Anton Feys\|Anton Feys]]
 
 { .block-language-dataview}
 
