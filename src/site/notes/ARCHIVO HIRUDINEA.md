@@ -10,21 +10,21 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
-- [[Personas/Criminales/Simonova Essena\|Simonova Essena]]
+- [[Baal\|Baal]]
+- [[Factor Z\|Factor Z]]
+- [[Operativo Caliza\|Operativo Caliza]]
+- [[Diptongo\|Diptongo]]
+- [[Personas/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]]
+- [[Facciones y grupos/Gobierno e Instituciones/Operativo de Vigilantes\|Operativo de Vigilantes]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]
 - [[PANEL DE SUPERVISIÓN DEL OPERATIVO\|PANEL DE SUPERVISIÓN DEL OPERATIVO]]
+- [[Personas/Criminales/Simonova Essena\|Simonova Essena]]
 - [[Lugares/Fuera de Trinité/Elsora\|Elsora]]
 - [[Personas/Gobierno/CSPC/Burton Asset\|Burton Asset]]
 - [[Personas/Vigilantes/Activos/Plague\|Plague]]
 - [[Personas/Gobierno/CSPC/Amélie Vailancourt\|Amélie Vailancourt]]
 - [[Personas/Gobierno/CSPC/Isidora Nasca\|Isidora Nasca]]
 - [[Personas/Gobierno/CSPC/Anton Feys\|Anton Feys]]
-- [[Personas/Gobierno/CSPC/Luc Cissé\|Luc Cissé]]
-- [[Personas/Gobierno/CSPC/Anna Moreau\|Anna Moreau]]
-- [[Personas/Gobierno/CSPC/Félix Millet\|Félix Millet]]
-- [[Personas/Gobierno/CSPC/Sarah Davies\|Sarah Davies]]
-- [[Elementos del mundo/Sociedad/Escala Lyndon\|Escala Lyndon]]
-- [[Personas/Criminales/Tatiana Romano\|Tatiana Romano]]
-- [[Facciones y grupos/Mundo Criminal/Familia Romano\|Familia Romano]]
 
 { .block-language-dataview}
 

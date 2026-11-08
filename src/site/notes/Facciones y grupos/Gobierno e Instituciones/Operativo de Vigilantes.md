@@ -23,15 +23,18 @@ Dentro de un escuadrón de vigilantes y durante su formación, se usa un sistema
 Escuadrones operativos en [[Lugares/Trinité\|Trinité]], por distrito.
 
 **Activos:**
-- El [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] opera principalmente en los distritos de [[Lugares/Citadelle/Citadelle\|Citadelle]], [[Lugares/Villeneuve/Villeneuve\|Villeneuve]] y [[Lugares/St. Jerôme/St. Jêrome\|St. Jêrome]]
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Bastion\|Operativo Bastion]]: destinado exclusivamente al distrito de [[Lugares/Deux Rois/Deux Rois\|Deux Rois]]. Su financiación es mixta (CSPC y Grupo Carrel)
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]]: Bellevue, La Rose, Kunst y Les Croix
+- El [[Facciones y grupos/Operativos de Vigilantes/Operativo Eclipse\|Operativo Eclipse]] opera principalmente en los distritos de Citadelle, Villeneuve, Artisans y St. Jêrome.
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Bastion\|Operativo Bastion]]: operativo de Deux Rois, Gothique y Étoile. Su financiación es mixta (CSPC y Grupo Carrel)
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Aurora\|Operativo Aurora]]: Bellevue, La Rose, Kunst y Lescroix
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]: Arc-en-ciel, Cité Bleue, Alcourt
+- [[Operativo Caliza\|Operativo Caliza]]
 
 **Fuera de Servicio:**
 - El [[Facciones y grupos/Operativos de Vigilantes/Operativo Hiena\|Operativo Hiena]] operó principalmente en áreas de la periferia urbana de Trinité y en cuidades adjuntas como St. Clair
 - El [[Facciones y grupos/Operativos de Vigilantes/Operativo Paradox\|Operativo Paradox]] operaba principalmente en [[Lugares/Artisans/Artisans\|Artisans]].
 - El [[Facciones y grupos/Operativos de Vigilantes/Operativo Legacy\|Operativo Legacy]] operaba principalmente en [[Lugares/Kunst/Kunst\|Kunst]] y [[Lugares/Lescroix/Lescroix\|Lescroix]]
-- [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Lithium\|Operativo Lithium]]
+- [[Facciones y grupos/Operativos de Vigilantes/Operativo Trounoir\|Operativo Trounoir]]
 
 
 

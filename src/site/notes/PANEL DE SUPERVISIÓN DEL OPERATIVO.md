@@ -11,29 +11,6 @@
 Cada mes, se asigan 20 Tokens presupuestarios que representan la capacidad económica del operativo.
 - PRESUPUESTO RESTANTE (MARZO): **11 Tokens**
 
-## Panel de Reclutamiento
-#### Agentes-Escuderos adicionales
-- Uno especialista en vehículos - 1 Token
-- Un ex-negociador de la CSPC (carisma) - 1 Token
-#### Reclutamiento de Vigilantes
- - Legión: si le puedes convencer, 1 token
- - Phalanx: si le puedes convencer, 1 token
- - Norah: sin mucho papeleo, es civil, 1 token
- - Shadow Citizen: ex vigilante, aunque tiene antecedentes, 2 tokens
- - Cortex: Antecedentes graves pero relativamente manejable, 2 tokens
- - Lucky Six: antecedentes, manejable, 2 Tokens
- - Iris: complicado por temas de que oficialmente está muerta, pero no es horrible, 2 tokens
- - Malamuerte: antecedentes gordos, 2 tokens
- - Akasha: ex-vigilante, antecedentes, 2 tokens
- - Terminus: ex-vigilante, antecedentes, 2 tokens
- - Etcetera: ex-vigilante, antecedentes, 2 tokens
- - Blasphemous: celador pero es cute así que no es super complejo, 2 tokens
- - Nyoka: si puedes convencerla, aunque es celadora, 2 tokens
- - Envo: es un celador de St Clair y da miedo, 3 tokens
- - Claudette: sería la primera humana en ser vigilante, parte de los Blasones, 3 Tokens
- - Zealot: muchísimo papeleo, 4 Tokens
- - Astarté: muchísimo papeleo, 4 Tokens
-
 ## Infraestructura de la Torre
 El [[Facciones y grupos/Operativos de Vigilantes/Operativo Tango Bravo Delta\|Operativo Tango Bravo Delta]] dispone de los pisos superiores de la Torre Casiopea, Étoile. Es de construcción nueva, pero el progreso se detuvo en 2008 y parte de las instalaciones están inacabadas. Los planos existen pero haría falta presupuesto para expandir.
 #### Infraestructura: Construido
@@ -50,11 +27,32 @@ Lista de los módulos y sistemas que se podrían instalar sin realizar obra. Tod
 - **Celdas reforzadas**: Tecnología de los comandos de contención, collares de castigo, blindaje adicional, resistencia elemental. - 2 Tokens
 - Sala de Técnicos (más opciones mecánicas, mejora y disponibilidad de materiales) - 2 Tokens
 #### Infraestructura: Expansión
-Lista de los módulos y sistemas que requieren de la obra para construirse. La obra cuesta 3 Tokens y tarda 2 semanas.
+Lista de los módulos y sistemas que requieren de la obra para construirse. ~~La obra cuesta 3 Tokens y tarda 2 semanas.~~
 
- 	*La Obra concluye su construcción el 30 de Marzo*
+ 	*La obra concluye su construcción el 30 de Marzo*
 
 - **Oficinas de Criminalística**: Estación de análisis balístico, procesado rápido de ADN y análisis de rasgos celestiales. Facilita pistas forenses inmediatas en escenas del crimen sin depender de la Policía Megalesa - 2 Tokens.
 - **Oficinas de Inteligencia**: instalación de terminales avanzadas, interceptar comunicaciones, plantar dispositivos de escucha, usar cámaras generalistas, acceso avanzado por solicitud a bases de datos de la CSPC - 3 Tokens
 - **Departamento de Infiltración**: Habilita una célula de **3 agentes encubiertos** asignables a facciones rivales o criminales. Introducir a cada agente en una organización requiere gasto adicional de 1 token al hacerse. - 3 Tokens
 - **Enfermería Avanzada**: equipamiento quirúrgico y médico de Aumed Vitalics, 5x recuperación bajo umbral. - 3 Tokens
+
+
+## Panel de Reclutamiento
+#### Agentes-Escuderos adicionales
+- Uno especialista en vehículos - 1 Token
+- Un ex-negociador de la CSPC (carisma) - 1 Token
+#### Reclutamiento de Vigilantes
+ - Legión: si le puedes convencer, 1 token
+ - Phalanx: si le puedes convencer, 1 token
+ - Norah: sin mucho papeleo, es civil, 1 token
+ - Lucky Six: antecedentes penales, pruebas de acceso pasadas, 1 Token
+ - Shadow Citizen: ex vigilante, aunque tiene antecedentes, 2 tokens
+ - Cortex: Antecedentes graves pero relativamente manejable, 2 tokens
+ - Iris: complicado por temas de que oficialmente está muerta, pero no es horrible, 2 tokens
+ - Malamuerte: antecedentes serios, 2 tokens
+ - Blasphemous: celador pero es cute así que no es super complejo, 2 tokens
+ - Nyoka: si puedes convencerla, aunque es celadora, 2 tokens
+ - Envo: es un celador de St Clair y da miedo, 3 tokens
+ - Claudette: sería la primera humana en ser vigilante, parte de los Blasones, 3 Tokens
+ - Zealot: muchísimo papeleo, 4 Tokens
+ - Astarté: muchísimo papeleo, 4 Tokens
