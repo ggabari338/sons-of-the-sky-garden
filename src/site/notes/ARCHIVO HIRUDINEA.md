@@ -10,11 +10,11 @@ El Archivo General de la Comisión de Seguridad Pan-Ciudadana es un sistema de a
 
 
 ##### **Documentos actualizados recientemente:**
+- [[Personas/Vigilantes/Abraxas\|Abraxas]]
+- [[Personas/Vigilantes/Operativo Caliza\|Operativo Caliza]]
 - [[Facciones y grupos/Operativos de Vigilantes/Operativo Romeo\|Operativo Romeo]]
 - [[Facciones y grupos/Gobierno e Instituciones/Operativo de Vigilantes\|Operativo de Vigilantes]]
-- [[Personas/Vigilantes/Baal\|Baal]]
 - [[Personas/Vigilantes/Factor Z\|Factor Z]]
-- [[Personas/Vigilantes/Operativo Caliza\|Operativo Caliza]]
 - [[Personas/Vigilantes/Diptongo\|Diptongo]]
 - [[Personas/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]]
 - [[Facciones y grupos/Operativos de Vigilantes/Operativo Reliquia\|Operativo Reliquia]]

@@ -8,5 +8,5 @@ Terminó legalizándose con la llegada de la CSPC. Actualmente, está compuesto 
 **Miembros actuales:**
 - [[Personas/Vigilantes/Fuera de servicio/Labyrinth\|Labyrinth]] (líder y fundadora, 1977-1991)
 - [[Personas/Vigilantes/Diptongo\|Diptongo]] (1977-)
-- [[Personas/Vigilantes/Baal\|Baal]] (1994-)
+- [[Personas/Vigilantes/Abraxas\|Abraxas]] (1994-)
 - [[Personas/Vigilantes/Factor Z\|Factor Z]] (1990-, líder desde 1991)
